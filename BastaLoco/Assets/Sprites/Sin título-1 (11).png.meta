@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: c78571f2f2d8ab54ca401918d08442d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5545501834599330729
+    second: "Sin t\xEDtulo-1 (11)_0"
+  - first:
+      213: -3784206847478269949
+    second: "Sin t\xEDtulo-1 (11)_1"
+  - first:
+      213: 1153000648748478067
+    second: "Sin t\xEDtulo-1 (11)_2"
+  - first:
+      213: 4390920360994198283
+    second: "Sin t\xEDtulo-1 (11)_3"
+  - first:
+      213: -9062420210141457061
+    second: "Sin t\xEDtulo-1 (11)_4"
+  - first:
+      213: 5330041978899708737
+    second: "Sin t\xEDtulo-1 (11)_5"
+  - first:
+      213: -2178456751141648962
+    second: "Sin t\xEDtulo-1 (11)_6"
+  - first:
+      213: 8559748745005690534
+    second: "Sin t\xEDtulo-1 (11)_7"
+  - first:
+      213: -2245016140444882206
+    second: "Sin t\xEDtulo-1 (11)_8"
+  - first:
+      213: -1027682561688709490
+    second: "Sin t\xEDtulo-1 (11)_9"
+  - first:
+      213: 2076359196222763251
+    second: "Sin t\xEDtulo-1 (11)_10"
+  - first:
+      213: 7687188681956172234
+    second: "Sin t\xEDtulo-1 (11)_11"
+  - first:
+      213: -3629712313808854782
+    second: "Sin t\xEDtulo-1 (11)_12"
+  - first:
+      213: -4906855512439391272
+    second: "Sin t\xEDtulo-1 (11)_13"
+  - first:
+      213: 6096794149379697727
+    second: "Sin t\xEDtulo-1 (11)_14"
+  - first:
+      213: -3960844559578778452
+    second: "Sin t\xEDtulo-1 (11)_15"
+  - first:
+      213: 7755050291840254440
+    second: "Sin t\xEDtulo-1 (11)_16"
+  - first:
+      213: 4756254517602554756
+    second: "Sin t\xEDtulo-1 (11)_17"
+  - first:
+      213: -8001852468651040017
+    second: "Sin t\xEDtulo-1 (11)_18"
+  - first:
+      213: -7764475642982816954
+    second: "Sin t\xEDtulo-1 (11)_19"
+  - first:
+      213: 6912894318341790628
+    second: "Sin t\xEDtulo-1 (11)_20"
+  - first:
+      213: -2580032511013215199
+    second: "Sin t\xEDtulo-1 (11)_21"
+  - first:
+      213: 5388990242469457319
+    second: "Sin t\xEDtulo-1 (11)_22"
+  - first:
+      213: -2376284953247286647
+    second: "Sin t\xEDtulo-1 (11)_23"
+  - first:
+      213: -3170302486176797483
+    second: "Sin t\xEDtulo-1 (11)_24"
+  - first:
+      213: -4280432696228452436
+    second: "Sin t\xEDtulo-1 (11)_25"
+  - first:
+      213: -1635064242260967353
+    second: "Sin t\xEDtulo-1 (11)_26"
+  - first:
+      213: -8255143881447726166
+    second: "Sin t\xEDtulo-1 (11)_27"
+  - first:
+      213: -3126428948316533576
+    second: "Sin t\xEDtulo-1 (11)_28"
+  - first:
+      213: 4112449755950720626
+    second: "Sin t\xEDtulo-1 (11)_29"
+  - first:
+      213: -5982967158444222987
+    second: "Sin t\xEDtulo-1 (11)_30"
+  - first:
+      213: 1346286222918238604
+    second: "Sin t\xEDtulo-1 (11)_31"
+  - first:
+      213: -4860821125343660008
+    second: "Sin t\xEDtulo-1 (11)_32"
+  - first:
+      213: 7550617050234619419
+    second: "Sin t\xEDtulo-1 (11)_33"
+  - first:
+      213: -6072314525748202204
+    second: "Sin t\xEDtulo-1 (11)_34"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caminando Perfil
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 116
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98af694dc6db50fd0800000000000000
+      internalID: -2376284953247286647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 (11)_24"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 118
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dce4e09fa2d004d0800000000000000
+      internalID: -3170302486176797483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 (11)_25"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 120
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7e5583429d894c0800000000000000
+      internalID: -4280432696228452436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 (11)_26"
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 119
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740871f0cb51f49e0800000000000000
+      internalID: -1635064242260967353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ed777b3d07d5326469dc42fd4ae8f26b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Caminando Perfil: -2376284953247286647
+      "Sin t\xEDtulo-1 (11)_35": 1439564800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
