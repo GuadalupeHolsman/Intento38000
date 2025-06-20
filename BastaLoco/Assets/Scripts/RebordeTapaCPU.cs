@@ -3,6 +3,7 @@ using UnityEngine;
 public class ActivarReborde : MonoBehaviour
 {
     public GameObject rebordeTapa;
+    public DragTapa dragTapa; // Referencia al script DragTapa
 
     void Start()
     {
@@ -12,6 +13,10 @@ public class ActivarReborde : MonoBehaviour
 
     void MostrarReborde()
     {
-        rebordeTapa.SetActive(true);
+        // Solo mostrar el reborde si todavía no cayó
+        if (dragTapa != null && !dragTapa.YaCayo())
+        {
+            rebordeTapa.SetActive(true);
+        }
     }
 }

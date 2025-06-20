@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class DragTapa : MonoBehaviour
@@ -8,8 +9,11 @@ public class DragTapa : MonoBehaviour
     private Camera cam;
 
     public GameObject rebordeTapaCPU;
-    public GameObject point; // El punto que queremos mostrar
+    public GameObject point;
+
     private bool yaCayo = false;
+    private Vector3 pointOriginalPosition;
+    private Vector3 pointOriginalScale;
 
     void Start()
     {
@@ -18,7 +22,14 @@ public class DragTapa : MonoBehaviour
         cam = Camera.main;
 
         if (point != null)
-            point.SetActive(false); // Ocultamos el point al inicio
+        {
+            pointOriginalPosition = point.transform.position;
+            pointOriginalScale = point.transform.localScale;
+            point.SetActive(false);
+        }
+
+        if (rebordeTapaCPU != null)
+            rebordeTapaCPU.SetActive(false);
     }
 
     void Update()
@@ -63,7 +74,8 @@ public class DragTapa : MonoBehaviour
         rb.gravityScale = 0;
         dragging = true;
         offset = transform.position - cam.ScreenToWorldPoint(pointerPosition);
-        if (rebordeTapaCPU != null)
+
+        if (rebordeTapaCPU != null && !yaCayo)
             rebordeTapaCPU.SetActive(false);
     }
 
@@ -77,7 +89,7 @@ public class DragTapa : MonoBehaviour
     void StopDragging()
     {
         dragging = false;
-        rb.gravityScale = 1; // Activa la gravedad al soltar
+        rb.gravityScale = 1;
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -90,16 +102,28 @@ public class DragTapa : MonoBehaviour
 
             if (point != null)
             {
-                Debug.Log("¡Activando Point!");
-                point.SetActive(true);
-                point.transform.position = new Vector3(0, 0, 0); // solo para test
-                point.transform.localScale = Vector3.one;
-                point.GetComponent<SpriteRenderer>().color = Color.white;
+                StartCoroutine(ActivarPointConDelay());
             }
             else
             {
                 Debug.Log("El objeto POINT no está asignado");
             }
         }
+    }
+
+    IEnumerator ActivarPointConDelay()
+    {
+        yield return new WaitForSeconds(2f);
+
+        point.SetActive(true);
+        point.transform.position = pointOriginalPosition;
+        point.transform.localScale = pointOriginalScale;
+        point.GetComponent<SpriteRenderer>().color = Color.white;
+    }
+
+    // 👉 Método público para consultar si ya cayó
+    public bool YaCayo()
+    {
+        return yaCayo;
     }
 }
