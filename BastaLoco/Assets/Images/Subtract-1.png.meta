@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a11aa96db443e014b8ca941636c85e31
+guid: b0f67d53d9c449f41a697f669ce3066a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8071950302599001147
-    second: puertoAux 1_0
+      213: 5156108566381356063
+    second: Subtract-1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: puertoAux 1_0
+      name: Subtract-1_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 4
-        width: 45
-        height: 116
+        x: 9
+        y: 12
+        width: 573
+        height: 597
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5cbcaf087fbaaff80800000000000000
-      internalID: -8071950302599001147
+      spriteID: f1462824c6d2e8740800000000000000
+      internalID: 5156108566381356063
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      puertoAux 1_0: -8071950302599001147
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
