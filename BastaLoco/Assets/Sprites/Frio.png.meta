@@ -1,0 +1,1955 @@
+fileFormatVersion: 2
+guid: f6e548aa4dcd745b48884028ad492826
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2651052013705409447
+    second: Frio_0
+  - first:
+      213: 4821147131392860760
+    second: Frio_1
+  - first:
+      213: 624237447722989375
+    second: Frio_2
+  - first:
+      213: -6345168776674988705
+    second: Frio_3
+  - first:
+      213: 4856616023497144976
+    second: Frio_4
+  - first:
+      213: 1396659817429494391
+    second: Frio_5
+  - first:
+      213: -1684798970745889927
+    second: Frio_6
+  - first:
+      213: -6774505646155567537
+    second: Frio_7
+  - first:
+      213: -5305577953731627384
+    second: Frio_8
+  - first:
+      213: -376223729775090278
+    second: Frio_9
+  - first:
+      213: 8869644207384914663
+    second: Frio_10
+  - first:
+      213: -5171057406427671933
+    second: Frio_11
+  - first:
+      213: 52651895231117031
+    second: Frio_12
+  - first:
+      213: 4992636015901510347
+    second: Frio_13
+  - first:
+      213: -4335858612784352717
+    second: Frio_14
+  - first:
+      213: 3829003814172447368
+    second: Frio_15
+  - first:
+      213: 7564640687817911011
+    second: Frio_16
+  - first:
+      213: 2229983141365148264
+    second: Frio_17
+  - first:
+      213: 1286112116873993355
+    second: Frio_18
+  - first:
+      213: -6469076699671921848
+    second: Frio_19
+  - first:
+      213: 5337219336409470309
+    second: Frio_20
+  - first:
+      213: -1645056163631930542
+    second: Frio_21
+  - first:
+      213: 2952213863058332769
+    second: Frio_22
+  - first:
+      213: 7506157141766468228
+    second: Frio_23
+  - first:
+      213: -8498851578044276052
+    second: Frio_24
+  - first:
+      213: -9121187579000782198
+    second: Frio_25
+  - first:
+      213: 1084369881608714895
+    second: Frio_26
+  - first:
+      213: -4782233473003037419
+    second: Frio_27
+  - first:
+      213: -5658051480256175912
+    second: Frio_28
+  - first:
+      213: -2714687697719843284
+    second: Frio_29
+  - first:
+      213: 7318121978776927627
+    second: Frio_30
+  - first:
+      213: 3691943212673439166
+    second: Frio_31
+  - first:
+      213: -2143151073636866407
+    second: Frio_32
+  - first:
+      213: 8327574580194667591
+    second: Frio_33
+  - first:
+      213: -3992290326781175780
+    second: Frio_34
+  - first:
+      213: 8048962971931772776
+    second: Frio_35
+  - first:
+      213: 2344630505303396629
+    second: Frio_36
+  - first:
+      213: -6827969132063036515
+    second: Frio_37
+  - first:
+      213: 1480965630407662104
+    second: Frio_38
+  - first:
+      213: -8952894680625749386
+    second: Frio_39
+  - first:
+      213: -5313454248855975792
+    second: Frio_40
+  - first:
+      213: -8628023426923218075
+    second: Frio_41
+  - first:
+      213: 2715475903917247319
+    second: Frio_42
+  - first:
+      213: 3367595492120658376
+    second: Frio_43
+  - first:
+      213: 8044277124703585267
+    second: Frio_44
+  - first:
+      213: -2815184409577374941
+    second: Frio_45
+  - first:
+      213: 1437044255926268816
+    second: Frio_46
+  - first:
+      213: 1815420197310658300
+    second: Frio_47
+  - first:
+      213: -1963532060662056831
+    second: Frio_48
+  - first:
+      213: 5643500354903880418
+    second: Frio_49
+  - first:
+      213: 5154832190673052532
+    second: Frio_50
+  - first:
+      213: 6136873565757948382
+    second: Frio_51
+  - first:
+      213: 8880666536806553772
+    second: Frio_52
+  - first:
+      213: -413337674008523231
+    second: Frio_53
+  - first:
+      213: -4856130670479453602
+    second: Frio_54
+  - first:
+      213: -113097156005947272
+    second: Frio_55
+  - first:
+      213: -5286561410498709501
+    second: Frio_56
+  - first:
+      213: -2025746938815262205
+    second: Frio_57
+  - first:
+      213: -3169500934988714536
+    second: Frio_58
+  - first:
+      213: -6659858606825415123
+    second: Frio_59
+  - first:
+      213: -269774456354399628
+    second: Frio_60
+  - first:
+      213: -6056866833354309731
+    second: Frio_61
+  - first:
+      213: 8706001419693103403
+    second: Frio_62
+  - first:
+      213: 1728095096115431464
+    second: Frio_63
+  - first:
+      213: 4184212130267135322
+    second: Frio_64
+  - first:
+      213: 547805203115524450
+    second: Frio_65
+  - first:
+      213: 6305473178682556910
+    second: Frio_66
+  - first:
+      213: 6516881829622175963
+    second: Frio_67
+  - first:
+      213: -747274466944862955
+    second: Frio_68
+  - first:
+      213: -62086802280380254
+    second: Frio_69
+  - first:
+      213: -6770019461504955480
+    second: Frio_70
+  - first:
+      213: 1187525838084384877
+    second: Frio_71
+  - first:
+      213: -7653748381438598214
+    second: Frio_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frio_0
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1565
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3bef5b2cd6ac420800000000000000
+      internalID: 2651052013705409447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_1
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1575
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852a090c5c728e240800000000000000
+      internalID: 4821147131392860760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_2
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1569
+        width: 175
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37760fb6acb9a800800000000000000
+      internalID: 624237447722989375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1374
+        width: 176
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d2362ad9e61f7a0800000000000000
+      internalID: -6345168776674988705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1374
+        width: 176
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a740bba8a266340800000000000000
+      internalID: 4856616023497144976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1374
+        width: 176
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a62f144bee16310800000000000000
+      internalID: 1396659817429494391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_6
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1374
+        width: 176
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b5fb633446e98e0800000000000000
+      internalID: -1684798970745889927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_7
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1374
+        width: 176
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ee408f10f1cf1a0800000000000000
+      internalID: -6774505646155567537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_8
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1374
+        width: 176
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886bea316fcce56b0800000000000000
+      internalID: -5305577953731627384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_9
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1374
+        width: 176
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95eea6d28267caf0800000000000000
+      internalID: -376223729775090278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_10
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1374
+        width: 176
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea6749c96e471b70800000000000000
+      internalID: 8869644207384914663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_11
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1374
+        width: 176
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382d9b0bfa6bc38b0800000000000000
+      internalID: -5171057406427671933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_12
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1374
+        width: 176
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e67008ae9e0bb000800000000000000
+      internalID: 52651895231117031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1169
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca81ac1108694540800000000000000
+      internalID: 4992636015901510347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1169
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332bba4609fe3d3c0800000000000000
+      internalID: -4335858612784352717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_15
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1169
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8825d5b9eaa532530800000000000000
+      internalID: 3829003814172447368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_16
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1169
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea6ada50a00bf860800000000000000
+      internalID: 7564640687817911011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_17
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1169
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86aed242add72fe10800000000000000
+      internalID: 2229983141365148264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_18
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1169
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c999bf72039d110800000000000000
+      internalID: 1286112116873993355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_19
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1169
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b7c4b24093936a0800000000000000
+      internalID: -6469076699671921848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_20
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1169
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565580b65bc911a40800000000000000
+      internalID: 5337219336409470309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_21
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1169
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253e62392269b29e0800000000000000
+      internalID: -1645056163631930542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_22
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 1169
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c5390fdde58f820800000000000000
+      internalID: 2952213863058332769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 968
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482704fa62a3b2860800000000000000
+      internalID: 7506157141766468228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_24
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 968
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca227e3c4830e0a80800000000000000
+      internalID: -8498851578044276052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 968
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8204f719380b6180800000000000000
+      internalID: -9121187579000782198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_26
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 968
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a7b6e79a47c0f00800000000000000
+      internalID: 1084369881608714895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_27
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 968
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ddba06ef712adb0800000000000000
+      internalID: -4782233473003037419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_28
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 968
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0257608209a71b0800000000000000
+      internalID: -5658051480256175912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_29
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 968
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2629450ced735ad0800000000000000
+      internalID: -2714687697719843284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_30
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 968
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d3af7aa213f8560800000000000000
+      internalID: 7318121978776927627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_31
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 968
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5905a8aca6c3330800000000000000
+      internalID: 3691943212673439166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_32
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 968
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996a0e3147ff142e0800000000000000
+      internalID: -2143151073636866407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_33
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 752
+        width: 175
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c631595fc719370800000000000000
+      internalID: 8327574580194667591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_34
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 752
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18daff89198898c0800000000000000
+      internalID: -3992290326781175780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 752
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86704408d29a3bf60800000000000000
+      internalID: 8048962971931772776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_36
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 752
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511572ea50dc98020800000000000000
+      internalID: 2344630505303396629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_37
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 752
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bec02204e2e31a0800000000000000
+      internalID: -6827969132063036515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_38
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 752
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ad205f4627d8410800000000000000
+      internalID: 1480965630407662104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_39
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 752
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67261d1f8bde0c380800000000000000
+      internalID: -8952894680625749386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_40
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 752
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09846a63381d246b0800000000000000
+      internalID: -5313454248855975792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_41
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 752
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b3e7c086a134880800000000000000
+      internalID: -8628023426923218075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_42
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 752
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bce1982fe4fa520800000000000000
+      internalID: 2715475903917247319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_43
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 526
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c10f0ff14a1cbe20800000000000000
+      internalID: 3367595492120658376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 526
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f302ccac6303af60800000000000000
+      internalID: 8044277124703585267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_45
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 526
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b3ce9e1b47ee8d0800000000000000
+      internalID: -2815184409577374941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_46
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 526
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0933001132861f310800000000000000
+      internalID: 1437044255926268816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_47
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 526
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf675ca0d0ba13910800000000000000
+      internalID: 1815420197310658300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_48
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 526
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188b52b7ef120c4e0800000000000000
+      internalID: -1963532060662056831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_49
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 526
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e236d71cadb15e40800000000000000
+      internalID: 5643500354903880418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_50
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 526
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473e0d1e094a98740800000000000000
+      internalID: 5154832190673052532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_51
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 526
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1cc765efd8a2550800000000000000
+      internalID: 6136873565757948382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_52
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 526
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca89d07d9277e3b70800000000000000
+      internalID: 8880666536806553772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 274
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e8f605397834af0800000000000000
+      internalID: -413337674008523231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_54
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 274
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52513352ee8b9cb0800000000000000
+      internalID: -4856130670479453602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_55
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 274
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878982f5cb23e6ef0800000000000000
+      internalID: -113097156005947272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_56
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 274
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308bfe3186c52a6b0800000000000000
+      internalID: -5286561410498709501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_57
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 274
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302d41b54e913e3e0800000000000000
+      internalID: -2025746938815262205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_58
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 274
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddaabe31bba304d0800000000000000
+      internalID: -3169500934988714536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_59
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 274
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ed7dde1ed6393a0800000000000000
+      internalID: -6659858606825415123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_60
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 274
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a958faf81914cf0800000000000000
+      internalID: -269774456354399628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_61
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 274
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f321aa4bfa1fba0800000000000000
+      internalID: -6056866833354309731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_62
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 274
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b299ad23a2ee1d870800000000000000
+      internalID: 8706001419693103403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_63
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 39
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8280e06855d6bf710800000000000000
+      internalID: 1728095096115431464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_64
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 39
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5df37973ce411a30800000000000000
+      internalID: 4184212130267135322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_65
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 39
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261cfc90ee13a9700800000000000000
+      internalID: 547805203115524450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_66
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 39
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1802cb27a818750800000000000000
+      internalID: 6305473178682556910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_67
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 39
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8d3d10f7d907a50800000000000000
+      internalID: 6516881829622175963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_68
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 39
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5153800e4d521a5f0800000000000000
+      internalID: -747274466944862955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_69
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 39
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a886dcd16c632ff0800000000000000
+      internalID: -62086802280380254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_70
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 39
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab048a3b2f0c02a0800000000000000
+      internalID: -6770019461504955480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_71
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 39
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d682e9c3570fa7010800000000000000
+      internalID: 1187525838084384877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio_72
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 39
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3a12cf56c68c590800000000000000
+      internalID: -7653748381438598214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

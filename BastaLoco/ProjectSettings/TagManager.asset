@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 3
   tags:
   - Floor
+  - ram1
+  - ram2
+  - ram3
+  - ram4
+  - ram5
   layers:
   - Default
   - TransparentFX

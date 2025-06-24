@@ -24,6 +24,8 @@ MonoBehaviour:
     m_path: Assets/Scenes/Inicio.unity
   - m_enabled: 1
     m_path: Assets/Scenes/CloseUpPc.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/Ram.unity
   m_ScriptingDefines:
   - 
   m_PlayerSettingsYaml:
@@ -31,6 +33,8 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
     - rid: 7881143414907994177
       type: {class: WindowsPlatformSettings, ns: UnityEditor.WindowsStandalone, asm: UnityEditor.WindowsStandalone.Extensions}
       data:

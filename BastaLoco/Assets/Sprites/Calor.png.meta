@@ -1,0 +1,1955 @@
+fileFormatVersion: 2
+guid: 9f62675c7f4c446ec975d219ea7d084e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1554374549879948025
+    second: Calor_0
+  - first:
+      213: -7281815923939635376
+    second: Calor_1
+  - first:
+      213: -7293245547768373475
+    second: Calor_2
+  - first:
+      213: 3104209658774573234
+    second: Calor_3
+  - first:
+      213: 8378490800981100169
+    second: Calor_4
+  - first:
+      213: 2007851586804791254
+    second: Calor_5
+  - first:
+      213: 9109078146062244056
+    second: Calor_6
+  - first:
+      213: -1610187012241084933
+    second: Calor_7
+  - first:
+      213: 6973153824641453850
+    second: Calor_8
+  - first:
+      213: 5651263597929389664
+    second: Calor_9
+  - first:
+      213: 7130523152819132204
+    second: Calor_10
+  - first:
+      213: 4056646410259417623
+    second: Calor_11
+  - first:
+      213: -4885816402477620062
+    second: Calor_12
+  - first:
+      213: 3263551070829055607
+    second: Calor_13
+  - first:
+      213: -8383555303882101710
+    second: Calor_14
+  - first:
+      213: -8353979654293625141
+    second: Calor_15
+  - first:
+      213: -8221556063809761654
+    second: Calor_16
+  - first:
+      213: 4077333442827068990
+    second: Calor_17
+  - first:
+      213: 164951598929814706
+    second: Calor_18
+  - first:
+      213: -6198124122060533528
+    second: Calor_19
+  - first:
+      213: -1859744838470108622
+    second: Calor_20
+  - first:
+      213: 4128998856089897281
+    second: Calor_21
+  - first:
+      213: -1117355532005012644
+    second: Calor_22
+  - first:
+      213: 504241272912405403
+    second: Calor_23
+  - first:
+      213: -7441485283801392983
+    second: Calor_24
+  - first:
+      213: 5158015598257147308
+    second: Calor_25
+  - first:
+      213: -8154825394843170917
+    second: Calor_26
+  - first:
+      213: 3711112503824286536
+    second: Calor_27
+  - first:
+      213: 5826215804144747478
+    second: Calor_28
+  - first:
+      213: 3360662075171321335
+    second: Calor_29
+  - first:
+      213: 4143084999886090331
+    second: Calor_30
+  - first:
+      213: 8842057493111291943
+    second: Calor_31
+  - first:
+      213: 8982956815307765812
+    second: Calor_32
+  - first:
+      213: -5598725526558073999
+    second: Calor_33
+  - first:
+      213: -2781088759591200069
+    second: Calor_34
+  - first:
+      213: -4162300938150273373
+    second: Calor_35
+  - first:
+      213: -4741237978094878149
+    second: Calor_36
+  - first:
+      213: 4252441040175630937
+    second: Calor_37
+  - first:
+      213: 1069907264440876982
+    second: Calor_38
+  - first:
+      213: 4720780397311285238
+    second: Calor_39
+  - first:
+      213: -1089511897277381625
+    second: Calor_40
+  - first:
+      213: 6675277851799240234
+    second: Calor_41
+  - first:
+      213: -7740120565671097186
+    second: Calor_42
+  - first:
+      213: -312383717184619550
+    second: Calor_43
+  - first:
+      213: 8838460220871066888
+    second: Calor_44
+  - first:
+      213: -5397356308268845606
+    second: Calor_45
+  - first:
+      213: -3118925157459840403
+    second: Calor_46
+  - first:
+      213: -7982694002892661737
+    second: Calor_47
+  - first:
+      213: -5973937434706714261
+    second: Calor_48
+  - first:
+      213: -365482100699967041
+    second: Calor_49
+  - first:
+      213: -9064200387882671542
+    second: Calor_50
+  - first:
+      213: 6339450529359184509
+    second: Calor_51
+  - first:
+      213: 4368622783514263081
+    second: Calor_52
+  - first:
+      213: -4921836030251141555
+    second: Calor_53
+  - first:
+      213: 4995568749053617392
+    second: Calor_54
+  - first:
+      213: -472281537292591480
+    second: Calor_55
+  - first:
+      213: -3022976347917185439
+    second: Calor_56
+  - first:
+      213: -3862137302942841223
+    second: Calor_57
+  - first:
+      213: 2415203784546158866
+    second: Calor_58
+  - first:
+      213: 3728458117311151200
+    second: Calor_59
+  - first:
+      213: 5286764002294234400
+    second: Calor_60
+  - first:
+      213: 2922453571286695345
+    second: Calor_61
+  - first:
+      213: 8282632127059329825
+    second: Calor_62
+  - first:
+      213: -4710486429946563810
+    second: Calor_63
+  - first:
+      213: 3184866596611269989
+    second: Calor_64
+  - first:
+      213: -7898940037477508226
+    second: Calor_65
+  - first:
+      213: -1458995007517033994
+    second: Calor_66
+  - first:
+      213: 716760202029012289
+    second: Calor_67
+  - first:
+      213: -6734298096378027085
+    second: Calor_68
+  - first:
+      213: 5402657404540799392
+    second: Calor_69
+  - first:
+      213: -3543600755299730450
+    second: Calor_70
+  - first:
+      213: 8273083561419908519
+    second: Calor_71
+  - first:
+      213: -6066090298896409659
+    second: Calor_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Calor_0
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1538
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2808dea6f329510800000000000000
+      internalID: 1554374549879948025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_1
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1538
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f8bc57ffac1fa90800000000000000
+      internalID: -7281815923939635376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_2
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1538
+        width: 175
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f1199c0df29ca90800000000000000
+      internalID: -7293245547768373475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1336
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b05893ec3e541b20800000000000000
+      internalID: 3104209658774573234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1336
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9864b5a0ef0664470800000000000000
+      internalID: 8378490800981100169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_5
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1336
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7343151625ddb10800000000000000
+      internalID: 2007851586804791254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_6
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1336
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d85057df42f96e70800000000000000
+      internalID: 9109078146062244056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_7
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1336
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd2c69817777a9e0800000000000000
+      internalID: -1610187012241084933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_8
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1336
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f09e9457e95c060800000000000000
+      internalID: 6973153824641453850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_9
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1336
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e5da6fc425d6e40800000000000000
+      internalID: 5651263597929389664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_10
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1336
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c279b724705b4f260800000000000000
+      internalID: 7130523152819132204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_11
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1336
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a40e6ca6a1c4830800000000000000
+      internalID: 4056646410259417623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_12
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 1336
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a46b8c3ed7123cb0800000000000000
+      internalID: -4885816402477620062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1129
+        width: 175
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e8c1b68667a4d20800000000000000
+      internalID: 3263551070829055607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1129
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ce34d7ed0a7ab80800000000000000
+      internalID: -8383555303882101710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_15
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1129
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6ecf404c3b01c80800000000000000
+      internalID: -8353979654293625141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_16
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1129
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e09a3d15a27ed80800000000000000
+      internalID: -8221556063809761654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_17
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1129
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e362782e929959830800000000000000
+      internalID: 4077333442827068990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_18
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1129
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b42853fa960a4200800000000000000
+      internalID: 164951598929814706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_19
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1129
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e05dc633f6dbf9a0800000000000000
+      internalID: -6198124122060533528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_20
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1129
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a7f1a3cebd036e0800000000000000
+      internalID: -1859744838470108622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_21
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1129
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1498b3f45962d4930800000000000000
+      internalID: 4128998856089897281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_22
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 1129
+        width: 175
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b060b401b5e70f0800000000000000
+      internalID: -1117355532005012644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_23
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 904
+        width: 175
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93e80124cc6ff600800000000000000
+      internalID: 504241272912405403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_24
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 904
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a898b1af888ab890800000000000000
+      internalID: -7441485283801392983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 904
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad8a08bbd3f49740800000000000000
+      internalID: 5158015598257147308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_26
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 904
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97c90f628d34de80800000000000000
+      internalID: -8154825394843170917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_27
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 904
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305ffe825808330800000000000000
+      internalID: 3711112503824286536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_28
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 904
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d380deb760ead050800000000000000
+      internalID: 5826215804144747478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_29
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 904
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5b6b01a5873ae20800000000000000
+      internalID: 3360662075171321335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_30
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 904
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50b57c3bd13f7930800000000000000
+      internalID: 4143084999886090331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_31
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 904
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720ca78517c45ba70800000000000000
+      internalID: 8842057493111291943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_32
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 904
+        width: 175
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438f71931afd9ac70800000000000000
+      internalID: 8982956815307765812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 693
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b18920cc45d42b0800000000000000
+      internalID: -5598725526558073999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 693
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba1cbb02869769d0800000000000000
+      internalID: -2781088759591200069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_35
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 693
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae174d79598c36c0800000000000000
+      internalID: -4162300938150273373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_36
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 693
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b324018dd2db33eb0800000000000000
+      internalID: -4741237978094878149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_37
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 693
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a06fb7894b30b30800000000000000
+      internalID: 4252441040175630937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_38
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 693
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfbb970df219de00800000000000000
+      internalID: 1069907264440876982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_39
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 693
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7dd5472c4938140800000000000000
+      internalID: 4720780397311285238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_40
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 693
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7044830b3b641e0f0800000000000000
+      internalID: -1089511897277381625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_41
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 693
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2eb68dc6d953ac50800000000000000
+      internalID: 6675277851799240234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_42
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 693
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c8a7cba51959490800000000000000
+      internalID: -7740120565671097186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 480
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb389f0aa03aabf0800000000000000
+      internalID: -312383717184619550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 480
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805c0722eb488aa70800000000000000
+      internalID: 8838460220871066888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_45
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 480
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5fb67b80db815b0800000000000000
+      internalID: -5397356308268845606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_46
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 480
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62b394181a57b4d0800000000000000
+      internalID: -3118925157459840403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_47
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 480
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c11f63916c73190800000000000000
+      internalID: -7982694002892661737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_48
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 480
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61e5eded8f481da0800000000000000
+      internalID: -5973937434706714261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_49
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 480
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1d30047fb8deaf0800000000000000
+      internalID: -365482100699967041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_50
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 480
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42ab4b75cd753280800000000000000
+      internalID: -9064200387882671542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_51
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 480
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72cd992ba04af750800000000000000
+      internalID: 6339450529359184509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_52
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 480
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ebb01964770ac30800000000000000
+      internalID: 4368622783514263081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_53
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 276
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46792e153022bbb0800000000000000
+      internalID: -4921836030251141555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_54
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 276
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f422624f43d35540800000000000000
+      internalID: 4995568749053617392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_55
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 276
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e13bfa17e1279f0800000000000000
+      internalID: -472281537292591480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_56
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 276
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e0df9270b3c06d0800000000000000
+      internalID: -3022976347917185439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_57
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 276
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9768e40e59ee66ac0800000000000000
+      internalID: -3862137302942841223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_58
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 276
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2198d06bb07848120800000000000000
+      internalID: 2415203784546158866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_59
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 276
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cb04a47e42eb330800000000000000
+      internalID: 3728458117311151200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_60
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 276
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02df11089db5e5940800000000000000
+      internalID: 5286764002294234400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_61
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 276
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd7d1d0a04ae8820800000000000000
+      internalID: 2922453571286695345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_62
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 276
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1230c9a4902d1f270800000000000000
+      internalID: 8282632127059329825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 76
+        width: 175
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13bcb79c8df0aeb0800000000000000
+      internalID: -4710486429946563810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_64
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 76
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565a504ab4be23c20800000000000000
+      internalID: 3184866596611269989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_65
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 76
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bda04e2e3516290800000000000000
+      internalID: -7898940037477508226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_66
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 76
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9f0ef45cb90cbe0800000000000000
+      internalID: -1458995007517033994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_67
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 76
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145931f2b9172f900800000000000000
+      internalID: 716760202029012289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_68
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 76
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b36cc9af87fa82a0800000000000000
+      internalID: -6734298096378027085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_69
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 76
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9c9c0f8481afa40800000000000000
+      internalID: 5402657404540799392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_70
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 76
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebbd8a43e992dec0800000000000000
+      internalID: -3543600755299730450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_71
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 76
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5ae8b9aa5efc270800000000000000
+      internalID: 8273083561419908519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calor_72
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 76
+        width: 175
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb16de330be0dba0800000000000000
+      internalID: -6066090298896409659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

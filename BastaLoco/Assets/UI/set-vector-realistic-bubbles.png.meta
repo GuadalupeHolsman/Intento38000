@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      set-vector-realistic-bubbles_0: 1889034990721317644
+      set-vector-realistic-bubbles_1: -257648408183911168
+      set-vector-realistic-bubbles_2: -4659249940210865363
+      set-vector-realistic-bubbles_3: 753286907379515419
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
