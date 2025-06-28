@@ -2,9 +2,8 @@ using UnityEngine;
 
 public class DibujarLinea : MonoBehaviour
 {
-    //public Transform extremoFijo;
-    //public Transform extremoMovil;
-    public Transform[] puntosLinea; // Ahora soporta varios puntos (mínimo 2)
+    
+    public Transform[] puntosLinea; // Ahora soporta varios puntos (minimo 2)
     private LineRenderer linea;
     private Color colorLinea;
 
@@ -13,7 +12,6 @@ public class DibujarLinea : MonoBehaviour
         ColorUtility.TryParseHtmlString("#060428", out colorLinea);
 
         linea = GetComponent<LineRenderer>();
-        //linea.positionCount = 2;
         linea.positionCount = puntosLinea.Length;
         linea.material = new Material(Shader.Find("Sprites/Default"));
         linea.startColor = colorLinea;
@@ -25,11 +23,6 @@ public class DibujarLinea : MonoBehaviour
 
     void Update()
     {
-        /* if (linea != null && extremoFijo != null && extremoMovil != null)
-        {
-            linea.SetPosition(0, extremoFijo.position);
-            linea.SetPosition(1, extremoMovil.position);
-        } */
         for (int i = 0; i < puntosLinea.Length; i++)
         {
             linea.SetPosition(i, puntosLinea[i].position);
