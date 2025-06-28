@@ -116,12 +116,12 @@ TextureImporter:
       name: Bola amarilla_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2448
-        height: 1787
+        x: 1708
+        y: 1574
+        width: 172
+        height: 172
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -134,11 +134,1683 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_1
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1569
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aa087d78a4d4d88a5f2c8e80d2d15f
+      internalID: -1080845967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_2
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1557
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1611b84d85cc4b4f94c5980d1490d43
+      internalID: 753318232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_13
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1353
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f943431ff74447bb487ff08bdb4613
+      internalID: 1409404055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_12
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1353
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ea2ffee75f14f42bca642bc66f7f4c
+      internalID: -828259054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_5
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1353
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e14ecd8388b423a9ecbd1c77b7e812
+      internalID: -1762727418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_6
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1353
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8e562643f9242c1874da6f0fc7160f
+      internalID: 552170079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_7
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1353
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19aca8a47d4645d9872b8bd2b8b7700
+      internalID: 1881606357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_8
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1353
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d2c322f4a2d48d6acc3c66be981e8a
+      internalID: 1076364906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_9
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1353
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab14ab17240f44bed99f3740a22ca8f2
+      internalID: 1501963171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_10
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1353
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222ce5a238414461c9f48d0333dc27f7
+      internalID: -1704890858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1353
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f544e19ce76b4790a52ccd308e111f2
+      internalID: 1635634969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1353
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8490a7045787448b2bac595ccb37d745
+      internalID: 25168563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_78
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1566
+        width: 125
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e4359e7b8ec440ba9f081b8589464a
+      internalID: -604096990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_77
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1622
+        width: 137
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84246182b5e3e48e7bb580b0f754a903
+      internalID: 2097924511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1141
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992bbf70243ad47d4946f7ca53af6ecc
+      internalID: -919968074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1141
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d025f93f87043bcacc64cb08b1bca9
+      internalID: 911908317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_16
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1142
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087de87e54d1945208517037ba504640
+      internalID: -1876222938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_17
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1142
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b71ca5670c44b43ab1cb920a2e0ac3
+      internalID: -2069764004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_18
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1142
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8317ea7dfbcef457d88436b42fc864d4
+      internalID: 1478551884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_19
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1142
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8263df0292572453a88441e73716a206
+      internalID: -278396024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_20
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1142
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fece953e5958a466e9d34fcfe9e3a037
+      internalID: 2008259134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_21
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1142
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a383ea1effa4950afa25e7a0f2e6dc
+      internalID: 1864604653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_22
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1142
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c462222a35f9a4e8e9c4887157e24715
+      internalID: 93953868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_23
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 1142
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30ac1f05be474e20bb3ae03007bd779
+      internalID: 1505039407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 928
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13db8839a6054eed9d1a6103bd13383
+      internalID: -2084134092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 928
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12653cec5e2f48108bc4adb9c92e2cf
+      internalID: 1088330802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_26
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 928
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51128218a6f8341158db194fc51f79b5
+      internalID: 1750952750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 928
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7c3ec39a8874067ba9d751f4a79961
+      internalID: 2113966131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_28
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 928
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc0e396a18674c4a8d63e8d99e474f8
+      internalID: 1850140177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_29
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 928
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f28f7b4bfcc44c2ac5f4be7fd3a328
+      internalID: 1520700448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_30
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 928
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42085a3a83cc44e4f8a9b4b8f2c232fc
+      internalID: 1863703672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_31
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 929
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ef8e4fcea8c401e9a1782fbf98a841
+      internalID: 664712701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_32
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 929
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb4d6deeb11d43508df78a180f55d04
+      internalID: -1407259596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_33
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 928
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11695f5b9f4824e7aa06abad6a16d868
+      internalID: 1645054528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 693
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8b6b7d73d9d4590a95bbb83cf79e72
+      internalID: -1096223917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_35
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 691
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f863a4c2b4d44fa9b604fe8896dc6c3
+      internalID: 1518867491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_76
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1597
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6f3307a33744418a6d99a3730e3f3c
+      internalID: -1272203721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_37
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 692
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb30b63c5b59c4b30b49a12a90343ab9
+      internalID: 571416771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_38
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 692
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9247481653b0b42aba395b1ffffa57df
+      internalID: -1618058896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_39
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 692
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceedf9b7625f545c6bca8bfb34db0b6d
+      internalID: 47736599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_40
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 692
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc80358c6fa2440d8eb478e94cb10aa
+      internalID: 1450953140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_41
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 692
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef042942eda01447b8155ce2209464cf
+      internalID: 206845365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_42
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 692
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbf8b405df034e188a3b9ab13510d78
+      internalID: 104594072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_43
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 691
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f8884da791f4c10bf0f4d899fbe82d
+      internalID: 1760512944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_44
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 692
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bca5b407f58d48709ede2dc9480ea2a
+      internalID: -557255687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_45
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 473
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945fb0ec66ec143aaa64bdf44241638c
+      internalID: -1620227363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_46
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 473
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a47defe8f5e44dfb6298f1992770bf
+      internalID: 763123785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_47
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 473
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4660946f001764a4e95f85dda9eafd38
+      internalID: -645200312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_48
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 473
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72b872a1028d4480b1418f12b70fdde
+      internalID: 201283657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_49
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 473
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e11ac65e92445f097013ad70f26244
+      internalID: -1243781742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_50
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 473
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417f7e35fc7f240d5ad454e4b815bb1a
+      internalID: 1282546665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_51
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 473
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ef512ea71004df48d86c0d3e1b3aa9
+      internalID: -7688669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_52
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 473
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0607fc7312148d4a7103e62d1a4ae6
+      internalID: 1420737923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_53
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 473
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90299ccc30e784648a5f0ef4dbb4f1e2
+      internalID: -235672221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_54
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 473
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1813f3bd897f4906870a515bf09e483
+      internalID: -672044473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_55
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 268
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ca4c26010d46b887024fd1a88e997
+      internalID: -143030617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_56
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 268
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7f597d7b20d429fb4761bd7bd0cacf
+      internalID: 1547277546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_57
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 268
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4125f2bc9e94649958c41783b87e92a5
+      internalID: 279166487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_58
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 268
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7cb1539062e40ea849da8a36313687
+      internalID: -449914401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_59
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 268
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261de09af23874375a741d7c82955312
+      internalID: -1730642612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_60
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 268
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1ef586535f7498eb0ac632b17d76b4
+      internalID: -391207002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_61
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 268
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90db8fbec14624d90943bfd276d59401
+      internalID: 165962214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_62
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 268
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50f799a6b66f4e419729934176b59d7
+      internalID: 1042500955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_63
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 268
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f2a6d91adcd4d1fb80790f8139e162
+      internalID: -378013157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_64
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 268
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abd112baefa94f568123f202ed67d87
+      internalID: 1673711457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_65
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 44
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747a6decfd8854741aef9e3897aadc84
+      internalID: -1112516696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 44
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3734e9fb7b847c5937cecf073156c1
+      internalID: 1254374315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_67
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 44
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0c9b1c0a1e64783be53b8dc37a7a1f
+      internalID: -1851071652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_68
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 44
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51778d57322544456b814e45f0ea7c7f
+      internalID: -1004732797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_69
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 44
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5e0a6da0e60475d9838afdc8da2f08
+      internalID: -1757177797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_70
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 44
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9028814f1f6c44688bbcbf9c9be5cf52
+      internalID: 996568997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_71
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 44
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35692db4510774dc0b5e10b9332bccb0
+      internalID: 914753585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_72
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 43
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e896c7603c4a248938c6e6b9ebb35672
+      internalID: 573811572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_73
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 44
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f8f5cca1d0c4b05b261bc0ebe8da27
+      internalID: 2073088698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_74
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 43
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377314b121a834237963d78de51948e3
+      internalID: -869910080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola amarilla_75
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1588
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7105592b2184340fabbea5a51c870fa3
+      internalID: -309909102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 205105654234247918b4a73de14659f0
     internalID: 0
     vertices: []
     indices: 
@@ -146,8 +1818,86 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
-    nameFileIdTable: {}
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+    nameFileIdTable:
+      Bola amarilla_: 25168563
+      Bola amarilla_1: -1080845967
+      Bola amarilla_10: -1704890858
+      Bola amarilla_11: 1635634969
+      Bola amarilla_12: -828259054
+      Bola amarilla_13: 1409404055
+      Bola amarilla_14: -919968074
+      Bola amarilla_15: 911908317
+      Bola amarilla_16: -1876222938
+      Bola amarilla_17: -2069764004
+      Bola amarilla_18: 1478551884
+      Bola amarilla_19: -278396024
+      Bola amarilla_2: 753318232
+      Bola amarilla_20: 2008259134
+      Bola amarilla_21: 1864604653
+      Bola amarilla_22: 93953868
+      Bola amarilla_23: 1505039407
+      Bola amarilla_24: -2084134092
+      Bola amarilla_25: 1088330802
+      Bola amarilla_26: 1750952750
+      Bola amarilla_27: 2113966131
+      Bola amarilla_28: 1850140177
+      Bola amarilla_29: 1520700448
+      Bola amarilla_30: 1863703672
+      Bola amarilla_31: 664712701
+      Bola amarilla_32: -1407259596
+      Bola amarilla_33: 1645054528
+      Bola amarilla_34: -1096223917
+      Bola amarilla_35: 1518867491
+      Bola amarilla_37: 571416771
+      Bola amarilla_38: -1618058896
+      Bola amarilla_39: 47736599
+      Bola amarilla_40: 1450953140
+      Bola amarilla_41: 206845365
+      Bola amarilla_42: 104594072
+      Bola amarilla_43: 1760512944
+      Bola amarilla_44: -557255687
+      Bola amarilla_45: -1620227363
+      Bola amarilla_46: 763123785
+      Bola amarilla_47: -645200312
+      Bola amarilla_48: 201283657
+      Bola amarilla_49: -1243781742
+      Bola amarilla_5: -1762727418
+      Bola amarilla_50: 1282546665
+      Bola amarilla_51: -7688669
+      Bola amarilla_52: 1420737923
+      Bola amarilla_53: -235672221
+      Bola amarilla_54: -672044473
+      Bola amarilla_55: -143030617
+      Bola amarilla_56: 1547277546
+      Bola amarilla_57: 279166487
+      Bola amarilla_58: -449914401
+      Bola amarilla_59: -1730642612
+      Bola amarilla_6: 552170079
+      Bola amarilla_60: -391207002
+      Bola amarilla_61: 165962214
+      Bola amarilla_62: 1042500955
+      Bola amarilla_63: -378013157
+      Bola amarilla_64: 1673711457
+      Bola amarilla_65: -1112516696
+      Bola amarilla_66: 1254374315
+      Bola amarilla_67: -1851071652
+      Bola amarilla_68: -1004732797
+      Bola amarilla_69: -1757177797
+      Bola amarilla_7: 1881606357
+      Bola amarilla_70: 996568997
+      Bola amarilla_71: 914753585
+      Bola amarilla_72: 573811572
+      Bola amarilla_73: 2073088698
+      Bola amarilla_74: -869910080
+      Bola amarilla_75: -309909102
+      Bola amarilla_76: -1272203721
+      Bola amarilla_77: 2097924511
+      Bola amarilla_78: -604096990
+      Bola amarilla_8: 1076364906
+      Bola amarilla_9: 1501963171
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

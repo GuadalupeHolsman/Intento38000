@@ -116,12 +116,12 @@ TextureImporter:
       name: Bola violeta_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2448
-        height: 1767
+        x: 1755
+        y: 1515
+        width: 139
+        height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -134,11 +134,1683 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Bola violeta_1
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1515
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3f873ac5267481089037c1cba0b60d
+      internalID: -1100987177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_2
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 1515
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b27acd07aa7645eab9ea2fd610b925a
+      internalID: -324557502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1301
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e4a5c7dd80a403c8b46154d8fab65c
+      internalID: -832981703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1301
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cfd4328673040428278bf7389ac375
+      internalID: 299015416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1300
+        width: 141
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3104774119544235a4997eb75382b1b
+      internalID: -1763945107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_6
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1300
+        width: 141
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaafd2b6676c44148918876733675cc
+      internalID: -487104512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_7
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1299
+        width: 142
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014c64426416140a7af073c5257a98fa
+      internalID: 179345719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_8
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1299
+        width: 145
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961e7cbea7f8a47d28cce374c3d5c90d
+      internalID: 1610391249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_9
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1299
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd18c5eb7bb3443ab1d696e5db6b3a5
+      internalID: -585635429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_10
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1299
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090349a9b2ccd403195cb4f854955d7a
+      internalID: 1314045459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_11
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1299
+        width: 145
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e028aac2fd844116833a3e699e9e1f0
+      internalID: 2030710715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_12
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 1298
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf53cca00eba4d60baf9430ac61665c
+      internalID: 413540921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1101
+        width: 146
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c70953d1f7a64df8abde97493578f6f
+      internalID: -1833991801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1100
+        width: 147
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83393b63bf09447eb241ae83f71812f
+      internalID: 847708490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1100
+        width: 147
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ee6647b8aba4bf9933b0996584925e
+      internalID: -2064566811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_16
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1100
+        width: 147
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c43f4d480024a53b0bab26cd6ea0a5
+      internalID: 1353524856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_17
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1099
+        width: 148
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9f12b769f1a4dc2bb5944a577bf451
+      internalID: 176010838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_18
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1099
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b778885efa5fb40f0bfdf22b267a8536
+      internalID: -1355299710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_19
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1099
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488e435b60044e258d110b5352bd561
+      internalID: 1033570326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_20
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1099
+        width: 149
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbd748585f5a4efaad3ac106c48fc15
+      internalID: 398098577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_21
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1099
+        width: 149
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb7f80fcf6654d40bab9ede6e811e4f
+      internalID: 1384414527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_22
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 1098
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32514254bebea403a9e633c140a946c5
+      internalID: -447555350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 914
+        width: 150
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edce26ba6b594cce957b9112d480276
+      internalID: -296475953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 913
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b444ed0a56fd342319049b15c5ff737b
+      internalID: 1630703307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_25
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 913
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471ba401ac4cc4909827b0b4f600b2e2
+      internalID: 2036260540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_26
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 912
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd92e2f18731484eb53858c5d65a3b9
+      internalID: 1424583675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_27
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 912
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06d303ac0c83450e827a571d1ca47b3
+      internalID: 1998991429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_28
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 912
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd11d48465784c86b6c7deb8d3b31fb
+      internalID: 1785948586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_29
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 912
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52703435524ac493c9272e1bf24d66d7
+      internalID: -2039233817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_30
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 912
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f53c0d3325ac4b7d9d6eb2f1180a357
+      internalID: 1889288261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_31
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 911
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97653e805c12e44f8b0bd1a5cede108d
+      internalID: 102586772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_32
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 911
+        width: 155
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ea57ba259124740848ccd509380cda
+      internalID: -1111192821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 727
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b393768aa474348a12bd0a51f2a88e
+      internalID: -1395710832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_34
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 736
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2ad4baa720e4ad0982ac6fe7326a27
+      internalID: 220949176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_35
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 735
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c61b3263f70497191729b10fe90036
+      internalID: 369968372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_36
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 735
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeb011cf37ed4a6883464986795d3be
+      internalID: -1316136683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_37
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 736
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50e60883d24f426da322aa4f1788d11
+      internalID: 482648790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_38
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 734
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44b64b09dcaa4aa1bd30a7f6cfc88ba
+      internalID: -658567188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_39
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 734
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be49f537eed4463cb0ff0059575eb03
+      internalID: -212188868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_40
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 734
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c06732badf34b1c9065e9292f41aa4
+      internalID: 85563990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_41
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 734
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4103c2aa38d4b2bb7b79e7c968c016
+      internalID: -2016776634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_42
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 734
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3f147ca5c104c749bdb4f138bd469e
+      internalID: 1556128269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_43
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 533
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3926ed0fb6da4ea6bf34dbe131986b7
+      internalID: 102078690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 533
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e577ccea8d284265a5ccb3f010178c6
+      internalID: 1609746443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_45
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 533
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d17d07cce2545858fc9c02c05f5a81
+      internalID: 547778024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_46
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 532
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efe758f6b6e245869006f4c3c3adb10
+      internalID: -1087792784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_47
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 532
+        width: 161
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45ed272cdeab462ba30ba02402e734e
+      internalID: -49423411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_48
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 532
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf19b002b7fe4e20a37d369dda9e485
+      internalID: 455574672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_49
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 532
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692e3c53f953843b7a041ae9780c9342
+      internalID: -214286939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_50
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 532
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b547584a23b7d4221a510a8298a8dd43
+      internalID: 1379713473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_51
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 532
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d982cd29c2748a3bdc81333b86ab4d
+      internalID: 1140611745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_52
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 531
+        width: 164
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797b2abe05ce64d8196dc5f59ef22b4b
+      internalID: 1977415615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 327
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cb8d023f78448cb8b04cd2c32a9a24
+      internalID: -2075408164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_54
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 326
+        width: 165
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ece8b82be264067b66d24bb79679f3
+      internalID: -706481337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_55
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 327
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254f69e10e58f40ae871d97a6eb9155b
+      internalID: -1593280582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_56
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 326
+        width: 165
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a2b7f7382bf4508b6c3b029f50e60d
+      internalID: 52252231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_57
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 326
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e7d2bfc6b4940bc8e6f369da158b2e
+      internalID: -1065350978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_58
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 326
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054032b91fbc04ef1bc77b419ce4973f
+      internalID: -836827291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_59
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 326
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6900f6290dfd74a3292a549b044ca6a1
+      internalID: -1061565356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_60
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 325
+        width: 168
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cb57b7fda4842e5844c82b5d541de4
+      internalID: 1568889333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_61
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 325
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a0d12ac619f4383a5480623821f682
+      internalID: -616911310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_62
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 325
+        width: 170
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45000d66b1d94e01adb4389fb4da812
+      internalID: -1380503797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_63
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 118
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3121195c9e3e343de8a74f3d1918af72
+      internalID: -320657287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 118
+        width: 170
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7fbba21e8a144fa8a84e8cbdd80c58
+      internalID: 908446722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_65
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 117
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f5b69e46153453998b691df0236387
+      internalID: -297359467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_66
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 117
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0af0524ed099433d84d9ace0cc96ee8
+      internalID: 1109341505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_67
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 117
+        width: 170
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6abb79e99a8475da372ab622df2349
+      internalID: 891399893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_68
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 117
+        width: 171
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171e1c4055b544201b3436465f7dd154
+      internalID: -472669488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_69
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 117
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c8bee22d3004bbea1aa9c67682f303
+      internalID: 1891172332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_70
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 116
+        width: 172
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36b9c992e60041d68f278b3565b2884
+      internalID: -1340025547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_71
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 116
+        width: 173
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c09a6ea3b764c67b2963f932ac511e
+      internalID: -284338141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_72
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 116
+        width: 173
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831ddbf17c9d048dc87641dd58cbac5d
+      internalID: -69788906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_73
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1639
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9d27666abfc424ba6d0463bd4bcf39
+      internalID: -1358633618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_74
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1629
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d63d9b0b9e14339b0d1ee9ef81ac29
+      internalID: 150604428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_75
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1598
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6e8df08bc4f43b59f7fbd8eb73e33f
+      internalID: 1101138376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola violeta_76
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1608
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6e766a5ebda4ffb877f0a1240455d7
+      internalID: 2040957522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 78709b4f82f43493b867be0f6e9cf60a
     internalID: 0
     vertices: []
     indices: 
@@ -147,7 +1819,83 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bola violeta_1: -1100987177
+      Bola violeta_10: 1314045459
+      Bola violeta_11: 2030710715
+      Bola violeta_12: 413540921
+      Bola violeta_13: -1833991801
+      Bola violeta_14: 847708490
+      Bola violeta_15: -2064566811
+      Bola violeta_16: 1353524856
+      Bola violeta_17: 176010838
+      Bola violeta_18: -1355299710
+      Bola violeta_19: 1033570326
+      Bola violeta_2: -324557502
+      Bola violeta_20: 398098577
+      Bola violeta_21: 1384414527
+      Bola violeta_22: -447555350
+      Bola violeta_23: -296475953
+      Bola violeta_24: 1630703307
+      Bola violeta_25: 2036260540
+      Bola violeta_26: 1424583675
+      Bola violeta_27: 1998991429
+      Bola violeta_28: 1785948586
+      Bola violeta_29: -2039233817
+      Bola violeta_3: -832981703
+      Bola violeta_30: 1889288261
+      Bola violeta_31: 102586772
+      Bola violeta_32: -1111192821
+      Bola violeta_33: -1395710832
+      Bola violeta_34: 220949176
+      Bola violeta_35: 369968372
+      Bola violeta_36: -1316136683
+      Bola violeta_37: 482648790
+      Bola violeta_38: -658567188
+      Bola violeta_39: -212188868
+      Bola violeta_4: 299015416
+      Bola violeta_40: 85563990
+      Bola violeta_41: -2016776634
+      Bola violeta_42: 1556128269
+      Bola violeta_43: 102078690
+      Bola violeta_44: 1609746443
+      Bola violeta_45: 547778024
+      Bola violeta_46: -1087792784
+      Bola violeta_47: -49423411
+      Bola violeta_48: 455574672
+      Bola violeta_49: -214286939
+      Bola violeta_5: -1763945107
+      Bola violeta_50: 1379713473
+      Bola violeta_51: 1140611745
+      Bola violeta_52: 1977415615
+      Bola violeta_53: -2075408164
+      Bola violeta_54: -706481337
+      Bola violeta_55: -1593280582
+      Bola violeta_56: 52252231
+      Bola violeta_57: -1065350978
+      Bola violeta_58: -836827291
+      Bola violeta_59: -1061565356
+      Bola violeta_6: -487104512
+      Bola violeta_60: 1568889333
+      Bola violeta_61: -616911310
+      Bola violeta_62: -1380503797
+      Bola violeta_63: -320657287
+      Bola violeta_64: 908446722
+      Bola violeta_65: -297359467
+      Bola violeta_66: 1109341505
+      Bola violeta_67: 891399893
+      Bola violeta_68: -472669488
+      Bola violeta_69: 1891172332
+      Bola violeta_7: 179345719
+      Bola violeta_70: -1340025547
+      Bola violeta_71: -284338141
+      Bola violeta_72: -69788906
+      Bola violeta_73: -1358633618
+      Bola violeta_74: 150604428
+      Bola violeta_75: 1101138376
+      Bola violeta_76: 2040957522
+      Bola violeta_8: 1610391249
+      Bola violeta_9: -585635429
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -119,1604 +119,20 @@ TextureImporter:
       name: Bola verde_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1587
-        width: 230
-        height: 200
+        x: 1537
+        y: 1546
+        width: 139
+        height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: cf0d43ef7543049b58fe5f50580edc50
-      internalID: 651801495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_1
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 1587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b43dafccf07994e32abf3065d1f9a780
-      internalID: 245792103
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_2
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 1587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 65e6bdd83a53f470cb55667acb3d82ec
-      internalID: 1808998813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_3
-      rect:
-        serializedVersion: 2
-        x: 690
-        y: 1587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d687ad452101c4413a349aaecefd390b
-      internalID: -2004722016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_4
-      rect:
-        serializedVersion: 2
-        x: 920
-        y: 1587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e85881a0c30a462aa390456b21cebeb
-      internalID: -1837468631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_5
-      rect:
-        serializedVersion: 2
-        x: 1150
-        y: 1587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f39d92c4690414ae6aeb6a841fecf99c
-      internalID: 1616983914
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_6
-      rect:
-        serializedVersion: 2
-        x: 1380
-        y: 1587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc8543867a54643cdbdac9fbad5285fd
-      internalID: -2044522347
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_7
-      rect:
-        serializedVersion: 2
-        x: 1610
-        y: 1587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5e14e0825ec50446fa97ed05e2f25840
-      internalID: -1328736207
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_8
-      rect:
-        serializedVersion: 2
-        x: 1964
-        y: 1526
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b73e0da3108447ba89f94411095e5dd
-      internalID: -1981451864
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_9
-      rect:
-        serializedVersion: 2
-        x: 2194
-        y: 1528
-        width: 230
-        height: 200
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5108502}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2d1684b256df4480ac11478f629b2c8
-      internalID: -1699510575
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_10
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63608ebc7ed7544d389358d7ac151e99
-      internalID: 292274948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_11
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 1387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2900d92c2fa604136b11ad7bcbb6158d
-      internalID: 301433866
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_12
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 1387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5fd8b32065f74123b3a4670b2f686fb
-      internalID: -1927887339
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_13
-      rect:
-        serializedVersion: 2
-        x: 690
-        y: 1387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5bdae0565952641598666d1cf337a5b2
-      internalID: -238024186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_14
-      rect:
-        serializedVersion: 2
-        x: 920
-        y: 1387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e11ccb13108c94a888736257cc2509a3
-      internalID: -1808348933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_15
-      rect:
-        serializedVersion: 2
-        x: 1150
-        y: 1387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0ed45b1c2751d40e6a326a236539e08b
-      internalID: -1172387958
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_16
-      rect:
-        serializedVersion: 2
-        x: 1380
-        y: 1387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63a8f0e0644184203bfbd9db63a59dab
-      internalID: 195352217
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_17
-      rect:
-        serializedVersion: 2
-        x: 1610
-        y: 1387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f4dfbfc65139420d8b5df612f640464
-      internalID: -943004970
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_18
-      rect:
-        serializedVersion: 2
-        x: 1962
-        y: 1315
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06a416841394f480a8f2f9a161d859c1
-      internalID: 1616875325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_19
-      rect:
-        serializedVersion: 2
-        x: 2194
-        y: 1331
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71b62a2dddb3645d992b82767fa42235
-      internalID: -59601332
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_20
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1187
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0f7d381c2b9a244e8b0041817643aff7
-      internalID: -1851196451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_21
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 1187
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 22e4cbcfed2824f53906470fc0942ca3
-      internalID: 107934039
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_22
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 1187
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e877d17ff801a415aabe4fec31d09a9d
-      internalID: 1643043216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_23
-      rect:
-        serializedVersion: 2
-        x: 690
-        y: 1187
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7699f0c12290e4382957cc81ef94b5f8
-      internalID: 202161557
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_24
-      rect:
-        serializedVersion: 2
-        x: 920
-        y: 1187
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b83426212619442ebfadd185cfa99a7
-      internalID: 1630464837
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_25
-      rect:
-        serializedVersion: 2
-        x: 1150
-        y: 1187
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a872338a9c84e41c1bab0b3a9777a2dd
-      internalID: -2079673569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_26
-      rect:
-        serializedVersion: 2
-        x: 1380
-        y: 1187
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d9abc6e3cbf244c2ea1afe27669ccee2
-      internalID: 1388755845
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_27
-      rect:
-        serializedVersion: 2
-        x: 1610
-        y: 1187
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2cda00490245e4b2aab89bb84513935b
-      internalID: 430740844
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_28
-      rect:
-        serializedVersion: 2
-        x: 1840
-        y: 1187
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 006d4b3db2c0c4dd484d87f7e6c94fa5
-      internalID: -1706064191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_29
-      rect:
-        serializedVersion: 2
-        x: 2070
-        y: 1187
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cdfe04282a257472ba184ecdbc295baa
-      internalID: -1430129486
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_30
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 987
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ab1d96e7e6d54d7b8a435d68c021d57
-      internalID: 1230406978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_31
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 987
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f28929c8fdb5c40f6b8c2cc85e3c1137
-      internalID: 436242327
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_32
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 987
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 289b0fd48e54845ff884303466619c37
-      internalID: 2132754535
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_33
-      rect:
-        serializedVersion: 2
-        x: 690
-        y: 987
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ece2a100809a948c98ba1f78563a532e
-      internalID: -553114170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_34
-      rect:
-        serializedVersion: 2
-        x: 920
-        y: 987
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d3e91f170d82471e95831884f84f27a
-      internalID: 1986191147
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_35
-      rect:
-        serializedVersion: 2
-        x: 1150
-        y: 987
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 164c2903c04ff47e78d823de799ddf8e
-      internalID: 1029930613
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_36
-      rect:
-        serializedVersion: 2
-        x: 1380
-        y: 987
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3497f550e6bd4924a9b860998f2b300
-      internalID: 192454660
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_37
-      rect:
-        serializedVersion: 2
-        x: 1610
-        y: 987
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a0da2930a09d4f3cbc87324e947ac57
-      internalID: 952718226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_38
-      rect:
-        serializedVersion: 2
-        x: 1840
-        y: 987
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d8a90cffa4e79487c89120cce8483a84
-      internalID: 160090625
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_39
-      rect:
-        serializedVersion: 2
-        x: 2070
-        y: 987
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e08d07838584940be9432fbc8e9bedd8
-      internalID: 1916524800
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_40
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 787
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f545da12086d41b1be0c50133f39a15
-      internalID: -667992652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_41
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 787
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63e0308c0422343379301ff9de661c5c
-      internalID: -1472575280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_42
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 787
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19644efaff15a441f86fed7c06c3f370
-      internalID: 261067601
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_43
-      rect:
-        serializedVersion: 2
-        x: 690
-        y: 787
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cb3f55687fe4a403abe24347451724c8
-      internalID: -1883172203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_44
-      rect:
-        serializedVersion: 2
-        x: 920
-        y: 787
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 042de1b6f056f43ee8d84f0be4d0aacd
-      internalID: 1026333287
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_45
-      rect:
-        serializedVersion: 2
-        x: 1150
-        y: 787
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c61d336e21644cc481e3e1f50eab9bd
-      internalID: 1024453282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_46
-      rect:
-        serializedVersion: 2
-        x: 1380
-        y: 787
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 70c3874ae09d2444ca755a3d133ddee3
-      internalID: 870058344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_47
-      rect:
-        serializedVersion: 2
-        x: 1610
-        y: 787
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0ed1ae824df8a4db08e482a374ccc441
-      internalID: 213604883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_48
-      rect:
-        serializedVersion: 2
-        x: 1840
-        y: 787
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ad27201963e2427baa0c00813c5346a
-      internalID: -1310222145
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_49
-      rect:
-        serializedVersion: 2
-        x: 2070
-        y: 787
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 346de8dfe33e34dfc8aa900e6184b188
-      internalID: -1011459613
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_50
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ee5e87e8e1d54a668da03982459388f
-      internalID: 33858816
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_51
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 256549e0520fa46349416a6863d65aa2
-      internalID: -640099235
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_52
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b466ba45883e94bfabc5c7e15c1d8888
-      internalID: -1489584664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_53
-      rect:
-        serializedVersion: 2
-        x: 690
-        y: 587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c748a0dc5cf774e00ba43c38728937c3
-      internalID: -1727340890
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_54
-      rect:
-        serializedVersion: 2
-        x: 920
-        y: 587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 580b5e834533749889a5d8f9ef33277a
-      internalID: 1820342027
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_55
-      rect:
-        serializedVersion: 2
-        x: 1150
-        y: 587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1005b198737b54f098f202decdfa216a
-      internalID: -913203741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_56
-      rect:
-        serializedVersion: 2
-        x: 1380
-        y: 587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d6dc6820c00f74d6ca4024e03bc33fa5
-      internalID: -2128980294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_57
-      rect:
-        serializedVersion: 2
-        x: 1610
-        y: 587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 05d038773c28b441c8764a38512d1f7c
-      internalID: -506998550
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_58
-      rect:
-        serializedVersion: 2
-        x: 1840
-        y: 587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 610db371331aa4198a9365ca7172ea2e
-      internalID: -349245318
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_59
-      rect:
-        serializedVersion: 2
-        x: 2070
-        y: 587
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 774dff45144704587a9e8a924a6a8715
-      internalID: 1154919813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_60
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 532c03accd05f4aa6b2cb74c81fcbcbc
-      internalID: 289917355
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_61
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6235d7f3af842415bbbb72120ff015e0
-      internalID: 721376451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_62
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e05accbbee07c494f90092cfb492b245
-      internalID: 10218864
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_63
-      rect:
-        serializedVersion: 2
-        x: 690
-        y: 387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4c7fabc6b36c045b481041bc30bbec05
-      internalID: -47196584
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_64
-      rect:
-        serializedVersion: 2
-        x: 920
-        y: 387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2d25a80a51ca4d58a62f9646f46e9c5
-      internalID: -1729808475
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_65
-      rect:
-        serializedVersion: 2
-        x: 1150
-        y: 387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a55ecbec85ecf4dd8b2aca20223e4afe
-      internalID: -1848147056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_66
-      rect:
-        serializedVersion: 2
-        x: 1380
-        y: 387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d4578ba811e945d7a5be16c38b4f27b
-      internalID: 378415818
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_67
-      rect:
-        serializedVersion: 2
-        x: 1610
-        y: 387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5e669b8e139fb4094bbdf71a7efd917b
-      internalID: -354925069
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_68
-      rect:
-        serializedVersion: 2
-        x: 1840
-        y: 387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 76a9c8aa683a242c6b2c7eacca98fdb6
-      internalID: -151387313
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_69
-      rect:
-        serializedVersion: 2
-        x: 2070
-        y: 387
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1c4774390dfd4dce8cbf336d5c47627
-      internalID: -2129074181
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_70
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 187
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba21860128781406ea35b26439659a40
-      internalID: 2056092584
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_71
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 187
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b9bdc61c165d54d3e98a76e8de11ae44
-      internalID: -702431563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bola verde_72
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 187
-        width: 230
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51214b7cd2b13415e9088750c0fac66d
-      internalID: 2012390
+      spriteID: 05c839154abc986b0800000000000000
+      internalID: -5293475980393608112
       vertices: []
       indices: 
       edges: []
@@ -1725,174 +141,1582 @@ TextureImporter:
       name: Bola verde_73
       rect:
         serializedVersion: 2
-        x: 690
-        y: 187
-        width: 230
-        height: 200
+        x: 2071
+        y: 48
+        width: 76
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f298f200410b24e2a828994865048dd8
-      internalID: 830043
+      spriteID: 4d8316bde2e565e60800000000000000
+      internalID: 7950645747511277780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bola verde_74
+      name: Bola verde_2
       rect:
         serializedVersion: 2
-        x: 920
-        y: 187
-        width: 230
-        height: 200
+        x: 1769
+        y: 1546
+        width: 139
+        height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8f41be1d10bb4e59a6abf8e08f3c0cf
-      internalID: -1995675308
+      spriteID: 0e80c8cdff9114d67966d4f00241a7b0
+      internalID: 1727170580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bola verde_75
+      name: Bola verde_3
       rect:
         serializedVersion: 2
-        x: 1150
-        y: 187
-        width: 230
-        height: 200
+        x: 2018
+        y: 1551
+        width: 139
+        height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 924c4bd770e4b4311826f88aa52a0e2e
-      internalID: 1141068597
+      spriteID: 5c151c0365f7e46f8a7c946e8e3032c5
+      internalID: 254629007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bola verde_76
+      name: Bola verde_4
       rect:
         serializedVersion: 2
-        x: 1380
-        y: 187
-        width: 230
-        height: 200
+        x: 2249
+        y: 1553
+        width: 139
+        height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93826373c078647a2bf0d666b565c5ba
-      internalID: -760537120
+      spriteID: ee7d37a82c8d2493e89a8d0ac09e359b
+      internalID: 323955406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bola verde_77
+      name: Bola verde_5
       rect:
         serializedVersion: 2
-        x: 1610
-        y: 187
-        width: 230
-        height: 200
+        x: 52
+        y: 1350
+        width: 139
+        height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffd0cb4b695ef409282dae711a916cdc
-      internalID: 1493155686
+      spriteID: 3563c748b21774156ab520e171b28839
+      internalID: 266698453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bola verde_78
+      name: Bola verde_6
       rect:
         serializedVersion: 2
-        x: 1840
-        y: 187
-        width: 230
-        height: 200
+        x: 297
+        y: 1351
+        width: 139
+        height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88947c6721ef44272af0915593500a37
-      internalID: 789583593
+      spriteID: 2680f390e40e848e2ad65b2af7c33299
+      internalID: -1228876111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bola verde_79
+      name: Bola verde_7
       rect:
         serializedVersion: 2
-        x: 2070
-        y: 187
-        width: 230
-        height: 200
+        x: 543
+        y: 1350
+        width: 139
+        height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 376ee914204754048809e1e36b31d2f0
-      internalID: -1187109197
+      spriteID: 364a69fcb051a477b91dec5a4204e8cf
+      internalID: 710652287
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bola verde_80
+      name: Bola verde_8
       rect:
         serializedVersion: 2
-        x: 96
-        y: 38
-        width: 384
-        height: 75
+        x: 788
+        y: 1350
+        width: 139
+        height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 347c8638e05b4426bb8db9efc328a104
-      internalID: 1714351914
+      spriteID: 15a3098b41ad047e0a659b8266023818
+      internalID: 522297655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_9
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1350
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed011ee0b0484a2f974dd304bb44a93
+      internalID: 1628378330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1350
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d01e579e6a64de5b9d5c00b76118e6
+      internalID: 79972653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_11
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1350
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359778ad20f9547ab99a5fcdd594d248
+      internalID: -1577991809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_12
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1350
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba3c48a0ab474cba97a262ccdf5bbd1
+      internalID: -1213027362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_13
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1350
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae450b2fd15874869b41fed26122be92
+      internalID: -456610476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_14
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1353
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882b441ec3a984a32830a817ec3c9dd2
+      internalID: 1939635776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1165
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a06fe36c43d34586b5ac63de708b69d
+      internalID: -630302041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1165
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c6469d3a6c348b9b061e6f0745f77b
+      internalID: -848423408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_17
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1165
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a92ef26ed9ce4014ab2c253e95f77aa
+      internalID: -1836590036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_18
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1165
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be622f0124b4442a190ffbea94a27c7a
+      internalID: -603350991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_19
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1165
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75910ca703ff946b2b733af5d274bf20
+      internalID: -1657290012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_20
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1165
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d4e98f7210a4c76ab77b0d702be0ca
+      internalID: -1930429542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_21
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1164
+        width: 145
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f533a684b8749cb95864fcab32f1a7
+      internalID: -1516239706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_22
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1164
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3de9bd2073440219f0980f163f51ec
+      internalID: 812161029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_23
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 1164
+        width: 147
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f166c8028e7c54cbda593946b9527a8d
+      internalID: -1804005135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_24
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1167
+        width: 145
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0310d6ea752ea4950b9d581b43b74f0e
+      internalID: 1681335803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 974
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51680081e779a475b92b2780676cde01
+      internalID: -269356626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 974
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224911e2177a24e91a2d4997fb1e178e
+      internalID: -89531351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_27
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 973
+        width: 148
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9be73ac8f70e49eaace292c18a1cd1f
+      internalID: -1882563747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_28
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 973
+        width: 148
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e15d06e4d0743f1ae179721f659c8f
+      internalID: 1341588715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_29
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 973
+        width: 150
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0848681712df24762a9195a53f282c47
+      internalID: 535757488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_30
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 972
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa934fe618ef4e0091d201e541b89ab
+      internalID: -1978784469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_31
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 972
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6804a7cb6e8449f5add37a8bedb1d45
+      internalID: -739721790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_32
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 972
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27f5572816ed4696bb7f08158c9be0d
+      internalID: 1065988778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_33
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 972
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaf24d83b7924dcc9c8f301bfe5ca1c
+      internalID: -431326686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_34
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 975
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b78cf561011463db4e7ad9b9038b90
+      internalID: -1028177070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_35
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 784
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf62ef850ae7a4dcdbf74a269412c499
+      internalID: 167118367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 783
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afac5807d3b84cb5b959b4d06a1feed
+      internalID: 1186797168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_37
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 783
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e857eaff9ef904fa9bf010543f521754
+      internalID: -1673763439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_38
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 782
+        width: 155
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7183e1338a3af4103a10e67f2959221a
+      internalID: -549696858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_39
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 782
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50a77c9c86a04bac93fb6f1391c7115
+      internalID: 902528671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_40
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 782
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063520a3163a34127b876eac893c284a
+      internalID: -1280037910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_41
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 782
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ba4466344fb443f80b05105930d647
+      internalID: -898123771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_42
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 781
+        width: 158
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa84d623f6774b309584be08984b274
+      internalID: 142758653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_43
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 781
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae71599d02884fbdb9faae812c969b1
+      internalID: -1318414623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_44
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 784
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b51b3275f3c84dd3855f2bb4ac9608d
+      internalID: -1160134750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 579
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8a09fbe7c024c1a9629bdd908ce316
+      internalID: -252098482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_46
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 578
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b034abd4cfc904759be920ade1f08187
+      internalID: -851731576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 578
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9861d6263184802b9b7a728eeaae55
+      internalID: 1032153946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_48
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 578
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5881baeaaa25a47c084e89994efcc97f
+      internalID: 614824263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_49
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 577
+        width: 163
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63dafe1f83d74611a26b49149e0b89b
+      internalID: 336939904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_50
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 577
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee68316f853b04585bf22ebd25dfaf81
+      internalID: -367813707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_51
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 577
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75361ce8f64e41648bbcf002ccad60c
+      internalID: -1194007987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_52
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 576
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec743cb209a7491c8620698a09c0382
+      internalID: -472032542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_53
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 576
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbaaf9403824416b9e9c80a626aacc5
+      internalID: 1580459370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_54
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 580
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54ffbc4ecc8c421c92ebd42097353c8
+      internalID: 1848280766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 382
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921b03bd95b394740aeb221c3957035e
+      internalID: 693661279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_56
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 381
+        width: 169
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927a3853f2e5548769d891b29efb1ed3
+      internalID: 762313085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_57
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 380
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0eb638d1bf2451f985299af49df827
+      internalID: 1109139831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_58
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 379
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b9c38e0f3824dea92f2631e9ea3867
+      internalID: -829428909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_59
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 380
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca5ccc41e4f14563b83daeb1957240a
+      internalID: 952675248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_60
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 379
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700e170844caa485c87e11cf3299ee58
+      internalID: -1987203536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_61
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 379
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961d3bf785388487ab105833b43f0e0a
+      internalID: -1889293508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_62
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 379
+        width: 171
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6993a0a1b03ef43e6b7f3a3383bb6c2a
+      internalID: 1102479299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_63
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 379
+        width: 171
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a483596173a498d847a1a4123d37db
+      internalID: 2070202042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_64
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 383
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7af6e5b2e4f444ebfd3ef09529adf6
+      internalID: -379732921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_65
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 174
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8118f9cb8f19c4b1b96a701985e6f261
+      internalID: 1858569543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_66
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 174
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823576212dc2e40a28cde5a32aaefc80
+      internalID: 1664222450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_67
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 174
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe02727b34ee04c218dbc6f137d0b336
+      internalID: -50256994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 174
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f97e40fea4d467d87ffa39224005f9
+      internalID: -2013897889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_69
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 174
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bd23848552c4a2cac45b055d8ff52a
+      internalID: 1366311834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_70
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 174
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2005fbf845d5c4575969b3e65b89b68f
+      internalID: 1944824114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_71
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 174
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c753c6e742426385fc9b0ce4b60fe
+      internalID: 278409689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bola verde_72
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 174
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba776ba356df4ec3ade8ecb94c5aa4c
+      internalID: 10688460
       vertices: []
       indices: 
       edges: []
@@ -1901,7 +1725,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: fcc4dd0e059ff41d987cae5111c26ea2
+    spriteID: 0ec59145cf3974147bfcc1feced0fd07
     internalID: 0
     vertices: []
     indices: 
@@ -1909,91 +1733,80 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":230.0,"y":200.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Bola verde_0: 651801495
-      Bola verde_1: 245792103
-      Bola verde_10: 292274948
-      Bola verde_11: 301433866
-      Bola verde_12: -1927887339
-      Bola verde_13: -238024186
-      Bola verde_14: -1808348933
-      Bola verde_15: -1172387958
-      Bola verde_16: 195352217
-      Bola verde_17: -943004970
-      Bola verde_18: 1616875325
-      Bola verde_19: -59601332
-      Bola verde_2: 1808998813
-      Bola verde_20: -1851196451
-      Bola verde_21: 107934039
-      Bola verde_22: 1643043216
-      Bola verde_23: 202161557
-      Bola verde_24: 1630464837
-      Bola verde_25: -2079673569
-      Bola verde_26: 1388755845
-      Bola verde_27: 430740844
-      Bola verde_28: -1706064191
-      Bola verde_29: -1430129486
-      Bola verde_3: -2004722016
-      Bola verde_30: 1230406978
-      Bola verde_31: 436242327
-      Bola verde_32: 2132754535
-      Bola verde_33: -553114170
-      Bola verde_34: 1986191147
-      Bola verde_35: 1029930613
-      Bola verde_36: 192454660
-      Bola verde_37: 952718226
-      Bola verde_38: 160090625
-      Bola verde_39: 1916524800
-      Bola verde_4: -1837468631
-      Bola verde_40: -667992652
-      Bola verde_41: -1472575280
-      Bola verde_42: 261067601
-      Bola verde_43: -1883172203
-      Bola verde_44: 1026333287
-      Bola verde_45: 1024453282
-      Bola verde_46: 870058344
-      Bola verde_47: 213604883
-      Bola verde_48: -1310222145
-      Bola verde_49: -1011459613
-      Bola verde_5: 1616983914
-      Bola verde_50: 33858816
-      Bola verde_51: -640099235
-      Bola verde_52: -1489584664
-      Bola verde_53: -1727340890
-      Bola verde_54: 1820342027
-      Bola verde_55: -913203741
-      Bola verde_56: -2128980294
-      Bola verde_57: -506998550
-      Bola verde_58: -349245318
-      Bola verde_59: 1154919813
-      Bola verde_6: -2044522347
-      Bola verde_60: 289917355
-      Bola verde_61: 721376451
-      Bola verde_62: 10218864
-      Bola verde_63: -47196584
-      Bola verde_64: -1729808475
-      Bola verde_65: -1848147056
-      Bola verde_66: 378415818
-      Bola verde_67: -354925069
-      Bola verde_68: -151387313
-      Bola verde_69: -2129074181
-      Bola verde_7: -1328736207
-      Bola verde_70: 2056092584
-      Bola verde_71: -702431563
-      Bola verde_72: 2012390
-      Bola verde_73: 830043
-      Bola verde_74: -1995675308
-      Bola verde_75: 1141068597
-      Bola verde_76: -760537120
-      Bola verde_77: 1493155686
-      Bola verde_78: 789583593
-      Bola verde_79: -1187109197
-      Bola verde_8: -1981451864
-      Bola verde_80: 1714351914
-      Bola verde_9: -1699510575
+      Bola verde_10: 79972653
+      Bola verde_11: -1577991809
+      Bola verde_12: -1213027362
+      Bola verde_13: -456610476
+      Bola verde_14: 1939635776
+      Bola verde_15: -630302041
+      Bola verde_16: -848423408
+      Bola verde_17: -1836590036
+      Bola verde_18: -603350991
+      Bola verde_19: -1657290012
+      Bola verde_2: 1727170580
+      Bola verde_20: -1930429542
+      Bola verde_21: -1516239706
+      Bola verde_22: 812161029
+      Bola verde_23: -1804005135
+      Bola verde_24: 1681335803
+      Bola verde_25: -269356626
+      Bola verde_26: -89531351
+      Bola verde_27: -1882563747
+      Bola verde_28: 1341588715
+      Bola verde_29: 535757488
+      Bola verde_3: 254629007
+      Bola verde_30: -1978784469
+      Bola verde_31: -739721790
+      Bola verde_32: 1065988778
+      Bola verde_33: -431326686
+      Bola verde_34: -1028177070
+      Bola verde_35: 167118367
+      Bola verde_36: 1186797168
+      Bola verde_37: -1673763439
+      Bola verde_38: -549696858
+      Bola verde_39: 902528671
+      Bola verde_4: 323955406
+      Bola verde_40: -1280037910
+      Bola verde_41: -898123771
+      Bola verde_42: 142758653
+      Bola verde_43: -1318414623
+      Bola verde_44: -1160134750
+      Bola verde_45: -252098482
+      Bola verde_46: -851731576
+      Bola verde_47: 1032153946
+      Bola verde_48: 614824263
+      Bola verde_49: 336939904
+      Bola verde_5: 266698453
+      Bola verde_50: -367813707
+      Bola verde_51: -1194007987
+      Bola verde_52: -472032542
+      Bola verde_53: 1580459370
+      Bola verde_54: 1848280766
+      Bola verde_55: 693661279
+      Bola verde_56: 762313085
+      Bola verde_57: 1109139831
+      Bola verde_58: -829428909
+      Bola verde_59: 952675248
+      Bola verde_6: -1228876111
+      Bola verde_60: -1987203536
+      Bola verde_61: -1889293508
+      Bola verde_62: 1102479299
+      Bola verde_63: 2070202042
+      Bola verde_64: -379732921
+      Bola verde_65: 1858569543
+      Bola verde_66: 1664222450
+      Bola verde_67: -50256994
+      Bola verde_68: -2013897889
+      Bola verde_69: 1366311834
+      Bola verde_7: 710652287
+      Bola verde_70: 1944824114
+      Bola verde_71: 278409689
+      Bola verde_72: 10688460
+      Bola verde_73: 7950645747511277780
+      Bola verde_8: 522297655
+      Bola verde_9: 1628378330
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
