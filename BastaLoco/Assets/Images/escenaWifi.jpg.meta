@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      escenaWifi_0: -8592541581640427331
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
