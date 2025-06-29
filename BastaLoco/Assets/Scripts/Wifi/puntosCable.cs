@@ -30,5 +30,5 @@ public class puntosCable : MonoBehaviour
             pos.z = 0;
             transform.position = pos;
         }
-    }
+    } 
 }
