@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fe5cc0acd4b676140907b603a3be03b7
+guid: f0951add0a6780e45be5d47efb01e7c2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1922993037657625656
-    second: Sacabolitas_0
+      213: 8942691392792166254
+    second: Mesa de trabajo 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sacabolitas_0
+      name: Mesa de trabajo 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 281
-        height: 325
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 834d123baf7dfaa10800000000000000
-      internalID: 1922993037657625656
+      spriteID: e6ff15bf072da1c70800000000000000
+      internalID: 8942691392792166254
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Sacabolitas_0: 1922993037657625656
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

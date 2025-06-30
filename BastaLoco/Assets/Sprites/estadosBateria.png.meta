@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      estadosBateria_0: -8162847880850845564
+      estadosBateria_1: 679190428021264864
+      estadosBateria_2: 3750979674180830107
+      estadosBateria_3: -2465174228007558664
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
