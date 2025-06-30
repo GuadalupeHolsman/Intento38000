@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f0951add0a6780e45be5d47efb01e7c2
+guid: 8b64c74dcccd3422b836f640380578dd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8942691392792166254
-    second: Mesa de trabajo 1_0
+      213: 7833872162660363392
+    second: IMG_0358_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mesa de trabajo 1_0
+      name: IMG_0358_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e6ff15bf072da1c70800000000000000
-      internalID: 8942691392792166254
+      spriteID: 08c213fe93187bc60800000000000000
+      internalID: 7833872162660363392
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Mesa de trabajo 1_0: 8942691392792166254
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

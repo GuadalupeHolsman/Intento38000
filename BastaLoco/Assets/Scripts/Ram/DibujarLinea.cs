@@ -3,23 +3,23 @@ using System.Collections.Generic;
 
 public class DibujarLinea : MonoBehaviour
 {
-    
-    public Transform[] puntosLinea; // Ahora soporta varios puntos (minimo 2)
+    public Transform[] puntosLinea;
+
+    [Header("Color del cable")]
+    [SerializeField] private Color colorLinea = Color.white;
+
     private LineRenderer linea;
-    private Color colorLinea;
 
     void Start()
     {
-        ColorUtility.TryParseHtmlString("#060428", out colorLinea);
-
         linea = GetComponent<LineRenderer>();
         linea.positionCount = puntosLinea.Length;
-        linea.material = new Material(Shader.Find("Sprites/Default"));
+
+        // NO modificar el material en tiempo de ejecución si ya se asignó en el Inspector
         linea.startColor = colorLinea;
         linea.endColor = colorLinea;
         linea.startWidth = 0.1f;
         linea.endWidth = 0.1f;
-    
     }
 
     void Update()
@@ -31,7 +31,7 @@ public class DibujarLinea : MonoBehaviour
     }
 
     public void SetColor(Color nuevoColor)
-    {
+    { 
         colorLinea = nuevoColor;
         if (linea != null)
         {
