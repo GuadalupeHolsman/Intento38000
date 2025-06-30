@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections.Generic;
 
 public class ArrastrarCable2D : MonoBehaviour
 {
@@ -6,14 +7,16 @@ public class ArrastrarCable2D : MonoBehaviour
     private Camera camara;
     private Vector3 offset;
 
+    public UnityEngine.Events.UnityEvent alConectar;
+
     [Header("Conexión")]
     public Transform puntoConexion;                     // Transform del destino
     public float distanciaConexion = 0.5f;              // Rango de snap
     public bool conectado = false;
 
-    [Header("Cambio visual al conectar")]
-    public SpriteRenderer spriteDelDestino;             // SpriteRenderer del conector en el destino
-    public Sprite spriteConectado;                      // Sprite a mostrar cuando se conecta
+    //[Header("Cambio visual al conectar")]
+    //public SpriteRenderer spriteDelDestino;             // SpriteRenderer del conector en el destino
+    //public Sprite spriteConectado;                      // Sprite a mostrar cuando se conecta
 
     void Start()
     {
@@ -39,12 +42,13 @@ public class ArrastrarCable2D : MonoBehaviour
             {
                 transform.position = puntoConexion.position;
                 conectado = true;
+                alConectar.Invoke();
 
                 // Cambio de sprite visual
-                if (spriteDelDestino != null && spriteConectado != null)
+                /* if (spriteDelDestino != null && spriteConectado != null)
                 {
                     spriteDelDestino.sprite = spriteConectado;
-                }
+                } */
 
                 Debug.Log("¡Conectado!");
             }

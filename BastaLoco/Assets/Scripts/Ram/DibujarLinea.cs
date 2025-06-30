@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections.Generic;
 
 public class DibujarLinea : MonoBehaviour
 {
@@ -26,6 +27,16 @@ public class DibujarLinea : MonoBehaviour
         for (int i = 0; i < puntosLinea.Length; i++)
         {
             linea.SetPosition(i, puntosLinea[i].position);
+        }
+    }
+
+    public void SetColor(Color nuevoColor)
+    {
+        colorLinea = nuevoColor;
+        if (linea != null)
+        {
+            linea.startColor = nuevoColor;
+            linea.endColor = nuevoColor;
         }
     }
 }
