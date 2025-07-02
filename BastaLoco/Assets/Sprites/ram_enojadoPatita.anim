@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ram_mirarArriba
+  m_Name: ram_enojadoPatita
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,9 +21,9 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: -8168324951131379439, guid: eba2df9555fff4b8e8b6dab08feeec43, type: 3}
+      value: {fileID: 1480474347197713032, guid: 4594865435a9d4e6e85c9ff07add70da, type: 3}
     - time: 0.083333336
-      value: {fileID: 1019713439432011319, guid: eba2df9555fff4b8e8b6dab08feeec43, type: 3}
+      value: {fileID: 2327079419520321675, guid: 4594865435a9d4e6e85c9ff07add70da, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -46,8 +46,8 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: -8168324951131379439, guid: eba2df9555fff4b8e8b6dab08feeec43, type: 3}
-    - {fileID: 1019713439432011319, guid: eba2df9555fff4b8e8b6dab08feeec43, type: 3}
+    - {fileID: 1480474347197713032, guid: 4594865435a9d4e6e85c9ff07add70da, type: 3}
+    - {fileID: 2327079419520321675, guid: 4594865435a9d4e6e85c9ff07add70da, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
