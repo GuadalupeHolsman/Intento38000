@@ -3,74 +3,113 @@ using System.Collections;
 
 public class caminaYDesaparece : MonoBehaviour
 {
-    public Vector3 puntoInicial;
-    public Vector3 puntoFinal;
+    public Vector3 puntoIntermedio1;  // punto en el escalón
+    public Vector3 puntoFinal;        // donde deja la bolita
+    private Vector3 puntoInicial;     // donde arranca (se toma en Start)
+
     public float velocidad = 2f;
 
-    Animator animator;
+    public GameObject bolitaHija;
 
-    public float pausaAntesDeDesaparecer = 1f;
-    public float pausaEntreHijoYPadre = 1f;
-    public float pausaAntesDeVolver = 1f;
+    public float pausaAntesDeDejarBolita = 1f;
+    public float pausaAntesDeRegresar = 1f;
+    public float tiempoEsperaAntesDeReiniciar = 2f;
 
-    private SpriteRenderer[] sprites;
-    private SpriteRenderer spritePadre;
-    private bool enMovimiento = true;
+    private Animator animator;
+
+    private enum Estado
+    {
+        Subiendo,
+        Caminando,
+        DejandoBolita,
+        Esperando,
+        Volviendo1,
+        Bajando,
+        EsperandoReinicio
+    }
+
+    private Estado estadoActual = Estado.Subiendo;
 
     void Start()
     {
         puntoInicial = transform.position;
 
-        // Obtener todos los SpriteRenderer
-        sprites = GetComponentsInChildren<SpriteRenderer>();
-        spritePadre = GetComponent<SpriteRenderer>();
+        // Ahora la bolita empieza visible
+        if (bolitaHija != null)
+            bolitaHija.SetActive(true);
+
         animator = GetComponent<Animator>();
     }
 
     void Update()
     {
-        if (enMovimiento)
+        switch (estadoActual)
         {
-            transform.position = Vector3.MoveTowards(transform.position, puntoFinal, velocidad * Time.deltaTime);
+            case Estado.Subiendo:
+                animator.Play("ram_sube");
+                MoverHacia(puntoIntermedio1, Estado.Caminando);
+                break;
 
-            if (Vector3.Distance(transform.position, puntoFinal) < 0.01f)
-            {
-                enMovimiento = false;
-                animator.enabled = false;
-                StartCoroutine(EsperarYDesaparecer());
-            }
-        } 
+            case Estado.Caminando:
+                animator.Play("ram_camina");
+                MoverHacia(puntoFinal, Estado.DejandoBolita);
+                break;
+
+            case Estado.Volviendo1:
+                animator.Play("ram_regresa");
+                MoverHacia(puntoIntermedio1, Estado.Bajando);
+                break;
+
+            case Estado.Bajando:
+                animator.Play("ram_baja");
+                MoverHacia(puntoInicial, Estado.EsperandoReinicio);
+                break;
+
+            case Estado.EsperandoReinicio:
+                // no hacer nada aquí, esperar coroutine
+                break;
+        }
     }
 
-    IEnumerator EsperarYDesaparecer()
+    void MoverHacia(Vector3 destino, Estado siguienteEstado)
     {
-        // Espera al llegar
-        yield return new WaitForSeconds(pausaAntesDeDesaparecer);
-        
+        transform.position = Vector3.MoveTowards(transform.position, destino, velocidad * Time.deltaTime);
 
-        // Desaparece los hijos (todos excepto el padre)
-        foreach (var sr in sprites)
+        if (Vector3.Distance(transform.position, destino) < 0.01f)
         {
-            if (sr != spritePadre)
-                sr.enabled = false;
+            estadoActual = siguienteEstado;
+
+            if (siguienteEstado == Estado.DejandoBolita)
+            {
+                StartCoroutine(ProcesoDejarBolita());
+            }
+            else if (siguienteEstado == Estado.EsperandoReinicio)
+            {
+                StartCoroutine(EsperarYReiniciar());
+            }
         }
+    }
 
-        // Espera antes de ocultar el padre
-        yield return new WaitForSeconds(pausaEntreHijoYPadre);
+    IEnumerator ProcesoDejarBolita()
+    {
+        animator.Play("ram_dejaBolita");
 
-        if (spritePadre != null)
-            spritePadre.enabled = false;
+        yield return new WaitForSeconds(pausaAntesDeDejarBolita);
 
-        // Espera antes de reiniciar
-        yield return new WaitForSeconds(pausaAntesDeVolver);
+        if (bolitaHija != null)
+            bolitaHija.SetActive(false);
 
-        // Reset: posición y visibilidad
-        transform.position = puntoInicial;
-        enMovimiento = true;
-        animator.enabled = true;
+        yield return new WaitForSeconds(pausaAntesDeRegresar);
 
-        foreach (var sr in sprites)
-            sr.enabled = true;
-        
+        estadoActual = Estado.Volviendo1;
+    }
+
+    IEnumerator EsperarYReiniciar()
+    {
+        yield return new WaitForSeconds(tiempoEsperaAntesDeReiniciar);
+        if (bolitaHija != null)
+            bolitaHija.SetActive(true); // vuelve a aparecer al reiniciar
+            
+        estadoActual = Estado.Subiendo;
     }
 }
