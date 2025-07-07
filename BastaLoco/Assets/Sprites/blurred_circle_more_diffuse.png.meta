@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blurred_circle_more_diffuse_0: 8809518001162403003
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

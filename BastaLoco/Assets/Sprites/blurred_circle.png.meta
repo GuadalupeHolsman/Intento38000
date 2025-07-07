@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blurred_circle_0: -2058988267724344735
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
