@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 195bb138bea85ee4bb1170b47e985060
+guid: 7c5f0c99476e5425ba4512692b447310
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 950654221346581600
-    second: indicador_0
+      213: -5307683223504026659
+    second: wifi_derecha_0
+  - first:
+      213: -8656834184606341447
+    second: wifi_derecha_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +116,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: indicador_0
+      name: wifi_derecha_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 14
-        height: 19
+        width: 113
+        height: 251
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06ca69f3af6613d00800000000000000
-      internalID: 950654221346581600
+      spriteID: dd30eb2ca325756b0800000000000000
+      internalID: -5307683223504026659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wifi_derecha_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 123
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6a41bcc2fbcd780800000000000000
+      internalID: -8656834184606341447
       vertices: []
       indices: 
       edges: []
@@ -138,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9c1e220d9f73b48de82865f2af1b6ef5
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      indicador_0: 950654221346581600
+      wifi_derecha_0: -5307683223504026659
+      wifi_derecha_1: -8656834184606341447
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      temperatura-equilibrado_0: -8038281335869351822
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

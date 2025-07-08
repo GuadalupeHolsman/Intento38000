@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      temperatura-caliente_0: -6191241878651863599
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

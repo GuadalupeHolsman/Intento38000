@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      temperatura-frio_0: 2247380520852427174
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

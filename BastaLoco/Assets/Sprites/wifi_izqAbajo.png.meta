@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 195bb138bea85ee4bb1170b47e985060
+guid: ef5f7be05206d481bb3ed69014a76045
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 950654221346581600
-    second: indicador_0
+      213: -265811922776112932
+    second: wifi_izqAbajo_0
+  - first:
+      213: 8288936639789835313
+    second: wifi_izqAbajo_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +116,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: indicador_0
+      name: wifi_izqAbajo_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 14
-        height: 19
+        width: 190
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06ca69f3af6613d00800000000000000
-      internalID: 950654221346581600
+      spriteID: cd0cddde675af4cf0800000000000000
+      internalID: -265811922776112932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wifi_izqAbajo_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 151
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134a46c05f7380370800000000000000
+      internalID: 8288936639789835313
       vertices: []
       indices: 
       edges: []
@@ -138,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 56f519d81061a4766a5d422983d8a3dd
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      indicador_0: 950654221346581600
+      wifi_izqAbajo_0: -265811922776112932
+      wifi_izqAbajo_1: 8288936639789835313
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 195bb138bea85ee4bb1170b47e985060
+guid: 3eb3a8ba365924bac8981fa183c5697f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 950654221346581600
-    second: indicador_0
+      213: 6469444370578809874
+    second: wifi_adelante_0
+  - first:
+      213: 3357418557685995958
+    second: wifi_adelante_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +116,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: indicador_0
+      name: wifi_adelante_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 14
-        height: 19
+        width: 151
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06ca69f3af6613d00800000000000000
-      internalID: 950654221346581600
+      spriteID: 2142082e06518c950800000000000000
+      internalID: 6469444370578809874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wifi_adelante_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 190
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b99d2dc362f79e20800000000000000
+      internalID: 3357418557685995958
       vertices: []
       indices: 
       edges: []
@@ -138,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5c7f28721e82c448eb6b83868d77b488
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      indicador_0: 950654221346581600
+      wifi_adelante_0: 6469444370578809874
+      wifi_adelante_1: 3357418557685995958
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 195bb138bea85ee4bb1170b47e985060
+guid: 268427c969b07486c9967872d6e4f147
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 950654221346581600
-    second: indicador_0
+      213: -3696777429320386095
+    second: wifi_esperando1_0
+  - first:
+      213: -5534524626697538315
+    second: wifi_esperando1_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +116,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: indicador_0
+      name: wifi_esperando1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 14
-        height: 19
+        width: 116
+        height: 252
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06ca69f3af6613d00800000000000000
-      internalID: 950654221346581600
+      spriteID: 1d93dafa38862bcc0800000000000000
+      internalID: -3696777429320386095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wifi_esperando1_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 116
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4ba09dc2b6133b0800000000000000
+      internalID: -5534524626697538315
       vertices: []
       indices: 
       edges: []
@@ -138,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a0744ac955d344442a9d59573b0b9b9d
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      indicador_0: 950654221346581600
+      wifi_esperando1_0: -3696777429320386095
+      wifi_esperando1_1: -5534524626697538315
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

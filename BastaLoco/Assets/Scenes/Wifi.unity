@@ -298,6 +298,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nombreEscena: CloseUpPc
+  sonido: {fileID: 0}
 --- !u!61 &87343167
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -792,7 +793,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 4
-  m_Sprite: {fileID: 7783881288029238904, guid: dff9175a1fcc34b459c8cfaee4f58004, type: 3}
+  m_Sprite: {fileID: 5774399066807230520, guid: 404253df417f54d12aaa6356d97595c6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -812,8 +813,8 @@ Transform:
   m_GameObject: {fileID: 318865143}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.007, y: 0.285, z: 0}
-  m_LocalScale: {x: 0.371133, y: 0.371133, z: 0.371133}
+  m_LocalPosition: {x: 0.024, y: 0.3073, z: 0}
+  m_LocalScale: {x: 0.26321322, y: 0.26321322, z: 0.26321322}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 625741015}

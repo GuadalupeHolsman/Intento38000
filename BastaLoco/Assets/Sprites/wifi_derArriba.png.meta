@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 195bb138bea85ee4bb1170b47e985060
+guid: f263d4e7af5a94fc6a918d974b050597
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 950654221346581600
-    second: indicador_0
+      213: 335643622350773667
+    second: wifi_derArriba_0
+  - first:
+      213: 7627839654928344714
+    second: wifi_derArriba_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +116,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: indicador_0
+      name: wifi_derArriba_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 14
-        height: 19
+        width: 178
+        height: 245
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06ca69f3af6613d00800000000000000
-      internalID: 950654221346581600
+      spriteID: 3add751a81278a400800000000000000
+      internalID: 335643622350773667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wifi_derArriba_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 169
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8664ab80c78bd960800000000000000
+      internalID: 7627839654928344714
       vertices: []
       indices: 
       edges: []
@@ -138,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ce7ec21fad12d49eaba673e16b2b5684
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      indicador_0: 950654221346581600
+      wifi_derArriba_0: 335643622350773667
+      wifi_derArriba_1: 7627839654928344714
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
