@@ -26,6 +26,13 @@ public class seguirPunto : MonoBehaviour
     void Update()
     {
         if (puntoDestino == null) return;
+        /* if (puntoDestino == null)
+        {
+            animator.SetBool("cayendo", true); // parámetro del Animator
+            // Acá podrías hacer que caiga hacia abajo
+            transform.position += Vector3.down * velocidad * Time.deltaTime;
+            return;
+        } */
 
         Vector3 direccion = puntoDestino.position - transform.position;
 

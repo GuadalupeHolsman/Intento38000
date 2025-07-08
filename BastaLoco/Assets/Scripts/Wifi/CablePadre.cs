@@ -1,10 +1,13 @@
 using UnityEngine;
+using System.Collections.Generic;
 
 public class CablePadre : MonoBehaviour
 {
     public Transform[] puntosCable; 
     private LineRenderer linea;
     private Color colorLinea;
+    
+    //public BoxCollider2D zonaValida;
 
     void Start()
     {
@@ -27,4 +30,23 @@ public class CablePadre : MonoBehaviour
             linea.SetPosition(i, puntosCable[i].position);
         }
     }
+
+    /* public void EliminarPunto(Transform punto)
+    {
+        List<Transform> nuevaLista = new List<Transform>(puntosCable);
+        nuevaLista.Remove(punto);
+        puntosCable = nuevaLista.ToArray();
+        linea.positionCount = puntosCable.Length;
+    } */
+
+    /* void OnDrawGizmosSelected()
+{
+    if (zonaValida != null)
+    {
+        Gizmos.color = Color.cyan;  // Elegí el color que prefieras
+        Vector3 pos = zonaValida.bounds.center;
+        Vector3 size = zonaValida.bounds.size;
+        Gizmos.DrawWireCube(pos, size);
+    }
+} */
 }
