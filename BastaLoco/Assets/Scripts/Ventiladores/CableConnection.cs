@@ -11,18 +11,27 @@ public class CableConnection : MonoBehaviour
     public BalanzaManager balanzaManager;
 
     [Header("Sonido")]
-    public AudioClip sonidoConexion;      // <-- arrastrás el sonido desde el inspector
+    public AudioClip sonidoConexion;      // arrastrás el sonido desde el inspector
     private AudioSource audioSource;      // interno
 
     [Header("Velocidad de cambio")]
     public float tiempoCambio = 1f;
+
+    [Header("Sprites del cable")]
+    public Sprite spriteDesconectado;
+    public Sprite spriteConectado;
+    public SpriteRenderer spriteRenderer;
 
     private GameObject ventiladorConectado;
     private float tiempoActual = 0f;
 
     void Start()
     {
-        audioSource = GetComponent<AudioSource>();  // busca el componente AudioSource
+        audioSource = GetComponent<AudioSource>();
+
+        // Mostrar sprite desconectado al inicio
+        if (spriteRenderer != null && spriteDesconectado != null)
+            spriteRenderer.sprite = spriteDesconectado;
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -32,12 +41,17 @@ public class CableConnection : MonoBehaviour
             ventiladorConectado = other.gameObject;
             tiempoActual = 0f;
 
+            // Cambiar sprite a "conectado"
+            if (spriteRenderer != null && spriteConectado != null)
+                spriteRenderer.sprite = spriteConectado;
+
+            // Activar partículas
             if (ventiladorConectado == ventiladorFrio && particulasFrio != null)
                 particulasFrio.Play();
             else if (ventiladorConectado == ventiladorCalor && particulasCalor != null)
                 particulasCalor.Play();
 
-            // ▶️ Reproducir sonido
+            // Reproducir sonido
             if (sonidoConexion != null && audioSource != null)
                 audioSource.PlayOneShot(sonidoConexion);
 
@@ -49,6 +63,11 @@ public class CableConnection : MonoBehaviour
     {
         if (other.gameObject == ventiladorConectado)
         {
+            // Cambiar sprite a "desconectado"
+            if (spriteRenderer != null && spriteDesconectado != null)
+                spriteRenderer.sprite = spriteDesconectado;
+
+            // Detener partículas
             if (ventiladorConectado == ventiladorFrio && particulasFrio != null)
                 particulasFrio.Stop();
             else if (ventiladorConectado == ventiladorCalor && particulasCalor != null)

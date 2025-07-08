@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a0410edfa3b2b428ea484fbece133145
+guid: 29b8a92aaafc76a4488e5b33d4150c20
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5520969028336748118
-    second: zonaLimite_0
+      213: -5625656264485808925
+    second: VENTILADORES OK 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: zonaLimite_0
+      name: VENTILADORES OK 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2594
-        height: 940
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 65602f5741c6e9c40800000000000000
-      internalID: 5520969028336748118
+      spriteID: 3e45fd6fe67ade1b0800000000000000
+      internalID: -5625656264485808925
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      zonaLimite_0: 5520969028336748118
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
