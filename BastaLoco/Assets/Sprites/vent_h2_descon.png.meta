@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 29b8a92aaafc76a4488e5b33d4150c20
+guid: 5557a8cf002d34baeacbc1c3e9bdbe07
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5625656264485808925
-    second: VENTILADORES OK 1_0
+      213: 1387463118037927715
+    second: vent_h2_descon_0
+  - first:
+      213: 8486943134812383403
+    second: vent_h2_descon_1
+  - first:
+      213: -8000995827311037581
+    second: vent_h2_descon_2
+  - first:
+      213: -2912815781371176545
+    second: vent_h2_descon_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +122,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: VENTILADORES OK 1_0
+      name: vent_h2_descon_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1080
+        width: 323
+        height: 325
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3e45fd6fe67ade1b0800000000000000
-      internalID: -5625656264485808925
+      spriteID: 3274b91da52414310800000000000000
+      internalID: 1387463118037927715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vent_h2_descon_1
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 314
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8ae6bb0dda7c570800000000000000
+      internalID: 8486943134812383403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vent_h2_descon_2
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 278
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3733eb7afa0c6f090800000000000000
+      internalID: -8000995827311037581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vent_h2_descon_3
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 68
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f991837ca799397d0800000000000000
+      internalID: -2912815781371176545
       vertices: []
       indices: 
       edges: []
@@ -138,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 24b93b897f37d407d9e9984e89b2c85a
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      VENTILADORES OK 1_0: -5625656264485808925
+      vent_h2_descon_0: 1387463118037927715
+      vent_h2_descon_1: 8486943134812383403
+      vent_h2_descon_2: -8000995827311037581
+      vent_h2_descon_3: -2912815781371176545
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

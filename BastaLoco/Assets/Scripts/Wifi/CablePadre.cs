@@ -6,8 +6,7 @@ public class CablePadre : MonoBehaviour
     public Transform[] puntosCable; 
     private LineRenderer linea;
     private Color colorLinea;
-    
-    //public BoxCollider2D zonaValida;
+    public PolygonCollider2D zonaValida;
 
     void Start()
     {
@@ -31,15 +30,15 @@ public class CablePadre : MonoBehaviour
         }
     }
 
-    /* public void EliminarPunto(Transform punto)
+    public void EliminarPunto(Transform punto)
     {
         List<Transform> nuevaLista = new List<Transform>(puntosCable);
         nuevaLista.Remove(punto);
         puntosCable = nuevaLista.ToArray();
         linea.positionCount = puntosCable.Length;
-    } */
+    } 
 
-    /* void OnDrawGizmosSelected()
+     void OnDrawGizmosSelected()
 {
     if (zonaValida != null)
     {
@@ -48,5 +47,5 @@ public class CablePadre : MonoBehaviour
         Vector3 size = zonaValida.bounds.size;
         Gizmos.DrawWireCube(pos, size);
     }
-} */
+} 
 }

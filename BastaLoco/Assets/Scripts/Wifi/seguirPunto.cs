@@ -25,14 +25,26 @@ public class seguirPunto : MonoBehaviour
 
     void Update()
     {
-        if (puntoDestino == null) return;
+        //Los personajes caen
         /* if (puntoDestino == null)
         {
-            animator.SetBool("cayendo", true); // parámetro del Animator
-            // Acá podrías hacer que caiga hacia abajo
+            if (animator != null)
+            {
+                animator.SetBool("caminando", false);
+                animator.SetBool("cayendo", true); // parámetro opcional si tenés animación de caída
+            }
+
+            // Caída hacia abajo si pierde el punto
             transform.position += Vector3.down * velocidad * Time.deltaTime;
             return;
-        } */
+        }  */
+
+        //Los personajes desaparecen
+        if (puntoDestino == null)
+        {
+            Destroy(gameObject);
+            return;
+        } 
 
         Vector3 direccion = puntoDestino.position - transform.position;
 
@@ -71,7 +83,7 @@ public class seguirPunto : MonoBehaviour
     IEnumerator EsperarAntesDeMover()
     {
         esperando = true;
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(0.5f);
 
         debeMoverse = true;
         if (animator != null) animator.SetBool("caminando", true);

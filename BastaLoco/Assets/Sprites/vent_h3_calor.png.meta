@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 29b8a92aaafc76a4488e5b33d4150c20
+guid: 180f883b112bc475db5444df94a3f490
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5625656264485808925
-    second: VENTILADORES OK 1_0
+      213: -5484253242217446269
+    second: vent_h3_calor_0
+  - first:
+      213: -8306884400606672797
+    second: vent_h3_calor_1
+  - first:
+      213: 4240263886885712276
+    second: vent_h3_calor_2
+  - first:
+      213: -2806137182462488859
+    second: vent_h3_calor_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +122,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: VENTILADORES OK 1_0
+      name: vent_h3_calor_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 371
+        y: 39
+        width: 23
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3e45fd6fe67ade1b0800000000000000
-      internalID: -5625656264485808925
+      spriteID: 3844857abb404e3b0800000000000000
+      internalID: -5484253242217446269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vent_h3_calor_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 331
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3680b9f36a408bc80800000000000000
+      internalID: -8306884400606672797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vent_h3_calor_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 74
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4917dbb0a8178da30800000000000000
+      internalID: 4240263886885712276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vent_h3_calor_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 331
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eece40a9199e09d0800000000000000
+      internalID: -2806137182462488859
       vertices: []
       indices: 
       edges: []
@@ -138,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c06493f870300489d9fabfaa38350351
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      VENTILADORES OK 1_0: -5625656264485808925
+      vent_h3_calor_0: -5484253242217446269
+      vent_h3_calor_1: -8306884400606672797
+      vent_h3_calor_2: 4240263886885712276
+      vent_h3_calor_3: -2806137182462488859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VENTILADORES OK 1_0: -5625656264485808925
+      VENTILADORES OK 1_1: 8585937241560662382
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

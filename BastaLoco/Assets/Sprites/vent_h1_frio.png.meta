@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 29b8a92aaafc76a4488e5b33d4150c20
+guid: 5e997e065f38141c8bf8de8f27553046
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5625656264485808925
-    second: VENTILADORES OK 1_0
+      213: -9220308431605138884
+    second: vent_h1_frio_0
+  - first:
+      213: 1894148242049978719
+    second: vent_h1_frio_1
+  - first:
+      213: 7579475769547959493
+    second: vent_h1_frio_2
+  - first:
+      213: 3914138137696193772
+    second: vent_h1_frio_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +122,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: VENTILADORES OK 1_0
+      name: vent_h1_frio_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1080
+        width: 163
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3e45fd6fe67ade1b0800000000000000
-      internalID: -5625656264485808925
+      spriteID: c3af2ae2552ea0080800000000000000
+      internalID: -9220308431605138884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vent_h1_frio_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 168
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51d15f5acd594a10800000000000000
+      internalID: 1894148242049978719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vent_h1_frio_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 238
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc269bfd05bf2960800000000000000
+      internalID: 7579475769547959493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vent_h1_frio_3
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecc033f5efc15630800000000000000
+      internalID: 3914138137696193772
       vertices: []
       indices: 
       edges: []
@@ -138,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 83092d0b4dc914d94951b813a29c1445
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      VENTILADORES OK 1_0: -5625656264485808925
+      vent_h1_frio_0: -9220308431605138884
+      vent_h1_frio_1: 1894148242049978719
+      vent_h1_frio_2: 7579475769547959493
+      vent_h1_frio_3: 3914138137696193772
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
