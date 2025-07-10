@@ -20,7 +20,7 @@ public class SecuenciaDejaBolita : MonoBehaviour
 
     private Animator animator;
     private int indiceActual = 0;
-    public int EstadoActual => animator.GetInteger(nombreParametro);
+    public int EstadoActual => animator != null ? animator.GetInteger(nombreParametro) : -1;
 
     private SpriteRenderer hijoRenderer;
     private int ultimoEstado = -1;
@@ -32,7 +32,20 @@ public class SecuenciaDejaBolita : MonoBehaviour
         {
             StartCoroutine(IniciarConEspera());
         }
-        hijoRenderer = GetComponentInChildren<SpriteRenderer>();
+        hijoRenderer = GetComponentInChildren<SpriteRenderer>(true);
+        if (hijoRenderer == GetComponent<SpriteRenderer>())
+        {
+            // Si el encontrado es el del padre, buscamos explícitamente en los hijos
+            foreach (Transform child in transform)
+            {
+                var sr = child.GetComponent<SpriteRenderer>();
+                if (sr != null)
+                {
+                    hijoRenderer = sr;
+                    break;
+                }
+            }
+        }
     }
 
     void Update()
