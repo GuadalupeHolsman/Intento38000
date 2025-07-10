@@ -5,73 +5,85 @@ using System.Collections.Generic;
 [System.Serializable]
 public class PuntoAnimado
 {
-    public Transform punto;          // El lugar donde debe ir
-    public string parametro;         // Nombre del parámetro en el Animator
-    public bool esTrigger;           // Si es true => SetTrigger, si es false => SetFloat
-    public float valorFloat = 0f;    // Valor que se asigna si es float
+    public Transform puntoDestino;
+    public int valorAnimacion;
 }
 
 public class SecuenciaDejaBolita : MonoBehaviour
 {
-    public List<PuntoAnimado> recorrido;
+    public PuntoAnimado[] puntos;             // Asignar en el inspector
     public float velocidad = 2f;
     public float distanciaMinima = 0.05f;
-    public float esperaFinal = 2f;
+    public float tiempoDeEspera = 1f;
+    public float tiempoInicialDeEspera = 2f;  // Tiempo antes de comenzar el ciclo
+    public string nombreParametro = "estado"; // Nombre del parámetro int en el Animator
 
-    private int indiceActual = 0;
     private Animator animator;
-    private bool esperando = false;
+    private int indiceActual = 0;
+    public int EstadoActual => animator.GetInteger(nombreParametro);
+
+    private SpriteRenderer hijoRenderer;
+    private int ultimoEstado = -1;
 
     void Start()
     {
         animator = GetComponent<Animator>();
-        ActivarAnimacionActual();
+        if (puntos.Length > 0)
+        {
+            StartCoroutine(IniciarConEspera());
+        }
+        hijoRenderer = GetComponentInChildren<SpriteRenderer>();
     }
 
     void Update()
     {
-        if (recorrido == null || recorrido.Count == 0 || esperando) return;
+        if (animator == null) return;
 
-        Transform destino = recorrido[indiceActual].punto;
-        transform.position = Vector3.MoveTowards(transform.position, destino.position, velocidad * Time.deltaTime);
+        int estadoActual = animator.GetInteger(nombreParametro);
 
-        if (Vector3.Distance(transform.position, destino.position) < distanciaMinima)
+        if (estadoActual != ultimoEstado)
         {
-            indiceActual++;
+            if (estadoActual == 3 && hijoRenderer != null)
+                hijoRenderer.enabled = false;
+            else if (estadoActual == 0 && hijoRenderer != null)
+                hijoRenderer.enabled = true;
 
-            if (indiceActual >= recorrido.Count)
-            {
-                StartCoroutine(ReiniciarRuta());
-            }
-            else
-            {
-                ActivarAnimacionActual();
-            }
+            ultimoEstado = estadoActual;
         }
     }
 
-    void ActivarAnimacionActual()
+    IEnumerator IniciarConEspera()
     {
-        if (indiceActual >= recorrido.Count || animator == null) return;
-
-        PuntoAnimado actual = recorrido[indiceActual];
-
-        if (actual.esTrigger)
-        {
-            animator.SetTrigger(actual.parametro);
-        }
-        else
-        {
-            animator.SetFloat(actual.parametro, actual.valorFloat);
-        }
+        yield return new WaitForSeconds(tiempoInicialDeEspera);
+        StartCoroutine(MoverEntrePuntos());
     }
 
-    IEnumerator ReiniciarRuta()
+
+    IEnumerator MoverEntrePuntos()
     {
-        esperando = true;
-        yield return new WaitForSeconds(esperaFinal);
-        indiceActual = 0;
-        ActivarAnimacionActual();
-        esperando = false;
+        while (true)
+        {
+            PuntoAnimado actual = puntos[indiceActual];
+            Transform destino = actual.puntoDestino;
+
+            // Movimiento hacia el punto
+            while (Vector3.Distance(transform.position, destino.position) > distanciaMinima)
+            {
+                transform.position = Vector3.MoveTowards(transform.position, destino.position, velocidad * Time.deltaTime);
+                yield return null;
+            }
+
+            // Cambiar parámetro en el Animator
+            if (animator != null)
+            {
+                animator.SetInteger(nombreParametro, actual.valorAnimacion);
+            }
+
+            yield return new WaitForSeconds(tiempoDeEspera);
+
+            // Avanzar al siguiente punto
+            indiceActual = (indiceActual + 1) % puntos.Length;
+        }
     }
+
 }
