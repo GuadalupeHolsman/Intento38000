@@ -3,7 +3,8 @@ using System.Collections;
 
 public class caminaYDesaparece : MonoBehaviour
 {
-    public Vector3 puntoIntermedio1;  // punto en el escalón
+    public Vector3 puntoIntermedio1;
+    public Vector3 puntoIntermedio2;  // punto en el escalón
     public Vector3 puntoFinal;        // donde deja la bolita
     private Vector3 puntoInicial;     // donde arranca (se toma en Start)
 
@@ -14,16 +15,19 @@ public class caminaYDesaparece : MonoBehaviour
     public float pausaAntesDeDejarBolita = 1f;
     public float pausaAntesDeRegresar = 1f;
     public float tiempoEsperaAntesDeReiniciar = 2f;
+    public float tiempoInicialDeEspera = 2f;
 
     private Animator animator;
 
     private enum Estado
     {
         Subiendo,
+        Subiendo2,
         Caminando,
         DejandoBolita,
         Esperando,
         Volviendo1,
+        Volviendo2,
         Bajando,
         EsperandoReinicio
     }
@@ -39,14 +43,21 @@ public class caminaYDesaparece : MonoBehaviour
             bolitaHija.SetActive(true);
 
         animator = GetComponent<Animator>();
+        StartCoroutine(EsperarInicio());
     }
+
 
     void Update()
     {
         switch (estadoActual)
         {
             case Estado.Subiendo:
-                animator.Play("ram_sube");
+                animator.Play("ram_baja2");
+                MoverHacia(puntoIntermedio2, Estado.Subiendo2);
+                break;
+
+            case Estado.Subiendo2:
+                animator.Play("ram_baja3");
                 MoverHacia(puntoIntermedio1, Estado.Caminando);
                 break;
 
@@ -57,11 +68,16 @@ public class caminaYDesaparece : MonoBehaviour
 
             case Estado.Volviendo1:
                 animator.Play("ram_regresa");
-                MoverHacia(puntoIntermedio1, Estado.Bajando);
+                MoverHacia(puntoIntermedio1, Estado.Volviendo2);
+                break;
+
+            case Estado.Volviendo2:
+                animator.Play("ram_sube3");
+                MoverHacia(puntoIntermedio2, Estado.Bajando);
                 break;
 
             case Estado.Bajando:
-                animator.Play("ram_baja");
+                animator.Play("ram_sube2");
                 MoverHacia(puntoInicial, Estado.EsperandoReinicio);
                 break;
 
@@ -109,7 +125,12 @@ public class caminaYDesaparece : MonoBehaviour
         yield return new WaitForSeconds(tiempoEsperaAntesDeReiniciar);
         if (bolitaHija != null)
             bolitaHija.SetActive(true); // vuelve a aparecer al reiniciar
-            
+
+        estadoActual = Estado.Subiendo;
+    }
+    IEnumerator EsperarInicio()
+    {
+        yield return new WaitForSeconds(tiempoInicialDeEspera);
         estadoActual = Estado.Subiendo;
     }
 }

@@ -2121,8 +2121,8 @@ Transform:
   m_GameObject: {fileID: 810684025}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.57, y: 1.54, z: 0}
-  m_LocalScale: {x: 0.4602, y: 0.4602, z: 0.4602}
+  m_LocalPosition: {x: 5.7765, y: 1.9563, z: 0}
+  m_LocalScale: {x: 0.79063755, y: 0.79063755, z: 0.79063755}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -4896,8 +4896,8 @@ Transform:
   m_GameObject: {fileID: 1513780613}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.43, y: -4.14, z: 0}
-  m_LocalScale: {x: 0.5181361, y: 0.5181361, z: 0.5181361}
+  m_LocalPosition: {x: 4.53, y: -6.05, z: 0}
+  m_LocalScale: {x: 0.7871124, y: 0.7871124, z: 0.7871124}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2074719532}
@@ -4915,13 +4915,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac496d13c37ee4bb9bf6c50f5fca0c70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puntoIntermedio1: {x: 4.31, y: -3.6, z: 0}
-  puntoFinal: {x: 3.79, y: -2.82, z: 0}
-  velocidad: 1
+  puntoIntermedio1: {x: 4.32, y: -3.14, z: 0}
+  puntoIntermedio2: {x: 4.45, y: -4.05, z: 0}
+  puntoFinal: {x: 3.97, y: -2.67, z: 0}
+  velocidad: 1.3
   bolitaHija: {fileID: 2074719529}
   pausaAntesDeDejarBolita: 0.5
   pausaAntesDeRegresar: 0.5
   tiempoEsperaAntesDeReiniciar: 2
+  tiempoInicialDeEspera: 1
 --- !u!1 &1556405406
 GameObject:
   m_ObjectHideFlags: 0
@@ -6387,8 +6389,8 @@ Transform:
   m_GameObject: {fileID: 2070822470}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.889, y: 4.274, z: 0}
-  m_LocalScale: {x: 0.28592226, y: 0.28592226, z: 0.28592226}
+  m_LocalPosition: {x: -4.8347, y: 4.3835, z: 0}
+  m_LocalScale: {x: 0.37281403, y: 0.37281403, z: 0.37281403}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
