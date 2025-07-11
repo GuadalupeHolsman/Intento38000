@@ -7,7 +7,7 @@ public class DetectorConexion : MonoBehaviour
     public GameObject rayaPrefab;
     public float tolerancia = 0.5f;
 
-    private bool conectado = false;
+    public bool conectado = false;
     private Vector3 offset;
     private bool arrastrando = false;
     private Camera camara;
