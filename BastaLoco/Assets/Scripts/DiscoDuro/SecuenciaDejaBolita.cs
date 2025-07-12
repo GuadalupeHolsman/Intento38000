@@ -17,7 +17,9 @@ public class SecuenciaDejaBolita : MonoBehaviour
     public float tiempoDeEspera = 1f;
     public float tiempoInicialDeEspera = 2f;  // Tiempo antes de comenzar el ciclo
     public string nombreParametro = "estado"; // Nombre del parámetro int en el Animator
+    public ArrastreNuevaBolita arrastreBolitaScript;
 
+    private bool yaCambioABolitaNueva = false;
     private Animator animator;
     private int indiceActual = 0;
     public int EstadoActual => animator != null ? animator.GetInteger(nombreParametro) : -1;
@@ -62,6 +64,25 @@ public class SecuenciaDejaBolita : MonoBehaviour
                 hijoRenderer.enabled = true;
 
             ultimoEstado = estadoActual;
+        }
+        
+        // Verifica si se activó la nueva bolita y aún no reaccionó
+        if (!yaCambioABolitaNueva && arrastreBolitaScript != null && arrastreBolitaScript.aceptada)
+        {
+            if (hijoRenderer != null)
+            {
+                Animator hijoAnim = hijoRenderer.GetComponent<Animator>();
+                if (hijoAnim != null)
+                {
+                    hijoAnim.SetTrigger("nueva");
+                }
+            }
+
+            yaCambioABolitaNueva = true;
+
+            // Opcional: ocultamos el hijo viejo si querés que desaparezca visualmente
+            /* if (hijoRenderer != null)
+                hijoRenderer.enabled = false; */
         }
     }
 

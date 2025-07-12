@@ -11,15 +11,15 @@ public class ArrastreNuevaBolita : MonoBehaviour
     private Vector3 posicionInicial;
     private int intentos = 0;
     private bool arrastrando = false;
-    private bool aceptada = false;
+    public bool aceptada = false;
     private Rigidbody2D rb;
 
     public GameObject bolitaVieja; // arrastrá el objeto viejo
     public movimientoBolita movimientoScript; // arrastrá el script en la bolita nueva
     public Transform posicionInicio; // mismo que usaba la bolita vieja 
     public Transform posicionArranque; // asignar la posición de arranque de la bolita vieja
-public float velocidadMovimiento = 3f; // para controlar la velocidad del movimiento
-
+    public float velocidadMovimiento = 3f; // para controlar la velocidad del movimiento
+    public bool bolitaNuevaActivada = false;
 
     void Start()
     {
@@ -47,7 +47,7 @@ public float velocidadMovimiento = 3f; // para controlar la velocidad del movimi
 
                 if (intentos < intentosMaximos)
                 {
-                 // Rechazo físico gradual
+                    // Rechazo físico gradual
                     float fuerzaActual = fuerzaRechazo * ((float)(intentosMaximos - intentos) / intentosMaximos);
                     Vector2 direccion = (transform.position - objetivo.position).normalized;
                     rb.linearVelocity = direccion * fuerzaActual;
@@ -57,28 +57,27 @@ public float velocidadMovimiento = 3f; // para controlar la velocidad del movimi
                 else
                 {
                     aceptada = true;
+                    bolitaNuevaActivada = true; // 👉 activamos el flag
 
-// Desactivar física
-rb.bodyType = RigidbodyType2D.Kinematic;
-rb.linearVelocity = Vector2.zero;
+                    // Desactivar física
+                    rb.bodyType = RigidbodyType2D.Kinematic;
+                    rb.linearVelocity = Vector2.zero;
 
-// Desactivar la bolita vieja
-if (bolitaVieja != null)
-    bolitaVieja.SetActive(false);
+                    // Desactivar la bolita vieja
+                    if (bolitaVieja != null)
+                        bolitaVieja.SetActive(false);
 
-// Posicionar esta bolita en el inicio del giro
-transform.position = posicionArranque.position;
+                    // Posicionar esta bolita en el inicio del giro
+                    transform.position = posicionArranque.position;
 
-StartCoroutine(MoverYActivarGiro());
+                    StartCoroutine(MoverYActivarGiro());
 
-// Activar el movimiento circular
-if (movimientoScript != null)
-{
-    movimientoScript.enabled = true;
-    movimientoScript.IniciarDesdeGiro();
-    //movimientoScript.centro = GameObject.Find("centro").transform; // solo si no estaba asignado
-    //movimientoScript.posicionInicio = posicionInicio;
-}
+                    // Activar el movimiento circular
+                    if (movimientoScript != null)
+                    {
+                        movimientoScript.enabled = true;
+                        movimientoScript.IniciarDesdeGiro();
+                    }
                 }
             }
         }
@@ -100,19 +99,19 @@ if (movimientoScript != null)
     }
 
     private IEnumerator MoverYActivarGiro()
-{
-    // Mover hacia posicionInicio
-    while (Vector3.Distance(transform.position, posicionInicio.position) > 0.01f)
     {
-        transform.position = Vector3.MoveTowards(transform.position, posicionInicio.position, velocidadMovimiento * Time.deltaTime);
-        yield return null;
-    }
+        // Mover hacia posicionInicio
+        while (Vector3.Distance(transform.position, posicionInicio.position) > 0.01f)
+        {
+            transform.position = Vector3.MoveTowards(transform.position, posicionInicio.position, velocidadMovimiento * Time.deltaTime);
+            yield return null;
+        }
 
-    // Una vez llegó, activar movimientoBolita
-    if (movimientoScript != null)
-    {
-        movimientoScript.enabled = true;
-        movimientoScript.IniciarDesdeGiro();
+        // Una vez llegó, activar movimientoBolita
+        if (movimientoScript != null)
+        {
+            movimientoScript.enabled = true;
+            movimientoScript.IniciarDesdeGiro();
+        }
     }
-}
 }
