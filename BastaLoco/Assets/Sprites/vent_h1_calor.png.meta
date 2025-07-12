@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vent_h1_calor_0: -5521728481051187249
+      vent_h1_calor_1: -7402559257021887846
+      vent_h1_calor_2: 5612221569051043158
+      vent_h1_calor_3: 5345003981798347993
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

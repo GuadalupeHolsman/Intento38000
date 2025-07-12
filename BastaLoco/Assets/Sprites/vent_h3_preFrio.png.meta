@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vent_h3_preFrio_0: -2430445455148208695
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vent_h2_calor_0: -3209633184018974011
+      vent_h2_calor_1: -1807731596936367098
+      vent_h2_calor_2: -2117081502980848298
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
