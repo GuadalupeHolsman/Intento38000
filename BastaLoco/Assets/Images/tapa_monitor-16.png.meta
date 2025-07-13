@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tapa_monitor-16_0: 5826849183145960614
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
