@@ -23,9 +23,23 @@ MonoBehaviour:
   - m_enabled: 1
     m_path: Assets/Scenes/Inicio.unity
   - m_enabled: 1
-    m_path: Assets/Scenes/CloseUpPc.unity
-  - m_enabled: 1
     m_path: Assets/Scenes/Ram.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/Procesador.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/Arreglado.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/cinematica.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/DiscDuro.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/Error.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/OutInPut.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/Ventiladores.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/Wifi.unity
   m_ScriptingDefines:
   - 
   m_PlayerSettingsYaml:

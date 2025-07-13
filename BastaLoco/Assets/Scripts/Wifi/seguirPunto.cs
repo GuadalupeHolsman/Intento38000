@@ -11,6 +11,8 @@ public class seguirPunto : MonoBehaviour
     private bool esperando = false;
     private Vector3 escalaInicial;
     private Vector3 ultimoDestino;
+    private static int puntosMovidos = 0;
+    private static bool escenaCompletada = false;
 
     private Animator animator;
 
@@ -21,6 +23,9 @@ public class seguirPunto : MonoBehaviour
 
         animator = GetComponentInChildren<Animator>();
         escalaInicial = transform.localScale;
+
+        if (!escenaCompletada)
+            puntosMovidos = 0;
     }
 
     void Update()
@@ -44,7 +49,7 @@ public class seguirPunto : MonoBehaviour
         {
             Destroy(gameObject);
             return;
-        } 
+        }
 
         Vector3 direccion = puntoDestino.position - transform.position;
 
@@ -53,6 +58,15 @@ public class seguirPunto : MonoBehaviour
         {
             StartCoroutine(EsperarAntesDeMover());
             ultimoDestino = puntoDestino.position;
+
+            puntosMovidos++;
+
+            // Cuando se mueven más de 2 puntos, marcamos la escena como completada
+            if (puntosMovidos > 2 && !escenaCompletada && gameManager.instance != null)
+            {
+                gameManager.instance.CompletarEscena("Wifi", true);
+                escenaCompletada = true;
+            }
         }
 
         if (debeMoverse)

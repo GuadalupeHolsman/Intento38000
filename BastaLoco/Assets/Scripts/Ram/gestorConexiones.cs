@@ -21,6 +21,7 @@ public class gestorConexiones : MonoBehaviour
     public List<PasoDeConexion> pasos;
     private int pasoActual = 0;
     public bool conexionesCompletas = false;
+    private bool escenaCompletada = false;
 
     void Update()
     {
@@ -51,9 +52,15 @@ public class gestorConexiones : MonoBehaviour
             pasoActual++;
 
             if (pasoActual >= pasos.Count)
-                {
-                    conexionesCompletas = true;
-                }
+            {
+                conexionesCompletas = true;
+            }
+        }
+
+        if (conexionesCompletas && !escenaCompletada && gameManager.instance != null)
+        {
+            gameManager.instance.CompletarEscena("Ram", true);
+            escenaCompletada = true;
         }
     }
 }

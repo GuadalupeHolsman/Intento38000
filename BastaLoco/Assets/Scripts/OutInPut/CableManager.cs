@@ -32,6 +32,8 @@ public class CableManager : MonoBehaviour
     public Vector3 offsetAzul;
     public Vector3 offsetRosa;
 
+    private bool escenaCompletada = false;
+
     void Update()
     {
         // Verificar conexiones correctas considerando offset
@@ -50,7 +52,14 @@ public class CableManager : MonoBehaviour
             cableRosa.transform.position = targetRosa.position + offsetRosa;
 
         // Mostrar u ocultar sprite de error
-        errorSprite.SetActive(!(rojoOk && azulOk && rosaOk));
+        //errorSprite.SetActive(!(rojoOk && azulOk && rosaOk));
+
+        //Marcar como completa la escena
+        if (rojoOk && azulOk && rosaOk && !escenaCompletada && gameManager.instance != null)
+        {
+            gameManager.instance.CompletarEscena("OutInPut", true);
+            escenaCompletada = true;
+        }
 
         // Cambiar sprites si están cerca de CUALQUIER target
         CambiarSprite(cableRojo, offsetRojo, conectadoRojo, sueltoRojo);

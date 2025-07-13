@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public class CablePadre : MonoBehaviour
 {
-    public Transform[] puntosCable; 
+    public Transform[] puntosCable;
     private LineRenderer linea;
     private Color colorLinea;
     public PolygonCollider2D zonaValida;
@@ -19,7 +19,7 @@ public class CablePadre : MonoBehaviour
         linea.endColor = colorLinea;
         linea.startWidth = 0.03f;
         linea.endWidth = 0.03f;
-    
+
     }
 
     void Update()
@@ -36,16 +36,16 @@ public class CablePadre : MonoBehaviour
         nuevaLista.Remove(punto);
         puntosCable = nuevaLista.ToArray();
         linea.positionCount = puntosCable.Length;
-    } 
-
-     void OnDrawGizmosSelected()
-{
-    if (zonaValida != null)
-    {
-        Gizmos.color = Color.cyan;  // Elegí el color que prefieras
-        Vector3 pos = zonaValida.bounds.center;
-        Vector3 size = zonaValida.bounds.size;
-        Gizmos.DrawWireCube(pos, size);
     }
-} 
+
+    void OnDrawGizmosSelected()
+    {
+        if (zonaValida != null)
+        {
+            Gizmos.color = Color.cyan;  // Elegí el color que prefieras
+            Vector3 pos = zonaValida.bounds.center;
+            Vector3 size = zonaValida.bounds.size;
+            Gizmos.DrawWireCube(pos, size);
+        }
+    }
 }

@@ -8,6 +8,9 @@ public class BalanzaManager : MonoBehaviour
 
     public enum EstadoTermico { Frio, Caliente, Neutral }
 
+    public bool esNeutral = false;
+    private bool escenaCompletada = false;
+
     public EstadoTermico ObtenerEstado()
     {
         if (temperatura > 55)
@@ -20,14 +23,24 @@ public class BalanzaManager : MonoBehaviour
 
     // Función para aumentar la temperatura
     public void AumentarTemperatura()
-{
-    temperatura += 1;
-    if (temperatura > 100) temperatura = 100;
-}
+    {
+        temperatura += 1;
+        if (temperatura > 100) temperatura = 100;
+    }
 
-public void ReducirTemperatura()
-{
-    temperatura -= 1;
-    if (temperatura < 0) temperatura = 0;
-}
+    public void ReducirTemperatura()
+    {
+        temperatura -= 1;
+        if (temperatura < 0) temperatura = 0;
+    }
+
+    void Update()
+    {
+        esNeutral = ObtenerEstado() == EstadoTermico.Neutral;
+        if (esNeutral && !escenaCompletada && gameManager.instance != null)
+        {
+            gameManager.instance.CompletarEscena("Ventiladores", true);
+            escenaCompletada = true;
+        }
+    }
 }

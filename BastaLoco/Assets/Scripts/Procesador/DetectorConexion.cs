@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class DetectorConexion : MonoBehaviour
 {
@@ -11,6 +13,10 @@ public class DetectorConexion : MonoBehaviour
     private Vector3 offset;
     private bool arrastrando = false;
     private Camera camara;
+    private bool bienConectado = false;
+    private bool malConectado = false;
+    private bool escenaCompletada = false;
+    private float esperaAntesError = 4f;
 
     void Start()
     {
@@ -48,13 +54,34 @@ public class DetectorConexion : MonoBehaviour
             Instantiate(bolitaPrefab, posicionCorrecta.position, Quaternion.identity);
             transform.position = posicionCorrecta.position; // imán
             conectado = true;
+            bienConectado = true;
         }
         else if (distancia < tolerancia)
         {
             // Cerca pero mal
             Instantiate(rayaPrefab, transform.position, Quaternion.identity);
+            malConectado = true;
             // Se queda en el lugar actual como si se pegara igual
             conectado = true;
+
         }
+
+        if (bienConectado && !escenaCompletada && gameManager.instance != null)
+        {
+            gameManager.instance.CompletarEscena("Procesador", true);
+            escenaCompletada = true;
+        }
+
+        if (malConectado)
+        {
+            StartCoroutine(EscenaError());
+        }
+
+    }
+
+    IEnumerator EscenaError()
+    {
+        yield return new WaitForSeconds(esperaAntesError);
+        SceneManager.LoadScene("Error");
     }
 }
