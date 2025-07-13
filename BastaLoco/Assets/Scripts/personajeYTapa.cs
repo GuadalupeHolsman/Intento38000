@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections; // Importante para usar corutinas
 
 public class personajeYTapa : MonoBehaviour
 {
@@ -15,7 +16,7 @@ public class personajeYTapa : MonoBehaviour
     public float tiempoVisible = 2f;
     public float velocidadTapa = 2f;
 
-    private bool personajeApareciendo = true;
+    private bool personajeApareciendo = false;
     private bool personajeDesapareciendo = false;
     private bool moverTapa = false;
 
@@ -36,15 +37,21 @@ public class personajeYTapa : MonoBehaviour
         }
         else
         {
-            // Primera vez: comenzamos el ciclo de aparición
+            // Primera vez: comenzamos el ciclo después de 5 segundos
             if (personaje != null && posicionEscondido != null)
             {
                 personaje.transform.position = posicionEscondido.position;
                 personaje.enabled = true;
             }
 
-            personajeApareciendo = true;
+            StartCoroutine(EsperarYComenzar());
         }
+    }
+
+    IEnumerator EsperarYComenzar()
+    {
+        yield return new WaitForSeconds(5f); // Espera 5 segundos
+        personajeApareciendo = true;
     }
 
     void Update()
@@ -70,7 +77,6 @@ public class personajeYTapa : MonoBehaviour
                 personajeDesapareciendo = false;
                 moverTapa = true;
 
-                // Guardamos que ya pasó
                 if (gameManager.instance != null)
                 {
                     gameManager.instance.personajeYaAparecio = true;

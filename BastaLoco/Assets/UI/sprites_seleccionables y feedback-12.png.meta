@@ -1,0 +1,4220 @@
+fileFormatVersion: 2
+guid: 8c678c8fe52ec481a9c457d7a4dc390b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3978946532193751240
+    second: sprites_seleccionables y feedback-12_0
+  - first:
+      213: 9104174362227684939
+    second: sprites_seleccionables y feedback-12_1
+  - first:
+      213: 4049700046618971091
+    second: sprites_seleccionables y feedback-12_2
+  - first:
+      213: -8753270079962435694
+    second: sprites_seleccionables y feedback-12_3
+  - first:
+      213: 7463129619542516063
+    second: sprites_seleccionables y feedback-12_4
+  - first:
+      213: -7428218959195156814
+    second: sprites_seleccionables y feedback-12_5
+  - first:
+      213: -7140943911458532011
+    second: sprites_seleccionables y feedback-12_6
+  - first:
+      213: 1378020880089222854
+    second: sprites_seleccionables y feedback-12_7
+  - first:
+      213: 3675726098922652151
+    second: sprites_seleccionables y feedback-12_8
+  - first:
+      213: 3143488154287329200
+    second: sprites_seleccionables y feedback-12_9
+  - first:
+      213: -8221606773520888719
+    second: sprites_seleccionables y feedback-12_10
+  - first:
+      213: 3488743687675763576
+    second: sprites_seleccionables y feedback-12_11
+  - first:
+      213: -1456339539405143595
+    second: sprites_seleccionables y feedback-12_12
+  - first:
+      213: 8750634585895502770
+    second: sprites_seleccionables y feedback-12_13
+  - first:
+      213: 5915382156890021924
+    second: sprites_seleccionables y feedback-12_14
+  - first:
+      213: -2838849212403856398
+    second: sprites_seleccionables y feedback-12_15
+  - first:
+      213: 1623982411983372154
+    second: sprites_seleccionables y feedback-12_16
+  - first:
+      213: -2222194378638299953
+    second: sprites_seleccionables y feedback-12_17
+  - first:
+      213: 1794316024361808633
+    second: sprites_seleccionables y feedback-12_18
+  - first:
+      213: -387528646087871648
+    second: sprites_seleccionables y feedback-12_19
+  - first:
+      213: 7297029743100627676
+    second: sprites_seleccionables y feedback-12_20
+  - first:
+      213: -9087059544534906358
+    second: sprites_seleccionables y feedback-12_21
+  - first:
+      213: 4717109800488333086
+    second: sprites_seleccionables y feedback-12_22
+  - first:
+      213: -1073653920312910722
+    second: sprites_seleccionables y feedback-12_23
+  - first:
+      213: 5432563317094738720
+    second: sprites_seleccionables y feedback-12_24
+  - first:
+      213: 5325460833811466545
+    second: sprites_seleccionables y feedback-12_25
+  - first:
+      213: -1310263110401081886
+    second: sprites_seleccionables y feedback-12_26
+  - first:
+      213: -7205328412073305971
+    second: sprites_seleccionables y feedback-12_27
+  - first:
+      213: -128405699303315402
+    second: sprites_seleccionables y feedback-12_28
+  - first:
+      213: -5362685690052606618
+    second: sprites_seleccionables y feedback-12_29
+  - first:
+      213: -8135673290183142474
+    second: sprites_seleccionables y feedback-12_30
+  - first:
+      213: 3892496240208724501
+    second: sprites_seleccionables y feedback-12_31
+  - first:
+      213: 1243709049042928732
+    second: sprites_seleccionables y feedback-12_32
+  - first:
+      213: -6891795552602233530
+    second: sprites_seleccionables y feedback-12_33
+  - first:
+      213: -1172084227090270199
+    second: sprites_seleccionables y feedback-12_34
+  - first:
+      213: -8138293439413413222
+    second: sprites_seleccionables y feedback-12_35
+  - first:
+      213: 3359819651557649702
+    second: sprites_seleccionables y feedback-12_36
+  - first:
+      213: 6255461221646349061
+    second: sprites_seleccionables y feedback-12_37
+  - first:
+      213: -2027462326504224870
+    second: sprites_seleccionables y feedback-12_38
+  - first:
+      213: -1662121874567734485
+    second: sprites_seleccionables y feedback-12_39
+  - first:
+      213: 5206409655276092431
+    second: sprites_seleccionables y feedback-12_40
+  - first:
+      213: -1682900227705057120
+    second: sprites_seleccionables y feedback-12_41
+  - first:
+      213: -1116796270526573235
+    second: sprites_seleccionables y feedback-12_42
+  - first:
+      213: 7843657454850030210
+    second: sprites_seleccionables y feedback-12_43
+  - first:
+      213: -4669532669352243443
+    second: sprites_seleccionables y feedback-12_44
+  - first:
+      213: -2247282739235538837
+    second: sprites_seleccionables y feedback-12_45
+  - first:
+      213: -5440238605548238155
+    second: sprites_seleccionables y feedback-12_46
+  - first:
+      213: 3201567070524823635
+    second: sprites_seleccionables y feedback-12_47
+  - first:
+      213: 3017284692470092480
+    second: sprites_seleccionables y feedback-12_48
+  - first:
+      213: -3159643677346209807
+    second: sprites_seleccionables y feedback-12_49
+  - first:
+      213: -2126440642259245255
+    second: sprites_seleccionables y feedback-12_50
+  - first:
+      213: -864420183731882453
+    second: sprites_seleccionables y feedback-12_51
+  - first:
+      213: -6283457341039125401
+    second: sprites_seleccionables y feedback-12_52
+  - first:
+      213: -8438730362296565984
+    second: sprites_seleccionables y feedback-12_53
+  - first:
+      213: -243936862761333621
+    second: sprites_seleccionables y feedback-12_54
+  - first:
+      213: -3862524249116931850
+    second: sprites_seleccionables y feedback-12_55
+  - first:
+      213: 5166774660047442851
+    second: sprites_seleccionables y feedback-12_56
+  - first:
+      213: -3850717666106082440
+    second: sprites_seleccionables y feedback-12_57
+  - first:
+      213: -2214843344439548149
+    second: sprites_seleccionables y feedback-12_58
+  - first:
+      213: -8387980815199636066
+    second: sprites_seleccionables y feedback-12_59
+  - first:
+      213: -8854077124751642848
+    second: sprites_seleccionables y feedback-12_60
+  - first:
+      213: 5814532902953071224
+    second: sprites_seleccionables y feedback-12_61
+  - first:
+      213: -5836570887413503242
+    second: sprites_seleccionables y feedback-12_62
+  - first:
+      213: -5802506455978843229
+    second: sprites_seleccionables y feedback-12_63
+  - first:
+      213: 3187663346880518855
+    second: sprites_seleccionables y feedback-12_64
+  - first:
+      213: -7209562053807032407
+    second: sprites_seleccionables y feedback-12_65
+  - first:
+      213: -4560085355365376451
+    second: sprites_seleccionables y feedback-12_66
+  - first:
+      213: -2242861444326392617
+    second: sprites_seleccionables y feedback-12_67
+  - first:
+      213: 4119903675916357677
+    second: sprites_seleccionables y feedback-12_68
+  - first:
+      213: -5025927480006748974
+    second: sprites_seleccionables y feedback-12_69
+  - first:
+      213: -6413739093892451938
+    second: sprites_seleccionables y feedback-12_70
+  - first:
+      213: -4442096617577155561
+    second: sprites_seleccionables y feedback-12_71
+  - first:
+      213: -3682745267121837988
+    second: sprites_seleccionables y feedback-12_72
+  - first:
+      213: 7899265202712873200
+    second: sprites_seleccionables y feedback-12_73
+  - first:
+      213: 7431724216138909348
+    second: sprites_seleccionables y feedback-12_74
+  - first:
+      213: 5029870058025400353
+    second: sprites_seleccionables y feedback-12_75
+  - first:
+      213: -7984706392922731871
+    second: sprites_seleccionables y feedback-12_76
+  - first:
+      213: 2785945412179783579
+    second: sprites_seleccionables y feedback-12_77
+  - first:
+      213: 5938163532893976443
+    second: sprites_seleccionables y feedback-12_78
+  - first:
+      213: 4433081919925770669
+    second: sprites_seleccionables y feedback-12_79
+  - first:
+      213: -3542535370201738362
+    second: sprites_seleccionables y feedback-12_80
+  - first:
+      213: 8750639043392054888
+    second: sprites_seleccionables y feedback-12_81
+  - first:
+      213: -4463735856214068650
+    second: sprites_seleccionables y feedback-12_82
+  - first:
+      213: -5189122179632611163
+    second: sprites_seleccionables y feedback-12_83
+  - first:
+      213: 2754933911654245849
+    second: sprites_seleccionables y feedback-12_84
+  - first:
+      213: 2832459314848154466
+    second: sprites_seleccionables y feedback-12_85
+  - first:
+      213: -8086869216455281597
+    second: sprites_seleccionables y feedback-12_86
+  - first:
+      213: -2897554689604654568
+    second: sprites_seleccionables y feedback-12_87
+  - first:
+      213: -8373483825729293860
+    second: sprites_seleccionables y feedback-12_88
+  - first:
+      213: -7530542190532595157
+    second: sprites_seleccionables y feedback-12_89
+  - first:
+      213: 985058377807416375
+    second: sprites_seleccionables y feedback-12_90
+  - first:
+      213: -102031837254967410
+    second: sprites_seleccionables y feedback-12_91
+  - first:
+      213: 5394410931228322566
+    second: sprites_seleccionables y feedback-12_92
+  - first:
+      213: -1235337011442867322
+    second: sprites_seleccionables y feedback-12_93
+  - first:
+      213: -2211179179838829778
+    second: sprites_seleccionables y feedback-12_94
+  - first:
+      213: -6255933278383914626
+    second: sprites_seleccionables y feedback-12_95
+  - first:
+      213: 9037187653568563773
+    second: sprites_seleccionables y feedback-12_96
+  - first:
+      213: 1888436333964358534
+    second: sprites_seleccionables y feedback-12_97
+  - first:
+      213: 4828651336191381960
+    second: sprites_seleccionables y feedback-12_98
+  - first:
+      213: 3215089919924760412
+    second: sprites_seleccionables y feedback-12_99
+  - first:
+      213: 7158125386280602044
+    second: sprites_seleccionables y feedback-12_100
+  - first:
+      213: -4844946503025135688
+    second: sprites_seleccionables y feedback-12_101
+  - first:
+      213: -4415279320631027962
+    second: sprites_seleccionables y feedback-12_102
+  - first:
+      213: 2975907626076730182
+    second: sprites_seleccionables y feedback-12_103
+  - first:
+      213: -7507611509400075042
+    second: sprites_seleccionables y feedback-12_104
+  - first:
+      213: 3390641872007269864
+    second: sprites_seleccionables y feedback-12_105
+  - first:
+      213: 7429961591553653178
+    second: sprites_seleccionables y feedback-12_106
+  - first:
+      213: 513448241277464159
+    second: sprites_seleccionables y feedback-12_107
+  - first:
+      213: -732438504026622251
+    second: sprites_seleccionables y feedback-12_108
+  - first:
+      213: 783986200309502392
+    second: sprites_seleccionables y feedback-12_109
+  - first:
+      213: -5710044338351489306
+    second: sprites_seleccionables y feedback-12_110
+  - first:
+      213: -3785824130599423465
+    second: sprites_seleccionables y feedback-12_111
+  - first:
+      213: -4647674020120822157
+    second: sprites_seleccionables y feedback-12_112
+  - first:
+      213: 2366819432652954323
+    second: sprites_seleccionables y feedback-12_113
+  - first:
+      213: 5053213408976350887
+    second: sprites_seleccionables y feedback-12_114
+  - first:
+      213: 542762028653275872
+    second: sprites_seleccionables y feedback-12_115
+  - first:
+      213: -4196407943286866239
+    second: sprites_seleccionables y feedback-12_116
+  - first:
+      213: -5140102630282192761
+    second: sprites_seleccionables y feedback-12_117
+  - first:
+      213: -7825777635598523863
+    second: sprites_seleccionables y feedback-12_118
+  - first:
+      213: -7771885259642655603
+    second: sprites_seleccionables y feedback-12_119
+  - first:
+      213: 7295907320174850260
+    second: sprites_seleccionables y feedback-12_120
+  - first:
+      213: -4990701096700123094
+    second: sprites_seleccionables y feedback-12_121
+  - first:
+      213: 4572204454765241206
+    second: sprites_seleccionables y feedback-12_122
+  - first:
+      213: -1882720938863598236
+    second: sprites_seleccionables y feedback-12_123
+  - first:
+      213: -422573598764459491
+    second: sprites_seleccionables y feedback-12_124
+  - first:
+      213: -8562724219461999336
+    second: sprites_seleccionables y feedback-12_125
+  - first:
+      213: -7956318826746816867
+    second: sprites_seleccionables y feedback-12_126
+  - first:
+      213: -1591286356633856689
+    second: sprites_seleccionables y feedback-12_127
+  - first:
+      213: -2949492106569310934
+    second: sprites_seleccionables y feedback-12_128
+  - first:
+      213: -6213160184876858856
+    second: sprites_seleccionables y feedback-12_129
+  - first:
+      213: -3866758704982662136
+    second: sprites_seleccionables y feedback-12_130
+  - first:
+      213: -5912556191761369014
+    second: sprites_seleccionables y feedback-12_131
+  - first:
+      213: 7395645916284327270
+    second: sprites_seleccionables y feedback-12_132
+  - first:
+      213: 5235239764601044769
+    second: sprites_seleccionables y feedback-12_133
+  - first:
+      213: -7571684353539180343
+    second: sprites_seleccionables y feedback-12_134
+  - first:
+      213: -7668019343381305318
+    second: sprites_seleccionables y feedback-12_135
+  - first:
+      213: -8893802195269182944
+    second: sprites_seleccionables y feedback-12_136
+  - first:
+      213: 5560426208251165304
+    second: sprites_seleccionables y feedback-12_137
+  - first:
+      213: 4372728730184200934
+    second: sprites_seleccionables y feedback-12_138
+  - first:
+      213: 7766899541773568363
+    second: sprites_seleccionables y feedback-12_139
+  - first:
+      213: 8055169002288549602
+    second: sprites_seleccionables y feedback-12_140
+  - first:
+      213: 3049747385065041346
+    second: sprites_seleccionables y feedback-12_141
+  - first:
+      213: 8033354313402635875
+    second: sprites_seleccionables y feedback-12_142
+  - first:
+      213: -6724743570597085376
+    second: sprites_seleccionables y feedback-12_143
+  - first:
+      213: 6083447674723935652
+    second: sprites_seleccionables y feedback-12_144
+  - first:
+      213: -3105120392226774969
+    second: sprites_seleccionables y feedback-12_145
+  - first:
+      213: 2849930956081125307
+    second: sprites_seleccionables y feedback-12_146
+  - first:
+      213: -2548292782217210197
+    second: sprites_seleccionables y feedback-12_147
+  - first:
+      213: -5222275812130132362
+    second: sprites_seleccionables y feedback-12_148
+  - first:
+      213: -4226422870142176859
+    second: sprites_seleccionables y feedback-12_149
+  - first:
+      213: 2258535798263323763
+    second: sprites_seleccionables y feedback-12_150
+  - first:
+      213: -4262576949924315330
+    second: sprites_seleccionables y feedback-12_151
+  - first:
+      213: -2544947525297196373
+    second: sprites_seleccionables y feedback-12_152
+  - first:
+      213: 793425639080621999
+    second: sprites_seleccionables y feedback-12_153
+  - first:
+      213: -336115799835446715
+    second: sprites_seleccionables y feedback-12_154
+  - first:
+      213: 6146132099834157070
+    second: sprites_seleccionables y feedback-12_155
+  - first:
+      213: -857226634485501761
+    second: sprites_seleccionables y feedback-12_156
+  - first:
+      213: -2036870738499165425
+    second: sprites_seleccionables y feedback-12_157
+  - first:
+      213: -8141099918992196159
+    second: sprites_seleccionables y feedback-12_158
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_0
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 3025
+        width: 6
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c05ea72ace083730800000000000000
+      internalID: 3978946532193751240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_1
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 2985
+        width: 162
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46bcc1b856885e70800000000000000
+      internalID: 9104174362227684939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_2
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2992
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db4b957cbc633830800000000000000
+      internalID: 4049700046618971091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_3
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 3045
+        width: 8
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fa8c43d33268680800000000000000
+      internalID: -8753270079962435694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_4
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 1909
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51278df8dc529760800000000000000
+      internalID: 7463129619542516063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_5
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 2819
+        width: 39
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bec957863aa9e890800000000000000
+      internalID: -7428218959195156814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_6
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 2765
+        width: 39
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555968cc85546ec90800000000000000
+      internalID: -7140943911458532011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_7
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 1803
+        width: 146
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce0aca70b6bf1310800000000000000
+      internalID: 1378020880089222854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_8
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 3068
+        width: 187
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1cae1896dc20330800000000000000
+      internalID: 3675726098922652151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_9
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 3013
+        width: 137
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfc1f742d9ef9b20800000000000000
+      internalID: 3143488154287329200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_10
+      rect:
+        serializedVersion: 2
+        x: 5493
+        y: 2774
+        width: 135
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c875d033cf6ed80800000000000000
+      internalID: -8221606773520888719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_11
+      rect:
+        serializedVersion: 2
+        x: 5491
+        y: 2684
+        width: 155
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bdc4856e18a6030800000000000000
+      internalID: 3488743687675763576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_12
+      rect:
+        serializedVersion: 2
+        x: 5469
+        y: 2672
+        width: 157
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d18669a7ea0acbe0800000000000000
+      internalID: -1456339539405143595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_13
+      rect:
+        serializedVersion: 2
+        x: 5547
+        y: 3002
+        width: 8
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b38c830bcf707970800000000000000
+      internalID: 8750634585895502770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_14
+      rect:
+        serializedVersion: 2
+        x: 5463
+        y: 3003
+        width: 157
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4202d1c0bb8a71250800000000000000
+      internalID: 5915382156890021924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_15
+      rect:
+        serializedVersion: 2
+        x: 5591
+        y: 2811
+        width: 39
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb45c3aea16a98d0800000000000000
+      internalID: -2838849212403856398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_16
+      rect:
+        serializedVersion: 2
+        x: 5549
+        y: 2768
+        width: 39
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f30c3466b898610800000000000000
+      internalID: 1623982411983372154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_17
+      rect:
+        serializedVersion: 2
+        x: 5537
+        y: 3013
+        width: 89
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcce46f7cfd2921e0800000000000000
+      internalID: -2222194378638299953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_18
+      rect:
+        serializedVersion: 2
+        x: 5467
+        y: 3095
+        width: 188
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f270eedae0b6e810800000000000000
+      internalID: 1794316024361808633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_19
+      rect:
+        serializedVersion: 2
+        x: 5501
+        y: 3005
+        width: 137
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063f4a5efb83f9af0800000000000000
+      internalID: -387528646087871648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2749
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda09f8d3e1444560800000000000000
+      internalID: 7297029743100627676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2730
+        width: 135
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a8c235d7744e180800000000000000
+      internalID: -9087059544534906358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_22
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 3069
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fee980f5a867140800000000000000
+      internalID: 4717109800488333086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_23
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 3098
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c1b0ca27d9911f0800000000000000
+      internalID: -1073653920312910722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_24
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 3056
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bef3fcd87546b40800000000000000
+      internalID: 5432563317094738720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_25
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 3075
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1398690b966d7e940800000000000000
+      internalID: 5325460833811466545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_26
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 3091
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edbe36a4a201dde0800000000000000
+      internalID: -1310263110401081886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_27
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 3067
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8857541cf7810c90800000000000000
+      internalID: -7205328412073305971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_28
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3048
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638e3e162bfc73ef0800000000000000
+      internalID: -128405699303315402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_29
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3078
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665085217c9e395b0800000000000000
+      internalID: -5362685690052606618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_30
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 3036
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3100a4f38481f80800000000000000
+      internalID: -8135673290183142474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_31
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 3086
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5124f2705bce40630800000000000000
+      internalID: 3892496240208724501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_32
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 3032
+        width: 289
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5484286aca824110800000000000000
+      internalID: 1243709049042928732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_33
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1657
+        width: 57
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645e68e857c6b50a0800000000000000
+      internalID: -6891795552602233530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_34
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 3008
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908327dfa9bebbfe0800000000000000
+      internalID: -1172084227090270199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_35
+      rect:
+        serializedVersion: 2
+        x: 5469
+        y: 2604
+        width: 167
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a1fd14c39fe0f80800000000000000
+      internalID: -8138293439413413222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_36
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2128
+        width: 159
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d68780c2a70ae20800000000000000
+      internalID: 3359819651557649702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_37
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2495
+        width: 295
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503367696dcdfc650800000000000000
+      internalID: 6255461221646349061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_38
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2413
+        width: 51
+        height: 675
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a978a3981c10dd3e0800000000000000
+      internalID: -2027462326504224870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_39
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 2462
+        width: 55
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bdbfc16f4fee8e0800000000000000
+      internalID: -1662121874567734485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_40
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 3028
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c35e92ff1e04840800000000000000
+      internalID: 5206409655276092431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_41
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2992
+        width: 133
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a05737c82325a8e0800000000000000
+      internalID: -1682900227705057120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_42
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 2427
+        width: 51
+        height: 675
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4558c085b75080f0800000000000000
+      internalID: -1116796270526573235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_43
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 2237
+        width: 55
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a3e20d5e44adc60800000000000000
+      internalID: 7843657454850030210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_44
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 2783
+        width: 54
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f8d2807cc723fb0800000000000000
+      internalID: -4669532669352243443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_45
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2966
+        width: 49
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68bff9514c00d0e0800000000000000
+      internalID: -2247282739235538837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_46
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2111
+        width: 159
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba4ee6dfc36084b0800000000000000
+      internalID: -5440238605548238155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_47
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2251
+        width: 295
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358583bb9404e6c20800000000000000
+      internalID: 3201567070524823635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_48
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 1680
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c257e8017c8fd920800000000000000
+      internalID: 3017284692470092480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_49
+      rect:
+        serializedVersion: 2
+        x: 5545
+        y: 3013
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff58f2e0d0b624d0800000000000000
+      internalID: -3159643677346209807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_50
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2694
+        width: 40
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9372f22908d5d72e0800000000000000
+      internalID: -2126440642259245255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_51
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2942
+        width: 146
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26bbfb3c66f004f0800000000000000
+      internalID: -864420183731882453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_52
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 3029
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cda0ae6dcacc8a0800000000000000
+      internalID: -6283457341039125401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_53
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 2927
+        width: 40
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f7200227b93ea80800000000000000
+      internalID: -8438730362296565984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_54
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 2949
+        width: 116
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ccc7b37bc5d9cf0800000000000000
+      internalID: -243936862761333621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_55
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2913
+        width: 39
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f88d03f8ae856ac0800000000000000
+      internalID: -3862524249116931850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_56
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2868
+        width: 45
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a31e96bd2214b740800000000000000
+      internalID: 5166774660047442851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_57
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 2992
+        width: 131
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bfc654fa08f8ac0800000000000000
+      internalID: -3850717666106082440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_58
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 2188
+        width: 40
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07ea8586bb4341e0800000000000000
+      internalID: -2214843344439548149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_59
+      rect:
+        serializedVersion: 2
+        x: 5468
+        y: 2513
+        width: 138
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95fb37d3e7e79b80800000000000000
+      internalID: -8387980815199636066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_60
+      rect:
+        serializedVersion: 2
+        x: 5528
+        y: 2703
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f244514cfff1580800000000000000
+      internalID: -8854077124751642848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_61
+      rect:
+        serializedVersion: 2
+        x: 5498
+        y: 2670
+        width: 40
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872b6575ede51b050800000000000000
+      internalID: 5814532902953071224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_62
+      rect:
+        serializedVersion: 2
+        x: 5495
+        y: 2723
+        width: 114
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fae45d83b5500fa0800000000000000
+      internalID: -5836570887413503242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_63
+      rect:
+        serializedVersion: 2
+        x: 5555
+        y: 2739
+        width: 39
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3687c0f1b597fa0800000000000000
+      internalID: -5802506455978843229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_64
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 2728
+        width: 45
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca985ecceadc3c20800000000000000
+      internalID: 3187663346880518855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_65
+      rect:
+        serializedVersion: 2
+        x: 5543
+        y: 3009
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a732bc828d72fb90800000000000000
+      internalID: -7209562053807032407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_66
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1728
+        width: 64
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e5cf7978257b0c0800000000000000
+      internalID: -4560085355365376451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_67
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1738
+        width: 64
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc718a4661cfd0e0800000000000000
+      internalID: -2242861444326392617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_68
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 2779
+        width: 6
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2012d7a096dc2930800000000000000
+      internalID: 4119903675916357677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_69
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2759
+        width: 40
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4d25fd591504ab0800000000000000
+      internalID: -5025927480006748974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_70
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 2780
+        width: 39
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91318a8642ddf6a0800000000000000
+      internalID: -6413739093892451938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_71
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 2735
+        width: 39
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714795b59a08a52c0800000000000000
+      internalID: -4442096617577155561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_72
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1914
+        width: 1641
+        height: 1181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58a3fa01b244ecc0800000000000000
+      internalID: -3682745267121837988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_73
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 1943
+        width: 1
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f80e4a89d3df9d60800000000000000
+      internalID: 7899265202712873200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_74
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 2502
+        width: 39
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6c0a3bcc9c22760800000000000000
+      internalID: 7431724216138909348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_75
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 2124
+        width: 39
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1283afa1b20bdc540800000000000000
+      internalID: 5029870058025400353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_76
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 2071
+        width: 39
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aacc0627df903190800000000000000
+      internalID: -7984706392922731871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_77
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 1914
+        width: 1645
+        height: 1181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fea90879aa9a620800000000000000
+      internalID: 2785945412179783579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_78
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1792
+        width: 301
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77f25c7548986250800000000000000
+      internalID: 5938163532893976443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_79
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1658
+        width: 300
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9d169c488758d30800000000000000
+      internalID: 4433081919925770669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_80
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 1540
+        width: 135
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6835ed699d266dec0800000000000000
+      internalID: -3542535370201738362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_81
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 1681
+        width: 136
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8662c0bd8d3807970800000000000000
+      internalID: 8750639043392054888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_82
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1439
+        width: 156
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652bf2f73ef9d02c0800000000000000
+      internalID: -4463735856214068650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_83
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 1717
+        width: 8
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0c5eaeed88cf7b0800000000000000
+      internalID: -5189122179632611163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_84
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 1689
+        width: 155
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d524dfdbcd7b3620800000000000000
+      internalID: 2754933911654245849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_85
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 1492
+        width: 39
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26345466dbaee4720800000000000000
+      internalID: 2832459314848154466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_86
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 1519
+        width: 39
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34434203b4ba5cf80800000000000000
+      internalID: -8086869216455281597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_87
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 1498
+        width: 146
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ae8d89c51d9c7d0800000000000000
+      internalID: -2897554689604654568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_88
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 1718
+        width: 187
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd13dea33d86bcb80800000000000000
+      internalID: -8373483825729293860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_89
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 1702
+        width: 137
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b227637b6c32e7790800000000000000
+      internalID: -7530542190532595157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_90
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 1529
+        width: 135
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ccb342061abad00800000000000000
+      internalID: 985058377807416375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_91
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 1494
+        width: 155
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f13a8a592859ef0800000000000000
+      internalID: -102031837254967410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_92
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 1536
+        width: 157
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b2950492cccda40800000000000000
+      internalID: 5394410931228322566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_93
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1705
+        width: 8
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6832e0f78833bdee0800000000000000
+      internalID: -1235337011442867322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_94
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 1755
+        width: 151
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b87f250405051e0800000000000000
+      internalID: -2211179179838829778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_95
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 1573
+        width: 39
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71c16324d57e29a0800000000000000
+      internalID: -6255933278383914626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_96
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 1669
+        width: 39
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a00833a4a8a6d70800000000000000
+      internalID: 9037187653568563773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_97
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 1702
+        width: 146
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683f2e227d2153a10800000000000000
+      internalID: 1888436333964358534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_98
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 1768
+        width: 188
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c117e59ec0d20340800000000000000
+      internalID: 4828651336191381960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_99
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 1683
+        width: 137
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fed067f3b4e9c20800000000000000
+      internalID: 3215089919924760412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 1527
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb906fa0d15c65360800000000000000
+      internalID: 7158125386280602044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_101
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 1789
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf6a6b33da43ccb0800000000000000
+      internalID: -4844946503025135688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_102
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1695
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607d8add9d6c9b2c0800000000000000
+      internalID: -4415279320631027962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_103
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 1716
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643fda8083c8c4920800000000000000
+      internalID: 2975907626076730182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_104
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 1839
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed40396fb1b9fc790800000000000000
+      internalID: -7507611509400075042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_105
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 1738
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed0f8571dafd0f20800000000000000
+      internalID: 3390641872007269864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_106
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 1728
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9f95fa3b68c1760800000000000000
+      internalID: 7429961591553653178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_107
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 1717
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e64ef7472202700800000000000000
+      internalID: 513448241277464159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_108
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 1718
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6bcabaf0bd5d5f0800000000000000
+      internalID: -732438504026622251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_109
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 1787
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b19142ab4741ea00800000000000000
+      internalID: 783986200309502392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_110
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 1660
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee34d86de8d1c0b0800000000000000
+      internalID: -5710044338351489306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_111
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 736
+        width: 549
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712f489e20d067bc0800000000000000
+      internalID: -3785824130599423465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_112
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 736
+        width: 548
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ef2e66a15208fb0800000000000000
+      internalID: -4647674020120822157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_113
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 1774
+        width: 289
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da55caebb1a8d020800000000000000
+      internalID: 2366819432652954323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_114
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 1678
+        width: 110
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aea64882de902640800000000000000
+      internalID: 5053213408976350887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_115
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 1762
+        width: 289
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eae27b7037488700800000000000000
+      internalID: 542762028653275872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_116
+      rect:
+        serializedVersion: 2
+        x: 5399
+        y: 1281
+        width: 167
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce32c7853d53c5c0800000000000000
+      internalID: -4196407943286866239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_117
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 1420
+        width: 51
+        height: 674
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7889af424efaaa8b0800000000000000
+      internalID: -5140102630282192761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_118
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 1277
+        width: 55
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92224f204b0456390800000000000000
+      internalID: -7825777635598523863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_119
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 1666
+        width: 143
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ca7e79887b42490800000000000000
+      internalID: -7771885259642655603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_120
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 1600
+        width: 165
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0b1356d05404560800000000000000
+      internalID: 7295907320174850260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_121
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1680
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28690f5bc77dbab0800000000000000
+      internalID: -4990701096700123094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_122
+      rect:
+        serializedVersion: 2
+        x: 5471
+        y: 1127
+        width: 51
+        height: 674
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673adbe1abbb37f30800000000000000
+      internalID: 4572204454765241206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_123
+      rect:
+        serializedVersion: 2
+        x: 5490
+        y: 1211
+        width: 55
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46568dbf74b3fd5e0800000000000000
+      internalID: -1882720938863598236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_124
+      rect:
+        serializedVersion: 2
+        x: 5451
+        y: 1523
+        width: 140
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a9f220d87b22af0800000000000000
+      internalID: -422573598764459491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_125
+      rect:
+        serializedVersion: 2
+        x: 5551
+        y: 1631
+        width: 94
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815655d80b71b2980800000000000000
+      internalID: -8562724219461999336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_126
+      rect:
+        serializedVersion: 2
+        x: 5451
+        y: 1364
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96d0047e2a759190800000000000000
+      internalID: -7956318826746816867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_127
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1459
+        width: 40
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45d9e85d7d9ae9e0800000000000000
+      internalID: -1591286356633856689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_128
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 1429
+        width: 138
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d1e106e8c4117d0800000000000000
+      internalID: -2949492106569310934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_129
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 1716
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81280d70bbb66c9a0800000000000000
+      internalID: -6213160184876858856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_130
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1649
+        width: 40
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804eb5dd173865ac0800000000000000
+      internalID: -3866758704982662136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_131
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 1567
+        width: 115
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48f68b387162fda0800000000000000
+      internalID: -5912556191761369014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_132
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 1714
+        width: 39
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66512bce6cc92a660800000000000000
+      internalID: 7395645916284327270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_133
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 1625
+        width: 45
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f7b0314de47a840800000000000000
+      internalID: 5235239764601044769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_134
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 1712
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8f9eb6239fbe690800000000000000
+      internalID: -7571684353539180343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_135
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1397
+        width: 40
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18eeeab809b59590800000000000000
+      internalID: -7668019343381305318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_136
+      rect:
+        serializedVersion: 2
+        x: 5459
+        y: 1432
+        width: 138
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a1468560ed29480800000000000000
+      internalID: -8893802195269182944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_137
+      rect:
+        serializedVersion: 2
+        x: 5556
+        y: 1719
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a359e0d2a9a2d40800000000000000
+      internalID: 5560426208251165304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_138
+      rect:
+        serializedVersion: 2
+        x: 5424
+        y: 1565
+        width: 40
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e236c5cc9d0fac30800000000000000
+      internalID: 4372728730184200934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_139
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 1449
+        width: 114
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69ce818bf199cb60800000000000000
+      internalID: 7766899541773568363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_140
+      rect:
+        serializedVersion: 2
+        x: 5490
+        y: 1444
+        width: 39
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee852b8785b9cf60800000000000000
+      internalID: 8055169002288549602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_141
+      rect:
+        serializedVersion: 2
+        x: 5501
+        y: 1464
+        width: 45
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd6a75a611e25a20800000000000000
+      internalID: 3049747385065041346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_142
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 1788
+        width: 157
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366573d7f253c7f60800000000000000
+      internalID: 8033354313402635875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_143
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 505
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ff7fc0a59eca2a0800000000000000
+      internalID: -6724743570597085376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_144
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 504
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5a89dbd6fbc6450800000000000000
+      internalID: 6083447674723935652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_145
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 1498
+        width: 6
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7406084747568e4d0800000000000000
+      internalID: -3105120392226774969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_146
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 1474
+        width: 40
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7da9fda1dfc8720800000000000000
+      internalID: 2849930956081125307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_147
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 1521
+        width: 39
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6504c4735a2acd0800000000000000
+      internalID: -2548292782217210197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_148
+      rect:
+        serializedVersion: 2
+        x: 3442
+        y: 1549
+        width: 39
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e6ed251dfb687b0800000000000000
+      internalID: -5222275812130132362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_149
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 424
+        width: 1646
+        height: 1163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1b69acacab855c0800000000000000
+      internalID: -4226422870142176859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_150
+      rect:
+        serializedVersion: 2
+        x: 5627
+        y: 453
+        width: 1
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c1dff975ee75f10800000000000000
+      internalID: 2258535798263323763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_151
+      rect:
+        serializedVersion: 2
+        x: 5540
+        y: 1423
+        width: 39
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f3eff19d848d4c0800000000000000
+      internalID: -4262576949924315330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_152
+      rect:
+        serializedVersion: 2
+        x: 5368
+        y: 1393
+        width: 39
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2b6ae95b78eacd0800000000000000
+      internalID: -2544947525297196373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_153
+      rect:
+        serializedVersion: 2
+        x: 5528
+        y: 1488
+        width: 39
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7761d3a60d20b00800000000000000
+      internalID: 793425639080621999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_154
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 424
+        width: 1647
+        height: 1163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542796bf570e55bf0800000000000000
+      internalID: -336115799835446715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_155
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 106
+        width: 272
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e089d39c4927b4550800000000000000
+      internalID: 6146132099834157070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_156
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 144
+        width: 163
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0fc7feae48a14f0800000000000000
+      internalID: -857226634485501761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_157
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 140
+        width: 164
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03ae5aead49bb3e0800000000000000
+      internalID: -2036870738499165425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_158
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 166
+        width: 172
+        height: 152
+      alignment: 9
+      pivot: {x: 0.47903585, y: 0.4762762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd328fc1c0050f80800000000000000
+      internalID: -8141099918992196159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_159
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 1716
+        width: 123
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67447625b5a34ffca677c87afc61108
+      internalID: -1909088548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_160
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 1608
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc051ebaaa5944778bf2df67a57f79d
+      internalID: 1391110575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_161
+      rect:
+        serializedVersion: 2
+        x: 5452
+        y: 1702
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614d8c9f114d9499a961d79229587059
+      internalID: -416834025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_162
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2903
+        width: 93
+        height: 143
+      alignment: 9
+      pivot: {x: 0.53859127, y: 0.4497975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fafbfa8330a4d2e81fc74283d64ef8
+      internalID: -1418674607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_seleccionables y feedback-12_163
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 2363
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36356c4858cd6491f897da07cac5590d
+      internalID: 477317565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b968d009afac34da1946a9eea392934a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprites_seleccionables y feedback-12_159: -1909088548
+      sprites_seleccionables y feedback-12_160: 1391110575
+      sprites_seleccionables y feedback-12_161: -416834025
+      sprites_seleccionables y feedback-12_162: -1418674607
+      sprites_seleccionables y feedback-12_163: 477317565
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

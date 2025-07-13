@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      escalera disc_0: 42020527538481443
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

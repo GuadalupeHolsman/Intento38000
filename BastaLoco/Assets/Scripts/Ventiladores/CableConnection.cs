@@ -10,9 +10,23 @@ public class CableConnection : MonoBehaviour
     public GameObject indicador;
     public BalanzaManager balanzaManager;
 
+    [Header("Sprite de selección inicial")]
+    public GameObject spriteSeleccion;
+
+    [Header("Animación del spriteSeleccion")]
+    public Sprite spriteAnimacion1;
+    public Sprite spriteAnimacion2;
+    public float alphaMin = 0.3f;
+    public float alphaMax = 1f;
+    public float velocidadFade = 2f;
+    private SpriteRenderer spriteSeleccionRenderer;
+    private float alphaActual = 1f;
+    private bool bajandoAlpha = true;
+    private bool usandoSprite1 = true;
+
     [Header("Sonido")]
-    public AudioClip sonidoConexion;      // arrastrás el sonido desde el inspector
-    private AudioSource audioSource;      // interno
+    public AudioClip sonidoConexion;
+    private AudioSource audioSource;
 
     [Header("Velocidad de cambio")]
     public float tiempoCambio = 1f;
@@ -25,13 +39,42 @@ public class CableConnection : MonoBehaviour
     private GameObject ventiladorConectado;
     private float tiempoActual = 0f;
 
+    private bool estaSiendoAgarrado = false;
+    private float tiempoInactivo = 0f;
+    private float tiempoParaMostrarIndicador = 5f;
+
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
 
-        // Mostrar sprite desconectado al inicio
         if (spriteRenderer != null && spriteDesconectado != null)
             spriteRenderer.sprite = spriteDesconectado;
+
+        if (spriteSeleccion != null)
+        {
+            spriteSeleccion.SetActive(true);
+            spriteSeleccionRenderer = spriteSeleccion.GetComponent<SpriteRenderer>();
+            alphaActual = alphaMax;
+
+            if (spriteAnimacion1 != null)
+                spriteSeleccionRenderer.sprite = spriteAnimacion1;
+        }
+    }
+
+    void OnMouseDown()
+    {
+        estaSiendoAgarrado = true;
+
+        if (spriteSeleccion != null)
+            spriteSeleccion.SetActive(false);
+
+        tiempoInactivo = 0f;
+    }
+
+    void OnMouseUp()
+    {
+        estaSiendoAgarrado = false;
+        tiempoInactivo = 0f;
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -41,17 +84,17 @@ public class CableConnection : MonoBehaviour
             ventiladorConectado = other.gameObject;
             tiempoActual = 0f;
 
-            // Cambiar sprite a "conectado"
             if (spriteRenderer != null && spriteConectado != null)
                 spriteRenderer.sprite = spriteConectado;
 
-            // Activar partículas
+            if (spriteSeleccion != null)
+                spriteSeleccion.SetActive(false);
+
             if (ventiladorConectado == ventiladorFrio && particulasFrio != null)
                 particulasFrio.Play();
             else if (ventiladorConectado == ventiladorCalor && particulasCalor != null)
                 particulasCalor.Play();
 
-            // Reproducir sonido
             if (sonidoConexion != null && audioSource != null)
                 audioSource.PlayOneShot(sonidoConexion);
 
@@ -63,17 +106,17 @@ public class CableConnection : MonoBehaviour
     {
         if (other.gameObject == ventiladorConectado)
         {
-            // Cambiar sprite a "desconectado"
             if (spriteRenderer != null && spriteDesconectado != null)
                 spriteRenderer.sprite = spriteDesconectado;
 
-            // Detener partículas
             if (ventiladorConectado == ventiladorFrio && particulasFrio != null)
                 particulasFrio.Stop();
             else if (ventiladorConectado == ventiladorCalor && particulasCalor != null)
                 particulasCalor.Stop();
 
             ventiladorConectado = null;
+            tiempoInactivo = 0f;
+
             Debug.Log("⚡ Cable desconectado de: " + other.gameObject.name);
         }
     }
@@ -93,6 +136,58 @@ public class CableConnection : MonoBehaviour
 
                 tiempoActual = 0f;
             }
+        }
+
+        // Mostrar el sprite después de 5 segundos sin uso
+        if (ventiladorConectado == null && !estaSiendoAgarrado)
+        {
+            tiempoInactivo += Time.deltaTime;
+
+            if (tiempoInactivo >= tiempoParaMostrarIndicador)
+            {
+                if (spriteSeleccion != null && !spriteSeleccion.activeSelf)
+                    spriteSeleccion.SetActive(true);
+            }
+        }
+        else
+        {
+            tiempoInactivo = 0f;
+        }
+
+        // 🌟 Animación suave + cambio de sprite
+        if (spriteSeleccion != null && spriteSeleccion.activeSelf && spriteSeleccionRenderer != null)
+        {
+            float deltaAlpha = velocidadFade * Time.deltaTime;
+
+            if (bajandoAlpha)
+            {
+                alphaActual -= deltaAlpha;
+                if (alphaActual <= alphaMin)
+                {
+                    alphaActual = alphaMin;
+                    bajandoAlpha = false;
+
+                    // Cambiar sprite
+                    usandoSprite1 = !usandoSprite1;
+                    spriteSeleccionRenderer.sprite = usandoSprite1 ? spriteAnimacion1 : spriteAnimacion2;
+                }
+            }
+            else
+            {
+                alphaActual += deltaAlpha;
+                if (alphaActual >= alphaMax)
+                {
+                    alphaActual = alphaMax;
+                    bajandoAlpha = true;
+
+                    // Cambiar sprite
+                    usandoSprite1 = !usandoSprite1;
+                    spriteSeleccionRenderer.sprite = usandoSprite1 ? spriteAnimacion1 : spriteAnimacion2;
+                }
+            }
+
+            Color colorActual = spriteSeleccionRenderer.color;
+            spriteSeleccionRenderer.color = new Color(colorActual.r, colorActual.g, colorActual.b, alphaActual);
         }
     }
 }
