@@ -10,6 +10,9 @@ public class CableVisual : MonoBehaviour
     public float intensidadCurva = 1f; // Escala de la curvatura
     public int segmentos = 20;
 
+    [Header("Offset manual del punto final")]
+    public Vector2 offsetFinal = Vector2.zero; // ← NUEVO
+
     private LineRenderer lr;
 
     void Start()
@@ -24,16 +27,18 @@ public class CableVisual : MonoBehaviour
         if (puntoInicio == null || puntoFinal == null) return;
 
         Vector3 p0 = puntoInicio.position;
-        Vector3 p2 = puntoFinal.position;
+
+        // Aplicamos el offset al punto final
+        Vector3 p2 = puntoFinal.position + new Vector3(offsetFinal.x, offsetFinal.y, 0f);
 
         // Dirección entre los puntos
         Vector3 dir = (p2 - p0);
         float distancia = dir.magnitude;
 
-        // Calculamos una normal 2D (perpendicular)
+        // Normal perpendicular 2D
         Vector3 normal = Vector3.Cross(dir.normalized, Vector3.forward);
 
-        // Punto de control en el medio + curvatura que aumenta con la distancia
+        // Punto de control con curvatura dinámica
         float curvaturaDinamica = distancia * intensidadCurva * 0.5f;
         Vector3 p1 = (p0 + p2) / 2 + normal * curvaturaDinamica;
 
