@@ -6,6 +6,8 @@ public class ArrastrarCable2D : MonoBehaviour
     private bool arrastrando = false;
     private Camera camara;
     private Vector3 offset;
+    public AudioSource audioSource;
+    public AudioClip sonidoConexion;
 
     public UnityEngine.Events.UnityEvent alConectar;
 
@@ -13,6 +15,13 @@ public class ArrastrarCable2D : MonoBehaviour
     public Transform puntoConexion;                     // Transform del destino
     public float distanciaConexion = 0.5f;              // Rango de snap
     public bool conectado = false;
+
+    [Header("Indicador visual")]
+    public SpriteRenderer indicadorContorno;
+    public SpriteRenderer indicadorRelleno;
+    public float velocidadParpadeo = 2f;
+    [Range(0f, 1f)] public float alphaMin = 0.2f;
+    [Range(0f, 1f)] public float alphaMax = 1f;
 
     //[Header("Cambio visual al conectar")]
     //public SpriteRenderer spriteDelDestino;             // SpriteRenderer del conector en el destino
@@ -50,7 +59,12 @@ public class ArrastrarCable2D : MonoBehaviour
                     spriteDelDestino.sprite = spriteConectado;
                 } */
 
-                Debug.Log("¡Conectado!");
+                //Debug.Log("¡Conectado!");
+
+                if (audioSource != null && sonidoConexion != null)
+                {
+                    audioSource.PlayOneShot(sonidoConexion);
+                }
             }
         }
     }
@@ -62,6 +76,28 @@ public class ArrastrarCable2D : MonoBehaviour
             Vector3 pos = camara.ScreenToWorldPoint(Input.mousePosition) + offset;
             pos.z = 0f;
             transform.position = pos;
+        }
+        // Animar parpadeo mientras no está conectado
+        if (!conectado)
+        {
+            if (indicadorRelleno != null)
+            {
+                float t = (Mathf.Sin(Time.time * velocidadParpadeo) + 1f) / 2f;
+                float alpha = Mathf.Lerp(alphaMin, alphaMax, t);
+
+                Color c = indicadorRelleno.color;
+                c.a = alpha;
+                indicadorRelleno.color = c;
+            }
+        }
+        else
+        {
+            // Ocultar ambos cuando se conecta
+            if (indicadorContorno != null)
+                indicadorContorno.enabled = false;
+
+            if (indicadorRelleno != null)
+                indicadorRelleno.enabled = false;
         }
     }
 }

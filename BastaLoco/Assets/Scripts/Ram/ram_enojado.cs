@@ -29,6 +29,7 @@ public class ram_enojado : MonoBehaviour
     if (gestor.conexionesCompletas)
     {
         animator.SetBool("Enojado", false);
+        animator.SetBool("saltando", true);
         enojado = false;
         return;
     }
@@ -56,6 +57,7 @@ public class ram_enojado : MonoBehaviour
     if (gestor.conexionesCompletas && enojado)
     {
         animator.SetBool("Enojado", false);
+        animator.SetBool("saltando", true);
         enojado = false;
     }
 }

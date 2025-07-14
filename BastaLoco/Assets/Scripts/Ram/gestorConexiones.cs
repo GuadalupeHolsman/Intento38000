@@ -22,6 +22,8 @@ public class gestorConexiones : MonoBehaviour
     private int pasoActual = 0;
     public bool conexionesCompletas = false;
     private bool escenaCompletada = false;
+    public AudioSource audioSource;
+    public AudioClip sonidoFinal;
 
     void Update()
     {
@@ -54,6 +56,12 @@ public class gestorConexiones : MonoBehaviour
             if (pasoActual >= pasos.Count)
             {
                 conexionesCompletas = true;
+                if (audioSource != null && sonidoFinal != null)
+                {
+                    audioSource.clip = sonidoFinal;
+                    audioSource.loop = true;
+                    audioSource.Play();
+                }
             }
         }
 

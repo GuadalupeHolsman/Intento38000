@@ -16,6 +16,8 @@ public class caminaYDesaparece : MonoBehaviour
     public float pausaAntesDeRegresar = 1f;
     public float tiempoEsperaAntesDeReiniciar = 2f;
     public float tiempoInicialDeEspera = 2f;
+    public AudioSource audioSource;
+    public AudioClip sonidoBolita;
 
     private Animator animator;
 
@@ -111,6 +113,11 @@ public class caminaYDesaparece : MonoBehaviour
         animator.Play("ram_dejaBolita");
 
         yield return new WaitForSeconds(pausaAntesDeDejarBolita);
+        
+        if (audioSource != null && sonidoBolita != null)
+        {
+            audioSource.PlayOneShot(sonidoBolita);
+        }
 
         if (bolitaHija != null)
             bolitaHija.SetActive(false);
