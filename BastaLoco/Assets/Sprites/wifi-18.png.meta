@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wifi-18_0: 4657189569710489098
+      wifi-18_1: -2990769788361120933
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

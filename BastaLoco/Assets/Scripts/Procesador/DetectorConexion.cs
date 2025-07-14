@@ -26,6 +26,16 @@ public class DetectorConexion : MonoBehaviour
     public float tiempoEntreFrames = 0.3f; // Más lento para que dure más
     public int repeticionesAnimacion = 3;  // Cantidad de veces que titilea la animación
 
+    // Sonidos para feedback
+    public AudioClip sonidoCorrecto;
+    public AudioClip sonidoIncorrecto;
+
+    private AudioSource audioSource;
+
+    // Nuevos parámetros para offsets en inspector
+    public Vector3 offsetBolita = Vector3.zero;
+    public Vector3 offsetRaya = Vector3.zero;
+
     // Variables internas
     public bool conectado = false;
     private Vector3 offset;
@@ -42,6 +52,12 @@ public class DetectorConexion : MonoBehaviour
     void Start()
     {
         camara = Camera.main;
+
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
 
         if (indicadorSeleccion != null)
         {
@@ -114,10 +130,16 @@ public class DetectorConexion : MonoBehaviour
         if (distancia < 0.1f)
         {
             Debug.Log("¡Conexión correcta! Posición aceptada.");
-            Instantiate(bolitaPrefab, posicionCorrecta.position, Quaternion.identity);
+            Instantiate(bolitaPrefab, posicionCorrecta.position + offsetBolita, Quaternion.identity);
             transform.position = posicionCorrecta.position;
             conectado = true;
             bienConectado = true;
+
+            // Reproducir sonido correcto
+            if (sonidoCorrecto != null && audioSource != null)
+            {
+                audioSource.PlayOneShot(sonidoCorrecto);
+            }
 
             if (animacionCorrectaGO != null && spritesCorrecto.Length > 0)
             {
@@ -127,9 +149,15 @@ public class DetectorConexion : MonoBehaviour
         else if (distancia < tolerancia)
         {
             Debug.Log("Conexión aceptada, pero no perfecta.");
-            Instantiate(rayaPrefab, transform.position, Quaternion.identity);
+            Instantiate(rayaPrefab, transform.position + offsetRaya, Quaternion.identity);
             malConectado = true;
             conectado = true;
+
+            // Reproducir sonido incorrecto
+            if (sonidoIncorrecto != null && audioSource != null)
+            {
+                audioSource.PlayOneShot(sonidoIncorrecto);
+            }
 
             if (animacionIncorrectaGO != null && spritesIncorrecto.Length > 0)
             {
@@ -139,6 +167,12 @@ public class DetectorConexion : MonoBehaviour
         else
         {
             Debug.Log("Posición incorrecta. Reintentá.");
+
+            // Reproducir sonido incorrecto
+            if (sonidoIncorrecto != null && audioSource != null)
+            {
+                audioSource.PlayOneShot(sonidoIncorrecto);
+            }
 
             if (animacionIncorrectaGO != null && spritesIncorrecto.Length > 0)
             {

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bailecito_0: 5432238246360377438
+      bailecito_1: -8568196290553956868
+      bailecito_2: -7208410179035634209
+      bailecito_3: -7478346396197126099
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
