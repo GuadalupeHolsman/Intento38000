@@ -9,7 +9,7 @@ public class DragCable : MonoBehaviour
 
     void Start()
     {
-        cableManager = FindObjectOfType<CableManager>();
+        cableManager = Object.FindFirstObjectByType<CableManager>();
     }
 
     void Update()

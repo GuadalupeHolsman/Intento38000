@@ -8,6 +8,11 @@ public class puntosCable : MonoBehaviour
     private PolygonCollider2D zonaValida;
     private CablePadre cablePadre;
 
+    [Header("Sprites de parpadeo")]
+    public SpriteRenderer contornoSprite;
+    public SpriteRenderer rellenoSprite;
+    public float velocidadParpadeo = 2f;
+
     void Start()
     {
         cam = Camera.main;
@@ -20,22 +25,29 @@ public class puntosCable : MonoBehaviour
     {
         arrastrando = true;
         offset = transform.position - cam.ScreenToWorldPoint(Input.mousePosition);
+
+        // Ocultar sprites al arrastrar
+        if (contornoSprite != null) contornoSprite.enabled = false;
+        if (rellenoSprite != null) rellenoSprite.enabled = false;
     }
 
     void OnMouseUp()
-{
-    arrastrando = false;
+    {
+        arrastrando = false;
 
-    // Validamos si el punto está dentro del collider de la zona válida
+        // Volver a mostrar sprites cuando se suelta
+        if (contornoSprite != null) contornoSprite.enabled = true;
+        if (rellenoSprite != null) rellenoSprite.enabled = true;
+
+        // Validar posición
         if (zonaValida != null && !zonaValida.OverlapPoint(transform.position))
         {
-            // Notificamos al cable padre
             if (cablePadre != null)
                 cablePadre.EliminarPunto(transform);
 
-            Destroy(gameObject); // eliminamos el punto
+            Destroy(gameObject);
         }
-}
+    }
 
     void Update()
     {
@@ -45,5 +57,13 @@ public class puntosCable : MonoBehaviour
             pos.z = 0f;
             transform.position = pos;
         }
-    } 
+
+        // Parpadeo del relleno si NO se está arrastrando
+        if (!arrastrando && rellenoSprite != null)
+        {
+            Color c = rellenoSprite.color;
+            c.a = Mathf.PingPong(Time.time * velocidadParpadeo, 1f);
+            rellenoSprite.color = c;
+        }
+    }
 }

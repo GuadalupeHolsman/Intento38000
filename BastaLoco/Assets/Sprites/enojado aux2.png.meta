@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: c28fc598cef4d478786b83f1b15ce931
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1481317580283535491
+    second: enojado aux2_0
+  - first:
+      213: 5442846435756053456
+    second: enojado aux2_1
+  - first:
+      213: 7763537412963605801
+    second: enojado aux2_2
+  - first:
+      213: 1362066584187069144
+    second: enojado aux2_3
+  - first:
+      213: -5200933528428290247
+    second: enojado aux2_4
+  - first:
+      213: 7950295571727548686
+    second: enojado aux2_5
+  - first:
+      213: -8386222562573667659
+    second: enojado aux2_6
+  - first:
+      213: 6941988927164161793
+    second: enojado aux2_7
+  - first:
+      213: 6195371566606958914
+    second: enojado aux2_8
+  - first:
+      213: 5239726469893201870
+    second: enojado aux2_9
+  - first:
+      213: 6158518225363714994
+    second: enojado aux2_10
+  - first:
+      213: 6885169859361086079
+    second: enojado aux2_11
+  - first:
+      213: 3384451368976175522
+    second: enojado aux2_12
+  - first:
+      213: -7462405768588658185
+    second: enojado aux2_13
+  - first:
+      213: -4827421840596972806
+    second: enojado aux2_14
+  - first:
+      213: 7237147724953405937
+    second: enojado aux2_15
+  - first:
+      213: -4734631781976474193
+    second: enojado aux2_16
+  - first:
+      213: -7092949555404239012
+    second: enojado aux2_17
+  - first:
+      213: 1247664135156471263
+    second: enojado aux2_18
+  - first:
+      213: -3015952483585922603
+    second: enojado aux2_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enojado aux2_0
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 96
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f98a3528d417be0800000000000000
+      internalID: -1481317580283535491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 90
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d39d32feffd88b40800000000000000
+      internalID: 5442846435756053456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 102
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d9624e420adbb60800000000000000
+      internalID: 7763537412963605801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 128
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d266ee775807e210800000000000000
+      internalID: 1362066584187069144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_4
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 116
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fdc99f28292d7b0800000000000000
+      internalID: -5200933528428290247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_5
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 126
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e018e2433bf155e60800000000000000
+      internalID: 7950295571727548686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_6
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 104
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b23e6ee2072e9b80800000000000000
+      internalID: -8386222562573667659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_7
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 107
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f90562626e65060800000000000000
+      internalID: 6941988927164161793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_8
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 108
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241c9278d916af550800000000000000
+      internalID: 6195371566606958914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_9
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 137
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf123e867f37b840800000000000000
+      internalID: 5239726469893201870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 178
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3c29d52b3777550800000000000000
+      internalID: 6158518225363714994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 82
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a917502890d8f50800000000000000
+      internalID: 6885169859361086079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 202
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1d867a69cf7fe20800000000000000
+      internalID: 3384451368976175522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 133
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f97271bd75307890800000000000000
+      internalID: -7462405768588658185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 181
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa414aa96d810db0800000000000000
+      internalID: -4827421840596972806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_15
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 110
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9cfd403838f6460800000000000000
+      internalID: 7237147724953405937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_16
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 182
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad740dba753b4eb0800000000000000
+      internalID: -4734631781976474193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_17
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 123
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f8d5c95f7c09d90800000000000000
+      internalID: -7092949555404239012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_18
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 0
+        width: 178
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd51ff6abe7905110800000000000000
+      internalID: 1247664135156471263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enojado aux2_19
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 89
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d96764023f2526d0800000000000000
+      internalID: -3015952483585922603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0b27accbfe41c486f8f36e7ae912cea2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      enojado aux2_0: -1481317580283535491
+      enojado aux2_1: 5442846435756053456
+      enojado aux2_10: 6158518225363714994
+      enojado aux2_11: 6885169859361086079
+      enojado aux2_12: 3384451368976175522
+      enojado aux2_13: -7462405768588658185
+      enojado aux2_14: -4827421840596972806
+      enojado aux2_15: 7237147724953405937
+      enojado aux2_16: -4734631781976474193
+      enojado aux2_17: -7092949555404239012
+      enojado aux2_18: 1247664135156471263
+      enojado aux2_19: -3015952483585922603
+      enojado aux2_2: 7763537412963605801
+      enojado aux2_3: 1362066584187069144
+      enojado aux2_4: -5200933528428290247
+      enojado aux2_5: 7950295571727548686
+      enojado aux2_6: -8386222562573667659
+      enojado aux2_7: 6941988927164161793
+      enojado aux2_8: 6195371566606958914
+      enojado aux2_9: 5239726469893201870
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

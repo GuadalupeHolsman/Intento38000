@@ -9,6 +9,12 @@ public class aux_hombrecito_cayendo : MonoBehaviour
     public float velocidadCaminar = 2f;
     public float tiempoTirado = 1.5f;
 
+    [Header("Sonidos")]
+    public AudioSource audioSource;
+    public AudioClip sonidoEsperando;
+    public AudioClip sonidoTirado;
+    public AudioClip sonidoCaminando;
+
     private Animator animator;
     private Transform conectorPadre;
     private Vector3 ultimaPosConector;
@@ -21,6 +27,10 @@ public class aux_hombrecito_cayendo : MonoBehaviour
         animator = GetComponent<Animator>();
         conectorPadre = transform.parent;
         ultimaPosConector = conectorPadre.position;
+
+        // Opcional: sonido inicial
+        if (sonidoEsperando != null && audioSource != null)
+            audioSource.PlayOneShot(sonidoEsperando);
     }
 
     void Update()
@@ -43,6 +53,10 @@ public class aux_hombrecito_cayendo : MonoBehaviour
                     estadoActual = Estado.Tirado;
                     animator.SetBool("cayendo", false);
                     animator.SetBool("tirado", true);
+
+                    if (sonidoTirado != null && audioSource != null)
+                        audioSource.PlayOneShot(sonidoTirado);
+
                     StartCoroutine(EsperarYCaminar());
                 }
                 break;
@@ -61,5 +75,8 @@ public class aux_hombrecito_cayendo : MonoBehaviour
         animator.SetBool("tirado", false);
         animator.SetBool("caminando", true);
         estadoActual = Estado.Caminando;
+
+        if (sonidoCaminando != null && audioSource != null)
+            audioSource.PlayOneShot(sonidoCaminando);
     }
 }

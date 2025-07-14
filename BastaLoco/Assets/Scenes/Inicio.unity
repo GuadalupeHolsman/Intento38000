@@ -1941,6 +1941,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1770979628}
   - component: {fileID: 1770979627}
+  - component: {fileID: 1770979629}
   m_Layer: 0
   m_Name: VideoPantalla
   m_TagString: Untagged
@@ -1966,8 +1967,8 @@ VideoPlayer:
   m_TargetMaterialProperty: <noninit>
   m_RenderMode: 0
   m_AspectRatio: 2
-  m_DataSource: 0
-  m_TimeUpdateMode: 2
+  m_DataSource: 1
+  m_TimeUpdateMode: 1
   m_PlaybackSpeed: 1
   m_AudioOutputMode: 2
   m_TargetAudioSources:
@@ -1999,6 +2000,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1770979629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1770979626}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97fecc0a281564f7eb56482b5a2c3403, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  videoURL: https://camifarina.github.io/videoTaller4_1/intro_roto_sintexto.mp4
 --- !u!1 &1785325904
 GameObject:
   m_ObjectHideFlags: 0
@@ -2357,6 +2371,7 @@ MonoBehaviour:
   puntoB: {fileID: 1924009626}
   velocidad: 1
   tiempoEspera: 0
+  cableManager: {fileID: 0}
 --- !u!212 &1908870797
 SpriteRenderer:
   m_ObjectHideFlags: 0

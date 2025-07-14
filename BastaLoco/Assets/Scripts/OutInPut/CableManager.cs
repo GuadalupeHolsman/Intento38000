@@ -42,6 +42,13 @@ public class CableManager : MonoBehaviour
     public Vector3 offsetAzul;
     public Vector3 offsetRosa;
 
+    [Header("Sonido conexión")]
+    public AudioClip sonidoConexion;
+    public AudioSource audioSource;
+
+    // Internamente llevamos control de qué cables ya sonaban
+    private bool[] yaSonaron = new bool[3];
+
     public bool escenaCompletada = false;
 
     private bool[] cableTocado = new bool[3];
@@ -96,13 +103,34 @@ public class CableManager : MonoBehaviour
 
         SpriteRenderer sr = cable.GetComponent<SpriteRenderer>();
 
-        if (d1 < threshold || d2 < threshold || d3 < threshold)
+        /* if (d1 < threshold || d2 < threshold || d3 < threshold)
         {
             sr.sprite = spriteConectado;
         }
         else
         {
             sr.sprite = spriteSuelto;
+        } */
+        
+        bool estaConectado = (d1 < threshold || d2 < threshold || d3 < threshold);
+
+        int index = GetCableIndex(cable);
+        if (estaConectado)
+        {
+            sr.sprite = spriteConectado;
+
+            if (index != -1 && !yaSonaron[index] && audioSource != null && sonidoConexion != null)
+            {
+                audioSource.PlayOneShot(sonidoConexion);
+                yaSonaron[index] = true;
+            }
+        }
+        else
+        {
+            sr.sprite = spriteSuelto;
+
+            if (index != -1)
+                yaSonaron[index] = false; // se desconectó, permite volver a sonar si reconecta
         }
     }
 

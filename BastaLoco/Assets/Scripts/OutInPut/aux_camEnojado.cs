@@ -24,18 +24,18 @@ public class aux_camEnojado : MonoBehaviour
 
     void Update()
     {
-        if (cableManager != null && cableManager.GetEscenaCompletada())
+        if (cableManager != null && cableManager.escenaCompletada)
         {
             if (!escenaYaCompletada)
             {
                 escenaYaCompletada = true;
+                Debug.Log("Escena completada: se activa animación 'bien'");
 
-                // Activar animación "bien" y detener el movimiento
                 if (animator != null)
                     animator.SetBool("bien", true);
             }
 
-            return; // ← Detiene el movimiento completamente
+            return;
         }
         if (esperando) return;
 

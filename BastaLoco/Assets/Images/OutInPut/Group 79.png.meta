@@ -120,11 +120,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 8
+        y: 0
         width: 488
-        height: 178
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 188
+      alignment: 9
+      pivot: {x: 0.542771, y: 0.4895916}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -142,11 +142,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 518
-        y: 10
+        y: 0
         width: 487
-        height: 178
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 188
+      alignment: 9
+      pivot: {x: 0.54017943, y: 0.65265614}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
