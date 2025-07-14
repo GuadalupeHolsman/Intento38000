@@ -7,18 +7,36 @@ public class aux_camEnojado : MonoBehaviour
     public float velocidad = 2f;
     public float tiempoEspera = 1f;
 
+    public CableManager cableManager;
+    private Animator animator;
+
     private bool yendoA = true;
     private bool esperando = false;
+    private bool escenaYaCompletada = false;
 
     private Vector3 escalaOriginal;
 
     void Start()
     {
         escalaOriginal = transform.localScale;
+        animator = GetComponent<Animator>();
     }
 
     void Update()
     {
+        if (cableManager != null && cableManager.GetEscenaCompletada())
+        {
+            if (!escenaYaCompletada)
+            {
+                escenaYaCompletada = true;
+
+                // Activar animación "bien" y detener el movimiento
+                if (animator != null)
+                    animator.SetBool("bien", true);
+            }
+
+            return; // ← Detiene el movimiento completamente
+        }
         if (esperando) return;
 
         Transform destino = yendoA ? puntoB : puntoA;

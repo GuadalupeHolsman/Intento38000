@@ -42,7 +42,7 @@ public class CableManager : MonoBehaviour
     public Vector3 offsetAzul;
     public Vector3 offsetRosa;
 
-    private bool escenaCompletada = false;
+    public bool escenaCompletada = false;
 
     private bool[] cableTocado = new bool[3];
     private float[] tiempoUltimoToque = new float[3];
@@ -176,5 +176,10 @@ public class CableManager : MonoBehaviour
         if (cable == cableAzul) return 1;
         if (cable == cableRosa) return 2;
         return -1;
+    }
+
+    public bool GetEscenaCompletada()
+    {
+        return escenaCompletada;
     }
 }
