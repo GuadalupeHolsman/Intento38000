@@ -38,7 +38,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Error.unity
     guid: e88fb56e43bf149228f5151f8e67f4ba
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/cinematica.unity
     guid: 69b4c207de8cb7d4291acb326c2fca87
   m_configObjects:
